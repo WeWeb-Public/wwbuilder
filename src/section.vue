@@ -1,12 +1,11 @@
 <template>
 	<div class="_wwbuilder_A  " ww-min-height="100">
-        <div class="background" ww-object="data.background" ww-category="background">
-        </div>
+        <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
-        <div ww-vertical-align-table ww-min-height="100">
+        <div v-ww-vertical-align-table v-ww-min-height="100">
             <div class="contents">
-                <div class="row-container container-fluid" v-for="row in data.rows">
-                    <div ww-columns="row"></div>
+                <div class="row-container container-fluid" v-for="row in section.data.rows">
+                    <div v-ww-columns="row"></div>
                 </div>
             </div>
         </div>
@@ -15,7 +14,7 @@
 
 <script>
 export default {
-	name: "_wwbuilder_A",
+	name: "wwbuilder_A",
 	props: {
 		section: Object
 	},
@@ -140,7 +139,7 @@ export default {
 		
 	},
 	created: function () {
-		
+		console.log('CREATED :', JSON.parse(JSON.stringify(this.section.data.rows[0])))
 	},
 	mounted: function () {
 
