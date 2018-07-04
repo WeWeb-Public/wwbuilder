@@ -1,11 +1,11 @@
 <template>
-	<div class="_wwbuilder_A  " ww-min-height="100">
+	<div class="_wwbuilder_A  " v-ww-min-height="100">
         <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
-        <div v-ww-vertical-align-table v-ww-min-height="100">
+        <div v-ww-vertical-align>
             <div class="contents">
                 <div class="row-container container-fluid" v-for="row in section.data.rows">
-                    <div v-ww-columns="row"></div>
+                    <wwColumns v-bind:ww-columns="row"></wwColumns>
                 </div>
             </div>
         </div>
