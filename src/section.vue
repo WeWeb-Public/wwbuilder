@@ -138,9 +138,7 @@ export default {
     beforeDestroy: function () {
 
     },
-    created: function () {
-        console.log('CREATED :', JSON.parse(JSON.stringify(this.section.data.rows[0])))
-    },
+    created: function () {},
     mounted: function () {
 
     }
