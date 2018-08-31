@@ -5,7 +5,8 @@
         <div v-ww-vertical-align>
             <div class="contents">
                 <div class="row-container container-fluid" v-for="(row, index) in section.data.rows" :key="index">
-                    <wwColumns v-bind:ww-columns="row" v-ww-min-height="100"></wwColumns>
+                    <!--<wwColumns v-bind:ww-columns="row" v-ww-min-height="100"></wwColumns>-->
+                    <wwObject v-bind:ww-object="row"></wwObject>
                 </div>
             </div>
         </div>
