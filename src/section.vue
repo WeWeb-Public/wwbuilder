@@ -1,15 +1,8 @@
 <template>
-    <div class="_wwbuilder_A  " v-ww-min-height="100">
+    <div class="_wwbuilder_A ww-section-height-100">
         <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
-        <div v-ww-vertical-align>
-            <div class="contents">
-                <div class="row-container container-fluid" v-for="(row, index) in section.data.rows" :key="index">
-                    <!--<wwColumns v-bind:ww-columns="row" v-ww-min-height="100"></wwColumns>-->
-                    <wwObject v-bind:ww-object="row"></wwObject>
-                </div>
-            </div>
-        </div>
+        <wwObject v-bind:ww-object="row" v-for="(row, index) in section.data.rows" :key="index" ww-row-default-height="100%"></wwObject>
     </div>
 </template>
 
@@ -17,7 +10,13 @@
 export default {
     name: "wwbuilder_A",
     props: {
-        section: Object
+        sectionRef: Object
+    },
+    computed: {
+        section() {
+            //return this.sectionRef.wwGet();
+            return this.$store.state.sections[this.sectionRef.id];
+        }
     },
     methods: {
         addRow: function () {
@@ -139,7 +138,7 @@ export default {
     beforeDestroy: function () {
 
     },
-    created: function () {},
+    created: function () { },
     mounted: function () {
 
     }
@@ -150,6 +149,7 @@ export default {
 <style scoped>
 ._wwbuilder_A {
   position: relative;
+  flex-basis: 100%;
 }
 
 ._wwbuilder_A .background {
@@ -158,42 +158,5 @@ export default {
   height: 100%;
   top: 0;
   left: 0;
-}
-
-._wwbuilder_A .contents {
-  position: relative;
-  width: 100%;
-}
-
-._wwbuilder_A .top-padding-edit {
-  height: 50px;
-  width: 100%;
-}
-
-._wwbuilder_A .ww-add-block-container {
-  position: relative;
-  text-align: center;
-  padding: 15px;
-}
-
-._wwbuilder_A .ww-add-block {
-  position: relative;
-  height: 100px;
-  width: 100px;
-  display: inline-block;
-}
-
-._wwbuilder_A .row-container {
-  width: 100%;
-  position: relative;
-}
-
-._wwbuilder_A .row-container.editing {
-  padding-left: 100px;
-}
-
-._wwbuilder_A .row-container > .edit-button-top-left {
-  top: 2px;
-  left: 2px;
 }
 </style>
