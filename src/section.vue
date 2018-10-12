@@ -1,8 +1,8 @@
 <template>
     <div class="_wwbuilder_A ww-section-height-100">
-        <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
+        <wwObject v-bind:ww-object-ref="section.data.background" class="background" ww-category="background"></wwObject>
 
-        <wwObject v-bind:ww-object="row" v-for="(row, index) in section.data.rows" :key="index" ww-row-default-height="100%"></wwObject>
+        <wwObject v-bind:ww-object-ref="row" v-for="(row, index) in section.data.rows" :key="index" ww-row-default-height="100%"></wwObject>
     </div>
 </template>
 
