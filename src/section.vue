@@ -4,9 +4,9 @@
         <wwSectionEditMenu v-bind:section="section"></wwSectionEditMenu>
         <!-- wwManager:end -->
 
-        <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
+        <wwObject v-bind:ww-object="section.data.background" v-bind:section="section" class="background" ww-category="background"></wwObject>
 
-        <wwObject v-bind:ww-object="row" v-for="(row, index) in section.data.rows" :key="index" ww-row-default-height="100%"></wwObject>
+        <wwObject v-for="(row, index) in section.data.rows" :key="index" v-bind:ww-object="row" v-bind:section="section" ww-row-default-height="100%"></wwObject>
     </div>
 </template>
 
