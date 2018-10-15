@@ -1,8 +1,12 @@
 <template>
     <div class="_wwbuilder_A ww-section-height-100">
-        <wwObject v-bind:ww-object-ref="section.data.background" class="background" ww-category="background"></wwObject>
+        <!-- wwManager:start -->
+        <wwSectionEditMenu v-bind:section="section"></wwSectionEditMenu>
+        <!-- wwManager:end -->
 
-        <wwObject v-bind:ww-object-ref="row" v-for="(row, index) in section.data.rows" :key="index" ww-row-default-height="100%"></wwObject>
+        <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
+
+        <wwObject v-bind:ww-object="row" v-for="(row, index) in section.data.rows" :key="index" ww-row-default-height="100%"></wwObject>
     </div>
 </template>
 
@@ -10,13 +14,10 @@
 export default {
     name: "wwbuilder_A",
     props: {
-        sectionRef: Object
+        section: Object
     },
     computed: {
-        section() {
-            //return this.sectionRef.wwGet();
-            return this.$store.state.sections[this.sectionRef.id];
-        }
+
     },
     methods: {
         addRow: function () {
