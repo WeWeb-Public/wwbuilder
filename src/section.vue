@@ -6,7 +6,9 @@
 
         <wwObject v-bind:ww-object="section.data.background" v-bind:section="section" class="background" ww-category="background"></wwObject>
 
-        <wwObject v-for="(row, index) in section.data.rows" :key="index" v-bind:ww-object="row" v-bind:section="section" ww-row-default-height="100%"></wwObject>
+        <wwLayoutColumn tag="div" ww-default="ww-image" v-bind:ww-list="section.data.rows" class="wwobjects-wrapper">
+            <wwObject v-for="row in section.data.rows" :key="row.uniqueId" v-bind:ww-object="row" v-bind:section="section" ww-row-default-height="100"></wwObject>
+        </wwLayoutColumn>
     </div>
 </template>
 
@@ -146,11 +148,10 @@ export default {
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 ._wwbuilder_A {
   position: relative;
-  flex-basis: 100%;
+  /*flex-basis: 100%;*/
 }
 
 ._wwbuilder_A .background {
@@ -159,5 +160,9 @@ export default {
   height: 100%;
   top: 0;
   left: 0;
+}
+
+.wwobjects-wrapper {
+  min-height: 100%;
 }
 </style>
