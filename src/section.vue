@@ -1,14 +1,14 @@
 <template>
-    <div class="_wwbuilder_A ww-section-height-100">
+    <div class="wwbuilder_A ww-section-height-100">
         <!-- wwManager:start -->
-        <wwSectionEditMenu v-bind:section="section"></wwSectionEditMenu>
+        <wwSectionEditMenu v-bind:sectionCtrl="sectionCtrl"></wwSectionEditMenu>
         <!-- wwManager:end -->
 
-        <wwObject v-bind:ww-object="section.data.background" v-bind:section="section" class="background" ww-category="background"></wwObject>
+        <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
-        <wwLayoutColumn tag="div" ww-default="ww-image" v-bind:ww-list="section.data.rows" class="wwobjects-wrapper">
-            <wwObject v-for="row in section.data.rows" :key="row.uniqueId" v-bind:ww-object="row" v-bind:section="section" ww-row-default-height="100"></wwObject>
-        </wwLayoutColumn>
+        <div ww-default="ww-image" ww-add="addRow" class="wwobjects-wrapper ww-layout-column">
+            <wwObject v-for="row in section.data.rows" :key="row.uniqueId" v-bind:ww-object="row" ww-row-default-height="100"></wwObject>
+        </div>
     </div>
 </template>
 
@@ -16,13 +16,21 @@
 export default {
     name: "wwbuilder_A",
     props: {
-        section: Object
+        sectionCtrl: Object
+    },
+    data() {
+        return {
+            section: this.sectionCtrl.get()
+        }
     },
     computed: {
-
     },
     methods: {
         addRow: function () {
+
+            console.log('ADD ROW')
+
+            /*
             if (!this.section.data.rows) {
                 this.section.data.rows = [];
             }
@@ -128,9 +136,11 @@ export default {
             };
 
             const newRow = JSON.parse(JSON.stringify(defaultRow));
-            newRow.uniqueId = wwUtils.getUniqueId();
+            newRow.uniqueId = wwLib.wwUtils.getUniqueId();
 
             this.section.data.rows.push(newRow);
+
+            */
         },
 
         removeRow: function (row) {
@@ -141,20 +151,20 @@ export default {
     beforeDestroy: function () {
 
     },
-    created: function () { },
+    created: function () {
+    },
     mounted: function () {
-
     }
 };
 </script>
 
 <style scoped>
-._wwbuilder_A {
+.wwbuilder_A {
   position: relative;
   /*flex-basis: 100%;*/
 }
 
-._wwbuilder_A .background {
+.wwbuilder_A .background {
   position: absolute;
   width: 100%;
   height: 100%;
