@@ -6,9 +6,9 @@
 
         <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
-        <div ww-default="ww-image" ww-add="addRow" class="wwobjects-wrapper ww-layout-column">
+        <wwLayoutColumn tag='div' ww-default="ww-row" :ww-list="section.data.rows" class="wwobjects-wrapper">
             <wwObject v-for="row in section.data.rows" :key="row.uniqueId" v-bind:ww-object="row" ww-row-default-height="100"></wwObject>
-        </div>
+        </wwLayoutColumn>
     </div>
 </template>
 
@@ -20,133 +20,20 @@ export default {
     },
     data() {
         return {
-            section: this.sectionCtrl.get()
+
         }
     },
     computed: {
+        section() {
+            return this.sectionCtrl.get();
+        }
+    },
+    watch: {
+        section() {
+
+        }
     },
     methods: {
-        addRow: function () {
-
-            console.log('ADD ROW')
-
-            /*
-            if (!this.section.data.rows) {
-                this.section.data.rows = [];
-            }
-
-            const defaultRow = {
-                config: {
-                    count: 3,
-                    xs: null,
-                    sm: [{
-                        offset: 0,
-                        width: 33.2,
-                        borders: [
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                        ]
-                    }, {
-                        offset: 0,
-                        width: 33.2,
-                        borders: [
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                        ]
-                    }, {
-                        offset: 0,
-                        width: 33.2,
-                        borders: [
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                            {
-                                width: 0,
-                                color: "#000000",
-                                style: "solid"
-                            },
-                        ]
-                    }
-                    ],
-                    md: null,
-                    lg: null
-                },
-                data: [
-                    {
-                        background: null,
-                        wwObjects: []
-                    },
-                    {
-                        background: null,
-                        wwObjects: []
-                    },
-                    {
-                        background: null,
-                        wwObjects: []
-                    }
-                ]
-            };
-
-            const newRow = JSON.parse(JSON.stringify(defaultRow));
-            newRow.uniqueId = wwLib.wwUtils.getUniqueId();
-
-            this.section.data.rows.push(newRow);
-
-            */
-        },
-
-        removeRow: function (row) {
-            const index = this.section.data.rows.indexOf(row);
-            this.section.data.rows.splice(index, 1);
-        },
     },
     beforeDestroy: function () {
 
