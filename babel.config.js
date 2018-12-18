@@ -1,5 +1,3 @@
 module.exports = {
-  presets: [
-    '@vue/app'
-  ]
+    presets: ['babel-preset-es2015']
 }

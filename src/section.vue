@@ -3,10 +3,9 @@
         <!-- wwManager:start -->
         <wwSectionEditMenu v-bind:sectionCtrl="sectionCtrl"></wwSectionEditMenu>
         <!-- wwManager:end -->
-
         <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
-        <wwLayoutColumn tag='div' ww-default="ww-row" :ww-list="section.data.rows" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
+        <wwLayoutColumn tag="div" ww-default="ww-row" :ww-list="section.data.rows" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
             <wwObject v-for="row in section.data.rows" :key="row.uniqueId" v-bind:ww-object="row" ww-row-default-height="100"></wwObject>
         </wwLayoutColumn>
     </div>
@@ -81,19 +80,19 @@ export default {
 
 <style scoped>
 .wwbuilder_A {
-  position: relative;
-  /*flex-basis: 100%;*/
+    position: relative;
+    /*flex-basis: 100%;*/
 }
 
 .wwbuilder_A .background {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
 }
 
 .wwobjects-wrapper {
-  min-height: 100%;
+    min-height: 100%;
 }
 </style>
