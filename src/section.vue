@@ -24,6 +24,7 @@ export default {
     },
     computed: {
         section() {
+            console.log(this.sectionCtrl.get())
             return this.sectionCtrl.get();
         }
     },
