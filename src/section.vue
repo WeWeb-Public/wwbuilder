@@ -1,5 +1,5 @@
 <template>
-    <div class="wwbuilder_A ww-section-height-100">
+    <div class="wwbuilder_A">
         <!-- wwManager:start -->
         <wwSectionEditMenu v-bind:sectionCtrl="sectionCtrl"></wwSectionEditMenu>
         <!-- wwManager:end -->
@@ -81,7 +81,7 @@ export default {
 <style scoped>
 .wwbuilder_A {
     position: relative;
-    /*flex-basis: 100%;*/
+    flex-basis: 100%;
 }
 
 .wwbuilder_A .background {
