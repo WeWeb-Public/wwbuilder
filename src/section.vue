@@ -1,12 +1,12 @@
 <template>
     <div class="wwbuilder_A">
         <!-- wwManager:start -->
-        <wwSectionEditMenu v-bind:sectionCtrl="sectionCtrl"></wwSectionEditMenu>
+        <wwSectionEditMenu :sectionCtrl="sectionCtrl"></wwSectionEditMenu>
         <!-- wwManager:end -->
-        <wwObject v-bind:ww-object="section.data.background" class="background" ww-category="background"></wwObject>
+        <wwObject :ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
         <wwLayoutColumn tag="div" ww-default="ww-row" :ww-list="section.data.rows" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
-            <wwObject v-for="row in section.data.rows" :key="row.uniqueId" v-bind:ww-object="row" ww-row-default-height="100"></wwObject>
+            <wwObject v-for="row in section.data.rows" :key="row.uniqueId" :ww-object="row" ww-row-default-height="20"></wwObject>
         </wwLayoutColumn>
     </div>
 </template>
@@ -24,14 +24,10 @@ export default {
     },
     computed: {
         section() {
-            console.log(this.sectionCtrl.get())
             return this.sectionCtrl.get();
         }
     },
     watch: {
-        section() {
-
-        }
     },
     methods: {
         initData() {
@@ -82,7 +78,7 @@ export default {
 <style scoped>
 .wwbuilder_A {
     position: relative;
-    flex-basis: 100%;
+    min-height: 60px;
 }
 
 .wwbuilder_A .background {

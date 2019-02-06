@@ -31,7 +31,8 @@
         "webpack": "^4.9.1",
         "webpack-cli": "^2.1.4",
         "webpack-dev-server": "^3.1.14",
-        "weweb-strip-block": "^0.0.2"
+        "weweb-strip-block": "^0.0.2",
+        "weweb-upload": "^1.0.12"
     },
     "browserslist": [
         "> 1%",
