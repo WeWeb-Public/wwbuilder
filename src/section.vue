@@ -5,8 +5,8 @@
         <!-- wwManager:end -->
         <wwObject :ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
-        <wwLayoutColumn tag="div" ww-default="ww-row" :ww-list="section.data.rows" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
-            <wwObject v-for="row in section.data.rows" :key="row.uniqueId" :ww-object="row" ww-row-default-height="100"></wwObject>
+        <wwLayoutColumn tag="div" ww-default="ww-columns" :ww-list="section.data.rows" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
+            <wwObject v-for="row in section.data.rows" :key="row.uniqueId" :ww-object="row" ww-columns-default-height="100"></wwObject>
         </wwLayoutColumn>
     </div>
 </template>
