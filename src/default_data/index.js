@@ -1,7 +1,20 @@
 module.exports = [
     {
-        name: "duo",
-        desc: "This is a section type !",
-        data: 'duo/duo.json'
+        name: 'duo',
+        storeName: {
+            en_GB: "The Duo Section"
+        },
+        storeDesc: {
+            en_GB: "This section is very good, use it !"
+        }
+    },
+    {
+        name: 'trio',
+        storeName: {
+            en_GB: "The Trio Section"
+        },
+        storeDesc: {
+            en_GB: "This section is very good, use it !"
+        },
     }
 ]

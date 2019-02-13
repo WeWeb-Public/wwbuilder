@@ -1,10 +1,8 @@
 import section from './section.vue'
 
-const name = "wwbuilder_A";
-
 const addComponent = function () {
     if (window.vm) {
-        window.vm.addComponent(name, section);
+        window.vm.addComponent("__NAME__", section);
         return true;
     }
     return false;
