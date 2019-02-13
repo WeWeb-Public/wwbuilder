@@ -13,7 +13,7 @@
 
 <script>
 export default {
-    name: "__NAME__",
+    name: "__COMPONENT_NAME__",
     props: {
         sectionCtrl: Object
     },

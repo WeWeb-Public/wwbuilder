@@ -1,20 +1,11 @@
 module.exports = [
     {
-        name: 'duo',
+        name: 'my_section',
         storeName: {
-            en_GB: "The Duo Section"
+            en_GB: "My first section"
         },
         storeDesc: {
-            en_GB: "This section is very good, use it !"
+            en_GB: "Template for my first section"
         }
-    },
-    {
-        name: 'trio',
-        storeName: {
-            en_GB: "The Trio Section"
-        },
-        storeDesc: {
-            en_GB: "This section is very good, use it !"
-        },
     }
 ]
