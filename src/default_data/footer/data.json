@@ -1,0 +1,557 @@
+{
+    "columns": [
+        {
+            "uniqueId": 928351123914.1904,
+            "wwVersion": 3,
+            "content": {
+                "type": "ww-columns",
+                "data": {
+                    "config": {
+                        "count": 1,
+                        "xs": {
+                            "height": 0,
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "offset": 0,
+                                    "width": "100",
+                                    "borders": [],
+                                    "align": "1"
+                                }
+                            ]
+                        },
+                        "sm": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0
+                        },
+                        "md": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0
+                        },
+                        "lg": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0
+                        },
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "background": {
+                                "uniqueId": 863295085179.3878,
+                                "wwVersion": 3,
+                                "content": {
+                                    "type": "ww-color",
+                                    "data": {
+                                        "backgroundColor": "transparent",
+                                        "style": {
+                                            "borderRadius": 0,
+                                            "borderWidth": 0,
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "boxShadow": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "b": 0,
+                                                "s": 0,
+                                                "c": ""
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": {
+                                    "type": "none",
+                                    "data": {}
+                                },
+                                "ratio": -1,
+                                "paddings": {},
+                                "hidden": false,
+                                "tags": [],
+                                "children": {},
+                                "data": {},
+                                "anim": {},
+                                "new": false
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 394955190104.5289,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr_FR": "<span style=\"font-size:1.5rem\"><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"color: rgb(255, 255, 255); text-align: initial;\">CONTACTS</span></div></span>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "lg": {
+                                            "top": 40,
+                                            "bottom": 40,
+                                            "left": "0",
+                                            "right": "0"
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        },
+                        {
+                            "background": {
+                                "uniqueId": 517387499127.83954,
+                                "wwVersion": 3,
+                                "content": {
+                                    "type": "ww-color",
+                                    "data": {
+                                        "backgroundColor": "transparent",
+                                        "style": {
+                                            "borderRadius": 0,
+                                            "borderWidth": 0,
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "boxShadow": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "b": 0,
+                                                "s": 0,
+                                                "c": ""
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": {
+                                    "type": "none",
+                                    "data": {}
+                                },
+                                "ratio": -1,
+                                "paddings": {},
+                                "hidden": false,
+                                "tags": [],
+                                "children": {},
+                                "data": {},
+                                "anim": {},
+                                "new": false
+                            },
+                            "wwObjects": []
+                        },
+                        {
+                            "background": {
+                                "uniqueId": 1360940552191.2622,
+                                "wwVersion": 3,
+                                "content": {
+                                    "type": "ww-color",
+                                    "data": {
+                                        "backgroundColor": "transparent",
+                                        "style": {
+                                            "borderRadius": 0,
+                                            "borderWidth": 0,
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "boxShadow": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "b": 0,
+                                                "s": 0,
+                                                "c": ""
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": {
+                                    "type": "none",
+                                    "data": {}
+                                },
+                                "ratio": -1,
+                                "paddings": {},
+                                "hidden": false,
+                                "tags": [],
+                                "children": {},
+                                "data": {},
+                                "anim": {},
+                                "new": false
+                            },
+                            "wwObjects": []
+                        }
+                    ]
+                }
+            },
+            "link": {
+                "type": "none",
+                "data": {}
+            },
+            "ratio": -1,
+            "paddings": {},
+            "hidden": false,
+            "tags": [],
+            "children": {},
+            "data": {},
+            "anim": {},
+            "new": false
+        },
+        {
+            "uniqueId": 1036922969267.3293,
+            "wwVersion": 3,
+            "content": {
+                "type": "ww-columns",
+                "data": {
+                    "config": {
+                        "count": 3,
+                        "xs": {
+                            "height": 0,
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "offset": "10",
+                                    "width": "80",
+                                    "borders": [],
+                                    "align": "1"
+                                },
+                                {
+                                    "offset": "10",
+                                    "width": "80",
+                                    "borders": [],
+                                    "align": "1"
+                                },
+                                {
+                                    "offset": "10",
+                                    "width": "80",
+                                    "borders": [],
+                                    "align": "1"
+                                }
+                            ]
+                        },
+                        "sm": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0
+                        },
+                        "md": {
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "align": "1",
+                                    "width": "20",
+                                    "offset": "20"
+                                },
+                                {
+                                    "align": "1",
+                                    "width": "20",
+                                    "offset": 0
+                                },
+                                {
+                                    "align": "1",
+                                    "width": "20",
+                                    "offset": 0
+                                }
+                            ],
+                            "height": 0
+                        },
+                        "lg": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0
+                        },
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "background": {
+                                "uniqueId": 947246056231.1129,
+                                "wwVersion": 3,
+                                "content": {
+                                    "type": "ww-color",
+                                    "data": {
+                                        "backgroundColor": "transparent",
+                                        "style": {
+                                            "borderRadius": 0,
+                                            "borderWidth": 0,
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "boxShadow": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "b": 0,
+                                                "s": 0,
+                                                "c": ""
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": {
+                                    "type": "none",
+                                    "data": {}
+                                },
+                                "ratio": -1,
+                                "paddings": {},
+                                "hidden": false,
+                                "tags": [],
+                                "children": {},
+                                "data": {},
+                                "anim": {},
+                                "new": false
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 1501023693955.7432,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr_FR": "<div data-v-625b7cc1=\"\"><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">Marie Martins</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 85 41</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 20 93 26 16</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">marie.martins@eu.jll.com</font></div></div>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "md": {
+                                            "top": 20,
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "right": "0"
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        },
+                        {
+                            "background": {
+                                "uniqueId": 1065348749930.4995,
+                                "wwVersion": 3,
+                                "content": {
+                                    "type": "ww-color",
+                                    "data": {
+                                        "backgroundColor": "transparent",
+                                        "style": {
+                                            "borderRadius": 0,
+                                            "borderWidth": 0,
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "boxShadow": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "b": 0,
+                                                "s": 0,
+                                                "c": ""
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": {
+                                    "type": "none",
+                                    "data": {}
+                                },
+                                "ratio": -1,
+                                "paddings": {},
+                                "hidden": false,
+                                "tags": [],
+                                "children": {},
+                                "data": {},
+                                "anim": {},
+                                "new": false
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 1481525248599.3127,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr_FR": "<font data-v-625b7cc1=\"\" color=\"#ffffff\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Matthieu Le Dret</span></font><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 64 33</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 76 48 70 91</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">matthieu.ledret@eu.jll.com</font></div>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "md": {
+                                            "top": 20,
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "right": "0"
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        },
+                        {
+                            "background": {
+                                "uniqueId": 522440141604.5425,
+                                "wwVersion": 3,
+                                "content": {
+                                    "type": "ww-color",
+                                    "data": {
+                                        "backgroundColor": "transparent",
+                                        "style": {
+                                            "borderRadius": 0,
+                                            "borderWidth": 0,
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "boxShadow": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "b": 0,
+                                                "s": 0,
+                                                "c": ""
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": {
+                                    "type": "none",
+                                    "data": {}
+                                },
+                                "ratio": -1,
+                                "paddings": {},
+                                "hidden": false,
+                                "tags": [],
+                                "children": {},
+                                "data": {},
+                                "anim": {},
+                                "new": false
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 68933758367.36597,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr_FR": "<div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">Thibault Garçonnat</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 85 32</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 74 69 63 24</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">thibault.garconnat@eu.jll.com</font></div>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "md": {
+                                            "top": 20,
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "right": "0"
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "link": {
+                "type": "none",
+                "data": {}
+            },
+            "ratio": -1,
+            "paddings": {
+                "lg": {
+                    "top": 0,
+                    "bottom": 100,
+                    "left": "0",
+                    "right": "0"
+                }
+            },
+            "hidden": false,
+            "tags": [],
+            "children": {},
+            "data": {},
+            "anim": {},
+            "new": false
+        }
+    ],
+    "isNew": false,
+    "background": {
+        "data": {},
+        "link": {
+            "data": {},
+            "type": "none"
+        },
+        "tags": [],
+        "ratio": 100,
+        "hidden": false,
+        "content": {
+            "data": {
+                "backgroundColor": "#000000",
+                "style": {},
+                "gradient": null
+            },
+            "type": "ww-color"
+        },
+        "children": {},
+        "paddings": {},
+        "uniqueId": 1530281093013.8206,
+        "wwVersion": 3,
+        "anim": {},
+        "new": false
+    },
+    "sectionTitle": "Footer"
+}
