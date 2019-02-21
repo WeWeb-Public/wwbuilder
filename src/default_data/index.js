@@ -18,15 +18,6 @@ module.exports = [
         }
     },
     {
-        name: 'usecases',
-        storeName: {
-            en_GB: "Use cases"
-        },
-        storeDesc: {
-            en_GB: "Landing for JLL"
-        }
-    },
-    {
         name: 'propositions',
         storeName: {
             en_GB: "Propositions"
@@ -42,6 +33,15 @@ module.exports = [
         },
         storeDesc: {
             en_GB: "Landing for JLL"
+        }
+    },
+    {
+        name: 'tooljll',
+        storeName: {
+            en_GB: "JLL Tools"
+        },
+        storeDesc: {
+            en_GB: "JLL Tools"
         }
     }
 ]
