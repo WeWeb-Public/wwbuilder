@@ -11,7 +11,7 @@
                                 "type": "ww-text",
                                 "data": {
                                     "text": {
-                                        "fr_FR": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:2rem\">Proposition financière</span></span></div>"
+                                        "fr": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:2rem\">Proposition financière</span></span></div>"
                                     },
                                     "tag": "div",
                                     "align": "",
@@ -49,7 +49,7 @@
                                 "type": "ww-text",
                                 "data": {
                                     "text": {
-                                        "fr_FR": "Nouveau texte"
+                                        "fr": "Nouveau texte"
                                     },
                                     "tag": "div",
                                     "align": "",
@@ -113,8 +113,8 @@
                             "content": {
                                 "data": {
                                     "alt": {
-                                        "en_GB": "webeo",
-                                        "fr_FR": "Logo WeWeb"
+                                        "en": "webeo",
+                                        "fr": "Logo WeWeb"
                                     },
                                     "url": "https://wewebprod.s3.eu-west-1.amazonaws.com/designs/19/sections/IKR3baZCs4nbJfiqFFLJ124z5PoYPeY9.gif",
                                     "zoom": 0.8895843516482164,
@@ -178,8 +178,8 @@
                                     "font": "Raleway Light",
                                     "size": 1.5,
                                     "text": {
-                                        "en_GB": "Your modern web agency.",
-                                        "fr_FR": "Build bespoke websites easily. Seamlessly integrate them in an ultra intuitive CMS for your clients."
+                                        "en": "Your modern web agency.",
+                                        "fr": "Build bespoke websites easily. Seamlessly integrate them in an ultra intuitive CMS for your clients."
                                     },
                                     "align": "center",
                                     "color": "#000000",
@@ -251,8 +251,8 @@
                                                     "content": {
                                                         "data": {
                                                             "alt": {
-                                                                "en_GB": "webeo",
-                                                                "fr_FR": "webeo"
+                                                                "en": "webeo",
+                                                                "fr": "webeo"
                                                             },
                                                             "url": "/img/no_image_selected.png",
                                                             "zoom": -1,
@@ -288,15 +288,15 @@
                                             },
                                             "type": "ww-link-ext"
                                         },
-                                        "en_GB": "<div>Conception, Design, Development.</div>",
-                                        "fr_FR": "",
+                                        "en": "<div>Conception, Design, Development.</div>",
+                                        "fr": "",
                                         "content": {
                                             "data": {
                                                 "tag": "div",
                                                 "font": "",
                                                 "size": "",
                                                 "text": {
-                                                    "fr_FR": ""
+                                                    "fr": ""
                                                 },
                                                 "align": "",
                                                 "color": "",
@@ -364,8 +364,8 @@
                                     "text": {
                                         "data": {
                                             "text": {
-                                                "en_GB": "[[wwObject=1]]  Get a free quote",
-                                                "fr_FR": " [[wwObject=0]] Faire un devis en ligne"
+                                                "en": "[[wwObject=1]]  Get a free quote",
+                                                "fr": " [[wwObject=0]] Faire un devis en ligne"
                                             },
                                             "children": {
                                                 "0": {
@@ -445,8 +445,8 @@
                                                 "font": "",
                                                 "size": "",
                                                 "text": {
-                                                    "en_GB": "[[wwObject=1]]  Get a free quote",
-                                                    "fr_FR": " [[wwObject=0]]  Join the open beta"
+                                                    "en": "[[wwObject=1]]  Get a free quote",
+                                                    "fr": " [[wwObject=0]]  Join the open beta"
                                                 },
                                                 "align": "",
                                                 "color": "#000000",
@@ -518,7 +518,7 @@
                                 "data": {
                                     "icon": "fa fa-long-arrow-down",
                                     "text": {
-                                        "fr_FR": ""
+                                        "fr": ""
                                     },
                                     "color": "#c23c4e",
                                     "classes": [
@@ -619,8 +619,8 @@
                                 "data": {
                                     "id": "XMfOE_ONuF4",
                                     "alt": {
-                                        "en_GB": "Weweb video",
-                                        "fr_FR": "Demo weweb"
+                                        "en": "Weweb video",
+                                        "fr": "Demo weweb"
                                     },
                                     "loop": false,
                                     "muted": false,
@@ -678,8 +678,8 @@
                                     "content": {
                                         "data": {
                                             "alt": {
-                                                "en_GB": "webeo",
-                                                "fr_FR": "webeo"
+                                                "en": "webeo",
+                                                "fr": "webeo"
                                             },
                                             "url": "/img/no_image_selected.png",
                                             "zoom": -1,
@@ -803,7 +803,7 @@
                                         "type": "ww-text",
                                         "data": {
                                             "text": {
-                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size:2rem\">Proposition financière</span></span></div>"
+                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size:2rem\">Proposition financière</span></span></div>"
                                             },
                                             "tag": "div",
                                             "align": "",
@@ -841,7 +841,7 @@
                                         "type": "ww-text",
                                         "data": {
                                             "text": {
-                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><div data-v-625b7cc1=\"\"></div><span style=\"font-size:1rem\"><div data-v-625b7cc1=\"\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</div><div data-v-625b7cc1=\"\">ut labore et dolore magna aliqua. Ut enim ad minim veniam</div></span><div data-v-625b7cc1=\"\"></div></div>"
+                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><div data-v-625b7cc1=\"\"></div><span style=\"font-size:1rem\"><div data-v-625b7cc1=\"\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</div><div data-v-625b7cc1=\"\">ut labore et dolore magna aliqua. Ut enim ad minim veniam</div></span><div data-v-625b7cc1=\"\"></div></div>"
                                             },
                                             "tag": "div",
                                             "align": "",
@@ -1057,7 +1057,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">A - Phase préparatoire</span></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><br data-v-625b7cc1=\"\"></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Etat des lieux, cadrage, étude</span></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><strike data-v-625b7cc1=\"\" style=\"text-align: start; color: rgb(255, 0, 0);\"><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><strike data-v-625b7cc1=\"\" style=\"text-align: initial;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strike></div></strike></div>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">A - Phase préparatoire</span></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><br data-v-625b7cc1=\"\"></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Etat des lieux, cadrage, étude</span></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><strike data-v-625b7cc1=\"\" style=\"text-align: start; color: rgb(255, 0, 0);\"><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><strike data-v-625b7cc1=\"\" style=\"text-align: initial;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strike></div></strike></div>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1095,7 +1095,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"font-size: 19.2px; text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><b data-v-625b7cc1=\"\">Forfait</b></span></div><div data-v-625b7cc1=\"\" style=\"font-size: 19.2px; text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><b data-v-625b7cc1=\"\">20 000€</b></span></div><div data-v-625b7cc1=\"\" style=\"font-size: 19.2px; text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><b data-v-625b7cc1=\"\">HT</b></span></div>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"font-size: 19.2px; text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><b data-v-625b7cc1=\"\">Forfait</b></span></div><div data-v-625b7cc1=\"\" style=\"font-size: 19.2px; text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><b data-v-625b7cc1=\"\">20 000€</b></span></div><div data-v-625b7cc1=\"\" style=\"font-size: 19.2px; text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><b data-v-625b7cc1=\"\">HT</b></span></div>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1133,7 +1133,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Honoraires facturables</span></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">à la remise du livrable</span></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">final</span></div>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Honoraires facturables</span></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">à la remise du livrable</span></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">final</span></div>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1303,7 +1303,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\">B - Choix du nouveau bâtiment</div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><br data-v-625b7cc1=\"\"></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\">Acquisition de votre nouveau Siège</div><strike data-v-625b7cc1=\"\" style=\"color: rgb(255, 0, 0);\"><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><strike data-v-625b7cc1=\"\" style=\"text-align: initial;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strike></div></strike>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\">B - Choix du nouveau bâtiment</div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><br data-v-625b7cc1=\"\"></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\">Acquisition de votre nouveau Siège</div><strike data-v-625b7cc1=\"\" style=\"color: rgb(255, 0, 0);\"><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><strike data-v-625b7cc1=\"\" style=\"text-align: initial;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strike></div></strike>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1341,7 +1341,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>Si Prix &lt; 30 M€ HD :</b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>1,25 % du prix de vente HD</b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b><br></b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>Si Prix &gt; 30 M€ HD :</b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>1,00 % du prix de vente HD</b></div>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>Si Prix &lt; 30 M€ HD :</b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>1,25 % du prix de vente HD</b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b><br></b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>Si Prix &gt; 30 M€ HD :</b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>1,00 % du prix de vente HD</b></div>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1379,7 +1379,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\">Honoraires facturables à la signature</div><div data-v-625b7cc1=\"\" style=\"text-align: center;\">de l'acte authentique / du bail</div>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\">Honoraires facturables à la signature</div><div data-v-625b7cc1=\"\" style=\"text-align: center;\">de l'acte authentique / du bail</div>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1549,7 +1549,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\">C - Session ou location du bâtiment actuel</div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><br data-v-625b7cc1=\"\"></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\">Vente du siège actuel</div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><font data-v-625b7cc1=\"\" color=\"#ff0000\"><span data-v-625b7cc1=\"\"><strike data-v-625b7cc1=\"\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strike></span></font></span></div>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\">C - Session ou location du bâtiment actuel</div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><br data-v-625b7cc1=\"\"></div><div data-v-625b7cc1=\"\" style=\"text-align: center;\">Vente du siège actuel</div><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><font data-v-625b7cc1=\"\" color=\"#ff0000\"><span data-v-625b7cc1=\"\"><strike data-v-625b7cc1=\"\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strike></span></font></span></div>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1587,7 +1587,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>Pour client : 0€</b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b><br></b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>Les honoraires sont dus par l'acquéreur à hauteur de 2,25 % du prix de cession HD</b></div>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>Pour client : 0€</b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b><br></b></div><div data-v-625b7cc1=\"\" style=\"text-align: center; font-size: 19.2px;\"><b>Les honoraires sont dus par l'acquéreur à hauteur de 2,25 % du prix de cession HD</b></div>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1625,7 +1625,7 @@
                                                                                         "type": "ww-text",
                                                                                         "data": {
                                                                                             "text": {
-                                                                                                "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><div data-v-625b7cc1=\"\">Honoraires facturables à la signature</div><div data-v-625b7cc1=\"\">de l'acte authentique / du bail</div></div>"
+                                                                                                "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><div data-v-625b7cc1=\"\">Honoraires facturables à la signature</div><div data-v-625b7cc1=\"\">de l'acte authentique / du bail</div></div>"
                                                                                             },
                                                                                             "tag": "div",
                                                                                             "align": "",
@@ -1712,8 +1712,8 @@
                                                     "type": "ww-text",
                                                     "data": {
                                                         "text": {
-                                                            "fr_FR": "<font color=\"#ffffff\">Voir proposition détaillée</font>",
-                                                            "en_GB": "New Button"
+                                                            "fr": "<font color=\"#ffffff\">Voir proposition détaillée</font>",
+                                                            "en": "New Button"
                                                         },
                                                         "tag": "div",
                                                         "align": "",
@@ -1821,8 +1821,8 @@
             "data": {
                 "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/U0rHkCh6HuQucvM6lwlIXO7SskEsoWDy.png",
                 "alt": {
-                    "fr_FR": "webeo",
-                    "en_GB": "webeo"
+                    "fr": "webeo",
+                    "en": "webeo"
                 },
                 "position": {
                     "x": 0,

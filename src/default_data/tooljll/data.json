@@ -18,7 +18,7 @@
                     "font": "",
                     "size": "",
                     "text": {
-                        "fr_FR": "<div data-v-ce08abda=\"\" style=\"text-align: center;\" data-v-625b7cc1=\"\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\" data-v-625b7cc1=\"\"><span data-v-ce08abda=\"\" style=\"font-size:2rem\" data-v-625b7cc1=\"\">Pourquoi JLL</span></span></div>"
+                        "fr": "<div data-v-ce08abda=\"\" style=\"text-align: center;\" data-v-625b7cc1=\"\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\" data-v-625b7cc1=\"\"><span data-v-ce08abda=\"\" style=\"font-size:2rem\" data-v-625b7cc1=\"\">Pourquoi JLL</span></span></div>"
                     },
                     "align": "",
                     "color": "",
@@ -218,7 +218,7 @@
                                                             "font": "",
                                                             "size": "",
                                                             "text": {
-                                                                "fr_FR": "Une équipe expérimentée pour définir vos besoins <br data-v-ce08abda=\"\">et le périmètre de votre recherche"
+                                                                "fr": "Une équipe expérimentée pour définir vos besoins <br data-v-ce08abda=\"\">et le périmètre de votre recherche"
                                                             },
                                                             "align": "",
                                                             "color": "",
@@ -330,7 +330,7 @@
                                                                     "font": "",
                                                                     "size": "",
                                                                     "text": {
-                                                                        "fr_FR": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+                                                                        "fr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
                                                                     },
                                                                     "align": "",
                                                                     "color": "",
@@ -523,7 +523,7 @@
                                                             "font": "",
                                                             "size": "",
                                                             "text": {
-                                                                "fr_FR": "Un accès exhaustif au marché, <br data-v-ce08abda=\"\">incluant les options non présentée."
+                                                                "fr": "Un accès exhaustif au marché, <br data-v-ce08abda=\"\">incluant les options non présentée."
                                                             },
                                                             "align": "",
                                                             "color": "",
@@ -635,7 +635,7 @@
                                                                     "font": "",
                                                                     "size": "",
                                                                     "text": {
-                                                                        "fr_FR": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+                                                                        "fr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
                                                                     },
                                                                     "align": "",
                                                                     "color": "",
@@ -772,7 +772,7 @@
                     "font": "",
                     "size": "",
                     "text": {
-                        "fr_FR": "<div data-v-ce08abda=\"\" style=\"text-align: center;\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\">Nous ne cessons d'innover</span></div>"
+                        "fr": "<div data-v-ce08abda=\"\" style=\"text-align: center;\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\">Nous ne cessons d'innover</span></div>"
                     },
                     "align": "",
                     "color": "",
@@ -880,8 +880,8 @@
                                                     "content": {
                                                         "data": {
                                                             "alt": {
-                                                                "en_GB": "webeo",
-                                                                "fr_FR": "webeo"
+                                                                "en": "webeo",
+                                                                "fr": "webeo"
                                                             },
                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/2/sections/OcaGV1tyIzVxV5uQX566DgH5fZqGm7D8.png",
                                                             "zoom": 0.547584762403456,
@@ -1089,8 +1089,8 @@
                                                     "content": {
                                                         "data": {
                                                             "alt": {
-                                                                "en_GB": "webeo",
-                                                                "fr_FR": "webeo"
+                                                                "en": "webeo",
+                                                                "fr": "webeo"
                                                             },
                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/2/sections/wzzrYEfiIMdIEqZqBI1wP21oVsQWOlUm.png",
                                                             "zoom": 0.8356951590095375,
@@ -1156,7 +1156,7 @@
                                                             "font": "",
                                                             "size": "",
                                                             "text": {
-                                                                "fr_FR": "<div data-v-ce08abda=\"\" style=\"text-align: center;\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\">WISe-tool : détermination du gabarit, benchmark et ambiances</span></div>"
+                                                                "fr": "<div data-v-ce08abda=\"\" style=\"text-align: center;\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\">WISe-tool : détermination du gabarit, benchmark et ambiances</span></div>"
                                                             },
                                                             "align": "",
                                                             "color": "",
@@ -1257,7 +1257,7 @@
                                                                             "font": "",
                                                                             "size": "",
                                                                             "text": {
-                                                                                "fr_FR": "Présentation vidéo de WISe-tool:\n<br data-v-ce08abda=\"\"><a data-v-ce08abda=\"\" target=\"_blank\" class=\"ww-text-link\" href=\"http://bcove.me/t0jjjzsk\"><u data-v-ce08abda=\"\"><font data-v-ce08abda=\"\" color=\"#0010a5\">EN FRANÇAIS</font></u></a>&nbsp;<br data-v-ce08abda=\"\"><a data-v-ce08abda=\"\" target=\"_blank\" class=\"ww-text-link\" href=\"http://bcove.me/utcyawrc\"><u data-v-ce08abda=\"\"><font data-v-ce08abda=\"\" color=\"#ff0000\">EN ANGLAIS</font></u></a>"
+                                                                                "fr": "Présentation vidéo de WISe-tool:\n<br data-v-ce08abda=\"\"><a data-v-ce08abda=\"\" target=\"_blank\" class=\"ww-text-link\" href=\"http://bcove.me/t0jjjzsk\"><u data-v-ce08abda=\"\"><font data-v-ce08abda=\"\" color=\"#0010a5\">EN FRANÇAIS</font></u></a>&nbsp;<br data-v-ce08abda=\"\"><a data-v-ce08abda=\"\" target=\"_blank\" class=\"ww-text-link\" href=\"http://bcove.me/utcyawrc\"><u data-v-ce08abda=\"\"><font data-v-ce08abda=\"\" color=\"#ff0000\">EN ANGLAIS</font></u></a>"
                                                                             },
                                                                             "align": "",
                                                                             "color": "",
@@ -1340,8 +1340,8 @@
                                                     "content": {
                                                         "data": {
                                                             "alt": {
-                                                                "en_GB": "webeo",
-                                                                "fr_FR": "webeo"
+                                                                "en": "webeo",
+                                                                "fr": "webeo"
                                                             },
                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/2/sections/uiXRzAwQimmzUQm4dZ403Fp0mdpJ6jlx.jpg",
                                                             "zoom": 0.5193747065484575,
@@ -1407,7 +1407,7 @@
                                                             "font": "",
                                                             "size": "",
                                                             "text": {
-                                                                "fr_FR": "<div data-v-ce08abda=\"\" style=\"text-align: center;\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\">Tableau d’analyses financières</span></div>"
+                                                                "fr": "<div data-v-ce08abda=\"\" style=\"text-align: center;\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\">Tableau d’analyses financières</span></div>"
                                                             },
                                                             "align": "",
                                                             "color": "",
@@ -1442,8 +1442,8 @@
                                                     "content": {
                                                         "data": {
                                                             "alt": {
-                                                                "en_GB": "webeo",
-                                                                "fr_FR": "webeo"
+                                                                "en": "webeo",
+                                                                "fr": "webeo"
                                                             },
                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/2/sections/uY6xOZcgMx1obSnrPcjltwN8RcSt0qh7.jpg",
                                                             "zoom": 0.5193747065484575,
@@ -1516,7 +1516,7 @@
                                                             "font": "",
                                                             "size": "",
                                                             "text": {
-                                                                "fr_FR": "<div data-v-ce08abda=\"\" style=\"text-align: center;\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\">Typologies d’espaces de travail</span></div>"
+                                                                "fr": "<div data-v-ce08abda=\"\" style=\"text-align: center;\"><span data-v-ce08abda=\"\" style=\"text-align: initial;\">Typologies d’espaces de travail</span></div>"
                                                             },
                                                             "align": "",
                                                             "color": "",
@@ -1606,8 +1606,8 @@
                                                 "font": "",
                                                 "size": "",
                                                 "text": {
-                                                    "en_GB": "New Button",
-                                                    "fr_FR": "<font data-v-ce08abda=\"\" color=\"#ffffff\">FERMER</font>"
+                                                    "en": "New Button",
+                                                    "fr": "<font data-v-ce08abda=\"\" color=\"#ffffff\">FERMER</font>"
                                                 },
                                                 "align": "",
                                                 "color": "",
@@ -1749,8 +1749,8 @@
                                 "font": "",
                                 "size": "",
                                 "text": {
-                                    "en_GB": "New Button",
-                                    "fr_FR": "<font data-v-ce08abda=\"\" color=\"#ffffff\">Découvrez nos outils</font>"
+                                    "en": "New Button",
+                                    "fr": "<font data-v-ce08abda=\"\" color=\"#ffffff\">Découvrez nos outils</font>"
                                 },
                                 "align": "",
                                 "color": "",
@@ -1829,8 +1829,8 @@
         "content": {
             "data": {
                 "alt": {
-                    "en_GB": "webeo",
-                    "fr_FR": "webeo"
+                    "en": "webeo",
+                    "fr": "webeo"
                 },
                 "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/2/sections/zm7iOQzoBUG2sCyX8CGab0ay45xtxygQ.png",
                 "zoom": 1,

@@ -224,8 +224,8 @@
                                     "content": {
                                         "data": {
                                             "alt": {
-                                                "en_GB": "webeo",
-                                                "fr_FR": "webeo"
+                                                "en": "webeo",
+                                                "fr": "webeo"
                                             },
                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/2/sections/iHGaEpiRir7Wgmbb7t0vT92GmC8lp3Ya.png",
                                             "zoom": 0.7751525400889603,
@@ -292,7 +292,7 @@
                                             "font": "",
                                             "size": "",
                                             "text": {
-                                                "fr_FR": "<span data-v-ce08abda=\"\" style=\"font-size:2rem\"><font data-v-ce08abda=\"\" color=\"#ffffff\">Proposition</font></span>"
+                                                "fr": "<span data-v-ce08abda=\"\" style=\"font-size:2rem\"><font data-v-ce08abda=\"\" color=\"#ffffff\">Proposition</font></span>"
                                             },
                                             "align": "",
                                             "color": "",
@@ -323,7 +323,7 @@
                                             "font": "",
                                             "size": "",
                                             "text": {
-                                                "fr_FR": "<font data-v-ce08abda=\"\" data-v-4a2b4a8c=\"\" color=\"#ffffff\"><br data-v-ce08abda=\"\">Implémentation précise et et agile d'une stratégie immobilière pour le siège de ABN Amro Paris</font>"
+                                                "fr": "<font data-v-ce08abda=\"\" data-v-4a2b4a8c=\"\" color=\"#ffffff\"><br data-v-ce08abda=\"\">Implémentation précise et et agile d'une stratégie immobilière pour le siège de ABN Amro Paris</font>"
                                             },
                                             "align": "",
                                             "color": "",
@@ -484,8 +484,8 @@
                                     "content": {
                                         "data": {
                                             "alt": {
-                                                "en_GB": "webeo",
-                                                "fr_FR": "webeo"
+                                                "en": "webeo",
+                                                "fr": "webeo"
                                             },
                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/PGc3rhz5UncX9udHs8lTdezUMDgYHJnz.png",
                                             "zoom": 0.6733727810650885,
@@ -596,8 +596,8 @@
         "content": {
             "data": {
                 "alt": {
-                    "en_GB": "webeo",
-                    "fr_FR": "webeo"
+                    "en": "webeo",
+                    "fr": "webeo"
                 },
                 "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/2/sections/SwMGoVPL79Mjf5NQ6VECLnJ7Nj1Kovm2.png",
                 "zoom": 1,

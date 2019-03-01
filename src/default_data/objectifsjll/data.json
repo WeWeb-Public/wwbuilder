@@ -157,7 +157,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"font-size: 2rem; text-align: initial;\"><font data-v-625b7cc1=\"\">Contexte et objectifs de votre projet immobilier</font></span></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"font-size: 2rem; text-align: initial;\"><font data-v-625b7cc1=\"\">Contexte et objectifs de votre projet immobilier</font></span></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -392,8 +392,8 @@
                                                                                         "data": {
                                                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/wUh4tjoIaSCEC0vn2oKR3w9AjLabTseV.png",
                                                                                             "alt": {
-                                                                                                "fr_FR": "webeo",
-                                                                                                "en_GB": "webeo"
+                                                                                                "fr": "webeo",
+                                                                                                "en": "webeo"
                                                                                             },
                                                                                             "position": {
                                                                                                 "x": 0,
@@ -480,7 +480,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><b data-v-625b7cc1=\"\"><span data-v-625b7cc1=\"\" style=\"font-size:1.2rem\">Aligner les ambitions</span></b></span></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\"><b data-v-625b7cc1=\"\"><span data-v-625b7cc1=\"\" style=\"font-size:1.2rem\">Aligner les ambitions</span></b></span></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -511,7 +511,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial;\"></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial;\"></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -549,7 +549,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -702,8 +702,8 @@
                                                                                         "data": {
                                                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/WSvi8Fkxg0NAL92MX5p0NDHTnWUuGgWx.png",
                                                                                             "alt": {
-                                                                                                "fr_FR": "webeo",
-                                                                                                "en_GB": "webeo"
+                                                                                                "fr": "webeo",
+                                                                                                "en": "webeo"
                                                                                             },
                                                                                             "position": {
                                                                                                 "x": 0,
@@ -790,7 +790,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><b data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size: 1.2rem;\">Comprendre le marché</span></b></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><b data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size: 1.2rem;\">Comprendre le marché</span></b></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -821,7 +821,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial; font-size: medium; font-weight: 400;\"></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial; font-size: medium; font-weight: 400;\"></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -859,7 +859,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
+                                                                        "fr": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1012,8 +1012,8 @@
                                                                                         "data": {
                                                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/9gFAUIEQh9g7KOaURXQsC8I0EP4PRFUc.png",
                                                                                             "alt": {
-                                                                                                "fr_FR": "webeo",
-                                                                                                "en_GB": "webeo"
+                                                                                                "fr": "webeo",
+                                                                                                "en": "webeo"
                                                                                             },
                                                                                             "position": {
                                                                                                 "x": 0,
@@ -1100,7 +1100,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><b data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size: 1.2rem;\">Identifier les opportunités</span></b></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><b data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size: 1.2rem;\">Identifier les opportunités</span></b></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1131,7 +1131,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial; font-size: medium; font-weight: 400;\"></div>"
+                                                                        "fr": "<div style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial; font-size: medium; font-weight: 400;\"></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1169,7 +1169,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
+                                                                        "fr": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1393,8 +1393,8 @@
                                                                                         "data": {
                                                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/3crDaWOdvbFofQc0d9gREbS20vYs0zws.png",
                                                                                             "alt": {
-                                                                                                "fr_FR": "webeo",
-                                                                                                "en_GB": "webeo"
+                                                                                                "fr": "webeo",
+                                                                                                "en": "webeo"
                                                                                             },
                                                                                             "position": {
                                                                                                 "x": 0,
@@ -1481,7 +1481,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><b data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size: 1.2rem;\">Faire le meilleur choix</span></b></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><b data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size: 1.2rem;\">Faire le meilleur choix</span></b></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1512,7 +1512,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial; font-size: medium; font-weight: 400;\"></div>"
+                                                                        "fr": "<div style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial; font-size: medium; font-weight: 400;\"></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1550,7 +1550,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
+                                                                        "fr": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1703,8 +1703,8 @@
                                                                                         "data": {
                                                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/r8ihkMmJfuAdudB7eyLERb0Z1nMET2xe.png",
                                                                                             "alt": {
-                                                                                                "fr_FR": "webeo",
-                                                                                                "en_GB": "webeo"
+                                                                                                "fr": "webeo",
+                                                                                                "en": "webeo"
                                                                                             },
                                                                                             "position": {
                                                                                                 "x": 0,
@@ -1791,7 +1791,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><b data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size: 1.2rem;\">Sécuriser et négocier</span></b></div>"
+                                                                        "fr": "<div data-v-625b7cc1=\"\" style=\"text-align: center;\"><b data-v-625b7cc1=\"\" style=\"text-align: initial;\"><span data-v-625b7cc1=\"\" style=\"font-size: 1.2rem;\">Sécuriser et négocier</span></b></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1822,7 +1822,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial; font-size: medium; font-weight: 400;\"></div>"
+                                                                        "fr": "<div style=\"text-align: center;\"><hr data-v-625b7cc1=\"\" width=\"25%\" style=\"text-align: initial; font-size: medium; font-weight: 400;\"></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -1860,7 +1860,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
+                                                                        "fr": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\">Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</span></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",

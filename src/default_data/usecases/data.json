@@ -64,8 +64,8 @@
                                     "data": {
                                         "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/Z7OCYNGVyvWMpECudVzcRSNUV5cIEFw6.png",
                                         "alt": {
-                                            "fr_FR": "webeo",
-                                            "en_GB": "webeo"
+                                            "fr": "webeo",
+                                            "en": "webeo"
                                         },
                                         "position": {
                                             "x": 0,
@@ -241,7 +241,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<span data-v-4a2b4a8c=\"\" style=\"font-size:2rem\">Client name<br data-v-4a2b4a8c=\"\"></span><br data-v-4a2b4a8c=\"\">"
+                                                                        "fr": "<span data-v-4a2b4a8c=\"\" style=\"font-size:2rem\">Client name<br data-v-4a2b4a8c=\"\"></span><br data-v-4a2b4a8c=\"\">"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -348,8 +348,8 @@
                                                                                         "data": {
                                                                                             "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/w5xx8Q0STe6H0OK6livvc1NZFvzrF9bX.png",
                                                                                             "alt": {
-                                                                                                "fr_FR": "webeo",
-                                                                                                "en_GB": "webeo"
+                                                                                                "fr": "webeo",
+                                                                                                "en": "webeo"
                                                                                             },
                                                                                             "position": {
                                                                                                 "x": 0,
@@ -429,7 +429,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "Nanterre <font color=\"#ff0000\">|</font> 52 000m² <font color=\"#ff0000\">|</font> 3 000 personnes <font color=\"#ff0000\">|</font> Bureaux"
+                                                                        "fr": "Nanterre <font color=\"#ff0000\">|</font> 52 000m² <font color=\"#ff0000\">|</font> 3 000 personnes <font color=\"#ff0000\">|</font> Bureaux"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -460,7 +460,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<font data-v-4a2b4a8c=\"\" color=\"#ff0000\"><i data-v-4a2b4a8c=\"\"><span data-v-4a2b4a8c=\"\" style=\"font-size:1.5rem\"><br data-v-4a2b4a8c=\"\">Regrouper les collaborateurs dans un environnement de travail moderne et économique<br data-v-4a2b4a8c=\"\"><br data-v-4a2b4a8c=\"\"></span></i></font>"
+                                                                        "fr": "<font data-v-4a2b4a8c=\"\" color=\"#ff0000\"><i data-v-4a2b4a8c=\"\"><span data-v-4a2b4a8c=\"\" style=\"font-size:1.5rem\"><br data-v-4a2b4a8c=\"\">Regrouper les collaborateurs dans un environnement de travail moderne et économique<br data-v-4a2b4a8c=\"\"><br data-v-4a2b4a8c=\"\"></span></i></font>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -491,7 +491,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<span data-v-4a2b4a8c=\"\" style=\"font-size: 1.2rem;\"><b data-v-4a2b4a8c=\"\"><br data-v-4a2b4a8c=\"\">Enjeux client<br data-v-4a2b4a8c=\"\"><br data-v-4a2b4a8c=\"\"></b></span>"
+                                                                        "fr": "<span data-v-4a2b4a8c=\"\" style=\"font-size: 1.2rem;\"><b data-v-4a2b4a8c=\"\"><br data-v-4a2b4a8c=\"\">Enjeux client<br data-v-4a2b4a8c=\"\"><br data-v-4a2b4a8c=\"\"></b></span>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -522,7 +522,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "Identifier et adapter un site à construire pour rassembler les équipes et générer des économiesEnjeux"
+                                                                        "fr": "Identifier et adapter un site à construire pour rassembler les équipes et générer des économiesEnjeux"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -553,7 +553,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<br data-v-4a2b4a8c=\"\"><b data-v-4a2b4a8c=\"\" style=\"font-size: 19.2px;\"><br data-v-4a2b4a8c=\"\">Résultat projet</b><br data-v-4a2b4a8c=\"\"><br data-v-4a2b4a8c=\"\">"
+                                                                        "fr": "<br data-v-4a2b4a8c=\"\"><b data-v-4a2b4a8c=\"\" style=\"font-size: 19.2px;\"><br data-v-4a2b4a8c=\"\">Résultat projet</b><br data-v-4a2b4a8c=\"\"><br data-v-4a2b4a8c=\"\">"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -584,7 +584,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<ul><li>Prise à bail en état futur d'achèvement d'un site développant 70.000 m²<br></li></ul><div><br></div><ul><li>Flexibilité du projet, des engagements<br></li></ul><div><br></div><ul><li>Economies substantielles<br></li></ul><div><br></div><ul><li>Nouvel environnement favorisant la transformation des modes de travailTechnipNanterre<br></li></ul>"
+                                                                        "fr": "<ul><li>Prise à bail en état futur d'achèvement d'un site développant 70.000 m²<br></li></ul><div><br></div><ul><li>Flexibilité du projet, des engagements<br></li></ul><div><br></div><ul><li>Economies substantielles<br></li></ul><div><br></div><ul><li>Nouvel environnement favorisant la transformation des modes de travailTechnipNanterre<br></li></ul>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -713,7 +713,7 @@
                                                                 "type": "ww-text",
                                                                 "data": {
                                                                     "text": {
-                                                                        "fr_FR": "<div style=\"text-align: right;\"><span style=\"text-align: initial;\">Conseil &amp; Transaction by&nbsp;&nbsp;</span></div>"
+                                                                        "fr": "<div style=\"text-align: right;\"><span style=\"text-align: initial;\">Conseil &amp; Transaction by&nbsp;&nbsp;</span></div>"
                                                                     },
                                                                     "tag": "div",
                                                                     "align": "",
@@ -784,8 +784,8 @@
                                                                 "data": {
                                                                     "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/19/sections/To0avkvibRram8dbUWyWaeUJUnTsn7X8.png",
                                                                     "alt": {
-                                                                        "fr_FR": "webeo",
-                                                                        "en_GB": "webeo"
+                                                                        "fr": "webeo",
+                                                                        "en": "webeo"
                                                                     },
                                                                     "position": {
                                                                         "x": -2.0408163265306123,

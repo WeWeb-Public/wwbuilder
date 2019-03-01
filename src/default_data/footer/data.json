@@ -82,7 +82,7 @@
                                         "type": "ww-text",
                                         "data": {
                                             "text": {
-                                                "fr_FR": "<span style=\"font-size:1.5rem\"><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"color: rgb(255, 255, 255); text-align: initial;\">CONTACTS</span></div></span>"
+                                                "fr": "<span style=\"font-size:1.5rem\"><div data-v-625b7cc1=\"\" style=\"text-align: center;\"><span data-v-625b7cc1=\"\" style=\"color: rgb(255, 255, 255); text-align: initial;\">CONTACTS</span></div></span>"
                                             },
                                             "tag": "div",
                                             "align": "",
@@ -317,7 +317,7 @@
                                         "type": "ww-text",
                                         "data": {
                                             "text": {
-                                                "fr_FR": "<div data-v-625b7cc1=\"\"><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">Marie Martins</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 85 41</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 20 93 26 16</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">marie.martins@eu.jll.com</font></div></div>"
+                                                "fr": "<div data-v-625b7cc1=\"\"><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">Marie Martins</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 85 41</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 20 93 26 16</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">marie.martins@eu.jll.com</font></div></div>"
                                             },
                                             "tag": "div",
                                             "align": "",
@@ -394,7 +394,7 @@
                                         "type": "ww-text",
                                         "data": {
                                             "text": {
-                                                "fr_FR": "<font data-v-625b7cc1=\"\" color=\"#ffffff\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Matthieu Le Dret</span></font><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 64 33</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 76 48 70 91</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">matthieu.ledret@eu.jll.com</font></div>"
+                                                "fr": "<font data-v-625b7cc1=\"\" color=\"#ffffff\"><span data-v-625b7cc1=\"\" style=\"text-align: initial;\">Matthieu Le Dret</span></font><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 64 33</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 76 48 70 91</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">matthieu.ledret@eu.jll.com</font></div>"
                                             },
                                             "tag": "div",
                                             "align": "",
@@ -471,7 +471,7 @@
                                         "type": "ww-text",
                                         "data": {
                                             "text": {
-                                                "fr_FR": "<div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">Thibault Garçonnat</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 85 32</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 74 69 63 24</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">thibault.garconnat@eu.jll.com</font></div>"
+                                                "fr": "<div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">Thibault Garçonnat</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 1 40 55 85 32</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">+33 6 74 69 63 24</font></div><div data-v-625b7cc1=\"\"><font data-v-625b7cc1=\"\" color=\"#ffffff\">thibault.garconnat@eu.jll.com</font></div>"
                                             },
                                             "tag": "div",
                                             "align": "",
