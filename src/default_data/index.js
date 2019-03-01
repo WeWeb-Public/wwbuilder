@@ -1,6 +1,7 @@
 module.exports = [
     {
         name: 'landingjll',
+        category: 'Landing',
         storeName: {
             en_GB: "Landing JLL"
         },
@@ -10,6 +11,7 @@ module.exports = [
     },
     {
         name: 'objectifsjll',
+        category: 'Features',
         storeName: {
             en_GB: "Objectifs JLL"
         },
@@ -19,6 +21,7 @@ module.exports = [
     },
     {
         name: 'propositions',
+        category: 'Features',
         storeName: {
             en_GB: "Propositions"
         },
@@ -28,6 +31,7 @@ module.exports = [
     },
     {
         name: 'footer',
+        category: 'Footer',
         storeName: {
             en_GB: "Footer"
         },
@@ -37,6 +41,7 @@ module.exports = [
     },
     {
         name: 'tooljll',
+        category: 'Features',
         storeName: {
             en_GB: "JLL Tools"
         },
