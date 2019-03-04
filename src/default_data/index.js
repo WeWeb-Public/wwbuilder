@@ -1,32 +1,22 @@
 module.exports = [
     {
-        name: 'landingjll',
+        name: 'landing',
         category: 'Landing',
         storeName: {
-            en: "Landing JLL"
+            en: "Landing"
         },
         storeDesc: {
-            en: "Landing for JLL"
+            en: "section with logo and description"
         }
     },
     {
-        name: 'objectifsjll',
+        name: 'story',
         category: 'Features',
         storeName: {
-            en: "Objectifs JLL"
+            en: "Story"
         },
         storeDesc: {
-            en: "Landing for JLL"
-        }
-    },
-    {
-        name: 'propositions',
-        category: 'Features',
-        storeName: {
-            en: "Propositions"
-        },
-        storeDesc: {
-            en: "Landing for JLL"
+            en: "section with image and texts to pass a message"
         }
     },
     {
@@ -36,17 +26,7 @@ module.exports = [
             en: "Footer"
         },
         storeDesc: {
-            en: "Landing for JLL"
-        }
-    },
-    {
-        name: 'tooljll',
-        category: 'Features',
-        storeName: {
-            en: "JLL Tools"
-        },
-        storeDesc: {
-            en: "JLL Tools"
+            en: "to end the page"
         }
     }
 ]
