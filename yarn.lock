@@ -10616,10 +10616,10 @@ websocket-extensions@>=0.1.1:
   resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
   integrity sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==
 
-weweb-client@^1.0.28:
-  version "1.0.28"
-  resolved "https://registry.yarnpkg.com/weweb-client/-/weweb-client-1.0.28.tgz#016c93b03213d400b9b5497ed94090d062981ddb"
-  integrity sha512-3sDSYP8HOQpgZgVpgLbDCnyAnOmZ775iLkeKCFZWy81aOsSvfKuCNxglWuv1llKfiWjBG6QZaP42lhNMYsKLbA==
+weweb-client@^1.0.29:
+  version "1.0.29"
+  resolved "https://registry.yarnpkg.com/weweb-client/-/weweb-client-1.0.29.tgz#e874ec268c11d133b0aa1a2c51923676f6923e3d"
+  integrity sha512-9Jg86e6XM8ZmY/wsAWCdWUrv3g+zOalbe3SVBO/NGjY8A7V7tvGs8qsp0WFpiBAFycdACm6DJqvlcvGkY2tO0g==
   dependencies:
     axios "^0.18.0"
     inquirer "^6.2.2"
