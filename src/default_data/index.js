@@ -10,6 +10,16 @@ module.exports = [
         }
     },
     {
+        name: 'landing2',
+        category: 'Landing',
+        storeName: {
+            en: "Simple landing"
+        },
+        storeDesc: {
+            en: "Simple section to start with columns"
+        }
+    },
+    {
         name: 'story',
         category: 'Features',
         storeName: {
