@@ -94,10 +94,38 @@
                                                     "ignore": true
                                                 },
                                                 "md": {
-                                                    "cols": null,
+                                                    "cols": [
+                                                        {
+                                                            "align": "1",
+                                                            "width": "50",
+                                                            "offset": "25",
+                                                            "borders": [
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
                                                     "unit": "%",
                                                     "height": 0,
-                                                    "ignore": true
+                                                    "ignore": false
                                                 },
                                                 "sm": {
                                                     "cols": null,
@@ -109,8 +137,8 @@
                                                     "cols": [
                                                         {
                                                             "align": "1",
-                                                            "width": "50",
-                                                            "offset": "25",
+                                                            "width": "90",
+                                                            "offset": "5",
                                                             "borders": [
                                                                 {
                                                                     "color": "#000000",
@@ -235,14 +263,14 @@
                                                                                                 "fr": "webeo"
                                                                                             },
                                                                                             "pos": {
+                                                                                                "left": "9.954126397363384%",
                                                                                                 "top": "0%",
-                                                                                                "left": "0%",
-                                                                                                "width": "100%",
+                                                                                                "width": "80.09174720527324%",
                                                                                                 "height": "100%"
                                                                                             },
-                                                                                            "url": "https://cdn.weweb.app/designs/38/sections/VDFDQnKIOSCNwJKP2TwO6V9xhN6rzTsq.png",
-                                                                                            "crop": "100px80p@0px10p",
-                                                                                            "zoom": 1,
+                                                                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/64/sections/2XY9TFwkH4aq8KIYVTptBWGptNhZd8IW.png",
+                                                                                            "crop": "100px100p@0px0p",
+                                                                                            "zoom": 0.8009174720527323,
                                                                                             "hover": {
                                                                                                 "name": "",
                                                                                                 "options": {}
@@ -298,7 +326,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
-                                                                                    "uniqueId": 7512937942,
+                                                                                    "uniqueId": 7785296142,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ],
@@ -347,7 +375,7 @@
                                                                                         "bottom": 0
                                                                                     }
                                                                                 },
-                                                                                "uniqueId": 12413005132,
+                                                                                "uniqueId": 6052650219,
                                                                                 "wwVersion": 3
                                                                             }
                                                                         }
@@ -370,7 +398,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 2693261670,
+                                                            "uniqueId": 14821241404,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -415,7 +443,7 @@
                                                                     "bottom": 20
                                                                 }
                                                             },
-                                                            "uniqueId": 3799109964,
+                                                            "uniqueId": 10825202232,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -460,7 +488,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 2018079412,
+                                                            "uniqueId": 3647778851,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -499,13 +527,13 @@
                                                                     "bottom": 0
                                                                 },
                                                                 "xs": {
-                                                                    "top": 0,
+                                                                    "top": 20,
                                                                     "left": 0,
                                                                     "right": 0,
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 2458840384,
+                                                            "uniqueId": 15520511276,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -563,7 +591,7 @@
                                                                                 "bottom": 0
                                                                             }
                                                                         },
-                                                                        "uniqueId": 15171675041,
+                                                                        "uniqueId": 13723778026,
                                                                         "wwVersion": 3
                                                                     },
                                                                     "style": {
@@ -601,7 +629,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 900315240,
+                                                            "uniqueId": 5714608403,
                                                             "wwVersion": 3
                                                         }
                                                     ],
@@ -650,7 +678,7 @@
                                                                 "bottom": 0
                                                             }
                                                         },
-                                                        "uniqueId": 14933377515,
+                                                        "uniqueId": 1066800895,
                                                         "wwVersion": 3
                                                     }
                                                 }
@@ -673,7 +701,7 @@
                                             "bottom": 0
                                         }
                                     },
-                                    "uniqueId": 8411407367,
+                                    "uniqueId": 5758653439,
                                     "wwVersion": 3
                                 }
                             ],
@@ -695,12 +723,12 @@
                                             "fr": "webeo"
                                         },
                                         "pos": {
-                                            "top": "0%",
                                             "left": "0%",
+                                            "top": "0%",
                                             "width": "100%",
                                             "height": "100%"
                                         },
-                                        "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/38/sections/Rnw6HB6s0SzB6GxJi2eIkGJPz32RaQHG.jpg",
+                                        "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/64/sections/6kvcWeseW6FE6QlxRYZjpCyhiDCsfO9Z.jpg",
                                         "crop": "100px100p@0px0p",
                                         "zoom": 1,
                                         "hover": {
@@ -758,7 +786,7 @@
                                         "bottom": 0
                                     }
                                 },
-                                "uniqueId": 8746481419,
+                                "uniqueId": 10097344708,
                                 "wwVersion": 3
                             }
                         }
@@ -781,7 +809,7 @@
                     "bottom": 0
                 }
             },
-            "uniqueId": 4333220882,
+            "uniqueId": 1131534431,
             "wwVersion": 3
         }
     ],
@@ -832,7 +860,7 @@
                 "bottom": 0
             }
         },
-        "uniqueId": 3506398161,
+        "uniqueId": 7952574554,
         "wwVersion": 3
     }
 }
