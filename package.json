@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/WeWeb-Public/wwbuilder"
     },
-    "version": "0.0.21",
+    "version": "0.0.22",
     "private": true,
     "scripts": {
         "build": "weweb-build",
