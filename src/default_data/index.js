@@ -20,6 +20,16 @@ module.exports = [
         }
     },
     {
+        name: 'map1',
+        category: 'Content',
+        storeName: {
+            en: "Simple map section"
+        },
+        storeDesc: {
+            en: "Display a map with markers"
+        }
+    },
+    {
         name: 'story',
         category: 'Features',
         storeName: {

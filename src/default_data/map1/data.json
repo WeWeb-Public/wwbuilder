@@ -1,0 +1,769 @@
+{
+    "isNew": false,
+    "columns": [
+        {
+            "new": false,
+            "anim": {},
+            "data": {},
+            "link": {
+                "data": {},
+                "type": "none"
+            },
+            "tags": [],
+            "ratio": -1,
+            "hidden": false,
+            "content": {
+                "data": {
+                    "config": {
+                        "lg": {
+                            "cols": null,
+                            "unit": "%",
+                            "height": 0,
+                            "ignore": true
+                        },
+                        "md": {
+                            "cols": [
+                                {
+                                    "align": "1",
+                                    "width": 100,
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "unit": "%",
+                            "height": "70",
+                            "ignore": false
+                        },
+                        "sm": {
+                            "cols": null,
+                            "unit": "%",
+                            "height": 0,
+                            "ignore": true
+                        },
+                        "xs": {
+                            "cols": [
+                                {
+                                    "align": "2",
+                                    "width": "100",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "unit": "%",
+                            "height": 100,
+                            "ignore": false
+                        },
+                        "count": 1,
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "wwObjects": [
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "tag": "div",
+                                            "font": "",
+                                            "size": "",
+                                            "text": {
+                                                "en": "<span style=\"font-size:1.5rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:3rem\"><span style=\"font-size:2rem\">This is the map &amp; text section</span></span></span></div></span>",
+                                                "fr": "Nouveau texte"
+                                            },
+                                            "align": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        },
+                                        "type": "ww-text"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 30,
+                                            "left": 20,
+                                            "right": 20,
+                                            "bottom": 10
+                                        },
+                                        "xs": {
+                                            "top": 30,
+                                            "left": 10,
+                                            "right": 10,
+                                            "bottom": 10
+                                        }
+                                    },
+                                    "uniqueId": 11002930481,
+                                    "wwVersion": 3
+                                },
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "tag": "div",
+                                            "font": "",
+                                            "size": "",
+                                            "text": {
+                                                "en": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:1.5rem\"><span style=\"font-size:1rem\">Add your gps coordinates by hitting the pen</span></span></span></div>",
+                                                "fr": "Nouveau texte"
+                                            },
+                                            "align": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        },
+                                        "type": "ww-text"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 0,
+                                            "left": 20,
+                                            "right": 20,
+                                            "bottom": 50
+                                        },
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 10,
+                                            "right": 10,
+                                            "bottom": 20
+                                        }
+                                    },
+                                    "uniqueId": 13515478075,
+                                    "wwVersion": 3
+                                },
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "config": {
+                                                "lg": {
+                                                    "cols": null,
+                                                    "unit": "%",
+                                                    "height": 0,
+                                                    "ignore": true
+                                                },
+                                                "md": {
+                                                    "cols": [
+                                                        {
+                                                            "align": "1",
+                                                            "width": "40",
+                                                            "offset": "10",
+                                                            "borders": [
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "align": "1",
+                                                            "width": "40",
+                                                            "offset": 0,
+                                                            "borders": [
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "unit": "%",
+                                                    "height": 0,
+                                                    "ignore": false
+                                                },
+                                                "sm": {
+                                                    "cols": null,
+                                                    "unit": "%",
+                                                    "height": 0,
+                                                    "ignore": true
+                                                },
+                                                "xs": {
+                                                    "cols": [
+                                                        {
+                                                            "align": "1",
+                                                            "width": "90",
+                                                            "offset": "5",
+                                                            "borders": [
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "align": "1",
+                                                            "width": "90",
+                                                            "offset": "5",
+                                                            "borders": [
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                },
+                                                                {
+                                                                    "color": "#000000",
+                                                                    "style": "solid",
+                                                                    "width": 0
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "unit": "%",
+                                                    "height": 0,
+                                                    "ignore": false
+                                                },
+                                                "count": 2,
+                                                "height": null
+                                            },
+                                            "columns": [
+                                                {
+                                                    "wwObjects": [
+                                                        {
+                                                            "new": false,
+                                                            "anim": {},
+                                                            "data": {},
+                                                            "link": {
+                                                                "data": {},
+                                                                "type": "none"
+                                                            },
+                                                            "tags": [],
+                                                            "ratio": -1,
+                                                            "hidden": false,
+                                                            "content": {
+                                                                "type": "ww-map",
+                                                                "data": {}
+                                                            },
+                                                            "children": {},
+                                                            "paddings": {
+                                                                "md": {
+                                                                    "top": 0,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                },
+                                                                "xs": {
+                                                                    "top": 0,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                }
+                                                            },
+                                                            "uniqueId": 10381330130,
+                                                            "wwVersion": 3
+                                                        }
+                                                    ],
+                                                    "background": {
+                                                        "new": false,
+                                                        "anim": {},
+                                                        "data": {},
+                                                        "link": {
+                                                            "data": {},
+                                                            "type": "none"
+                                                        },
+                                                        "tags": [],
+                                                        "ratio": -1,
+                                                        "hidden": false,
+                                                        "content": {
+                                                            "data": {
+                                                                "style": {
+                                                                    "boxShadow": {
+                                                                        "b": 0,
+                                                                        "c": "",
+                                                                        "s": 0,
+                                                                        "x": 0,
+                                                                        "y": 0
+                                                                    },
+                                                                    "borderColor": null,
+                                                                    "borderStyle": null,
+                                                                    "borderWidth": 0,
+                                                                    "borderRadius": 0
+                                                                },
+                                                                "backgroundColor": "transparent"
+                                                            },
+                                                            "type": "ww-color"
+                                                        },
+                                                        "children": {},
+                                                        "paddings": {
+                                                            "md": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            },
+                                                            "xs": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            }
+                                                        },
+                                                        "uniqueId": 6401795296,
+                                                        "wwVersion": 3
+                                                    }
+                                                },
+                                                {
+                                                    "wwObjects": [
+                                                        {
+                                                            "new": false,
+                                                            "anim": {},
+                                                            "data": {},
+                                                            "link": {
+                                                                "data": {},
+                                                                "type": "none"
+                                                            },
+                                                            "tags": [],
+                                                            "ratio": -1,
+                                                            "hidden": false,
+                                                            "content": {
+                                                                "data": {
+                                                                    "tag": "div",
+                                                                    "font": "",
+                                                                    "size": "",
+                                                                    "text": {
+                                                                        "en": "Start editing by hitting the pen! Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit\n",
+                                                                        "fr": "Nouveau texte"
+                                                                    },
+                                                                    "align": "",
+                                                                    "color": "",
+                                                                    "classes": [],
+                                                                    "children": []
+                                                                },
+                                                                "type": "ww-text"
+                                                            },
+                                                            "children": {},
+                                                            "paddings": {
+                                                                "md": {
+                                                                    "top": 0,
+                                                                    "left": 30,
+                                                                    "right": 30,
+                                                                    "bottom": 0
+                                                                },
+                                                                "xs": {
+                                                                    "top": 20,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                }
+                                                            },
+                                                            "uniqueId": 13943232856,
+                                                            "wwVersion": 3
+                                                        },
+                                                        {
+                                                            "new": false,
+                                                            "anim": {},
+                                                            "data": {},
+                                                            "link": {
+                                                                "data": {},
+                                                                "type": "none"
+                                                            },
+                                                            "tags": [],
+                                                            "ratio": -1,
+                                                            "hidden": false,
+                                                            "content": {
+                                                                "data": {
+                                                                    "text": {
+                                                                        "new": false,
+                                                                        "anim": {},
+                                                                        "data": {},
+                                                                        "link": {
+                                                                            "data": {},
+                                                                            "type": "none"
+                                                                        },
+                                                                        "tags": [],
+                                                                        "ratio": -1,
+                                                                        "hidden": false,
+                                                                        "content": {
+                                                                            "data": {
+                                                                                "tag": "div",
+                                                                                "font": "",
+                                                                                "size": "",
+                                                                                "text": {
+                                                                                    "en": "<font color=\"#ffffff\">Call to action</font>",
+                                                                                    "fr": "Nouveau bouton"
+                                                                                },
+                                                                                "align": "",
+                                                                                "color": "",
+                                                                                "classes": [],
+                                                                                "children": []
+                                                                            },
+                                                                            "type": "ww-text"
+                                                                        },
+                                                                        "children": {},
+                                                                        "paddings": {
+                                                                            "md": {
+                                                                                "top": 0,
+                                                                                "left": 0,
+                                                                                "right": 0,
+                                                                                "bottom": 0
+                                                                            },
+                                                                            "xs": {
+                                                                                "top": 0,
+                                                                                "left": 0,
+                                                                                "right": 0,
+                                                                                "bottom": 0
+                                                                            }
+                                                                        },
+                                                                        "uniqueId": 11231750776,
+                                                                        "wwVersion": 3
+                                                                    },
+                                                                    "style": {
+                                                                        "padding": 20,
+                                                                        "gradient": {},
+                                                                        "boxShadow": {
+                                                                            "b": 0,
+                                                                            "c": "",
+                                                                            "s": 0,
+                                                                            "x": 0,
+                                                                            "y": 0
+                                                                        },
+                                                                        "borderColor": "#000000",
+                                                                        "borderStyle": "none",
+                                                                        "borderWidth": 0,
+                                                                        "borderRadius": 50,
+                                                                        "backgroundColor": "#E62F55"
+                                                                    },
+                                                                    "fullWidth": false
+                                                                },
+                                                                "type": "ww-button"
+                                                            },
+                                                            "children": {},
+                                                            "paddings": {
+                                                                "md": {
+                                                                    "top": 30,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                },
+                                                                "xs": {
+                                                                    "top": 30,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 30
+                                                                }
+                                                            },
+                                                            "uniqueId": 9576433145,
+                                                            "wwVersion": 3
+                                                        }
+                                                    ],
+                                                    "background": {
+                                                        "new": false,
+                                                        "anim": {},
+                                                        "data": {},
+                                                        "link": {
+                                                            "data": {},
+                                                            "type": "none"
+                                                        },
+                                                        "tags": [],
+                                                        "ratio": -1,
+                                                        "hidden": false,
+                                                        "content": {
+                                                            "data": {
+                                                                "style": {
+                                                                    "boxShadow": {
+                                                                        "b": 0,
+                                                                        "c": "",
+                                                                        "s": 0,
+                                                                        "x": 0,
+                                                                        "y": 0
+                                                                    },
+                                                                    "borderColor": null,
+                                                                    "borderStyle": null,
+                                                                    "borderWidth": 0,
+                                                                    "borderRadius": 0
+                                                                },
+                                                                "backgroundColor": "transparent"
+                                                            },
+                                                            "type": "ww-color"
+                                                        },
+                                                        "children": {},
+                                                        "paddings": {
+                                                            "md": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            },
+                                                            "xs": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            }
+                                                        },
+                                                        "uniqueId": 7199899692,
+                                                        "wwVersion": 3
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "type": "ww-columns"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "uniqueId": 9964133342,
+                                    "wwVersion": 3
+                                }
+                            ],
+                            "background": {
+                                "new": false,
+                                "anim": {},
+                                "data": {},
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "tags": [],
+                                "ratio": -1,
+                                "hidden": false,
+                                "content": {
+                                    "type": "ww-color",
+                                    "data": {
+                                        "backgroundColor": "#FFFFFF",
+                                        "style": {
+                                            "borderRadius": 0,
+                                            "borderWidth": 0,
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "boxShadow": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "b": 0,
+                                                "s": 0,
+                                                "c": ""
+                                            }
+                                        }
+                                    }
+                                },
+                                "children": {},
+                                "paddings": {
+                                    "md": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    },
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                },
+                                "uniqueId": 10097344708,
+                                "wwVersion": 3
+                            }
+                        }
+                    ]
+                },
+                "type": "ww-columns"
+            },
+            "children": {},
+            "paddings": {
+                "md": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "xs": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                }
+            },
+            "uniqueId": 1131534431,
+            "wwVersion": 3
+        }
+    ],
+    "background": {
+        "new": false,
+        "anim": {},
+        "data": {},
+        "link": {
+            "data": {},
+            "type": "none"
+        },
+        "tags": [],
+        "ratio": 100,
+        "hidden": false,
+        "content": {
+            "data": {
+                "color": "#FF0000",
+                "style": {
+                    "boxShadow": {
+                        "b": 0,
+                        "c": "",
+                        "s": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "borderColor": null,
+                    "borderStyle": null,
+                    "borderWidth": 0,
+                    "borderRadius": 0
+                },
+                "gradient": "linear-gradient(0deg,#8436D9 0%,#50ADF7 35%,#FFFFFF 35%,#FFFFFF 100%)",
+                "backgroundColor": "transparent"
+            },
+            "type": "ww-color"
+        },
+        "children": {},
+        "paddings": {
+            "md": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "xs": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            }
+        },
+        "uniqueId": 7952574554,
+        "wwVersion": 3
+    }
+}
