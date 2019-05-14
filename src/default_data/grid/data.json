@@ -1,0 +1,546 @@
+{
+    "background": {
+        "uniqueId": 15132270825,
+        "wwVersion": 3,
+        "content": {
+            "type": "ww-color",
+            "data": {
+                "backgroundColor": "transparent",
+                "style": {
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderColor": null,
+                    "borderStyle": null,
+                    "boxShadow": {
+                        "x": 0,
+                        "y": 0,
+                        "b": 0,
+                        "s": 0,
+                        "c": ""
+                    }
+                },
+                "color": "white"
+            }
+        },
+        "link": {
+            "type": "none",
+            "data": {}
+        },
+        "ratio": -1,
+        "paddings": {
+            "xs": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "md": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            }
+        },
+        "hidden": false,
+        "tags": [],
+        "children": {},
+        "data": {},
+        "anim": {},
+        "new": false
+    },
+    "columns": [
+        {
+            "uniqueId": 5867788677,
+            "wwVersion": 3,
+            "content": {
+                "type": "ww-columns",
+                "data": {
+                    "config": {
+                        "count": 2,
+                        "xs": {
+                            "height": 0,
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "offset": "5",
+                                    "width": "90",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ],
+                                    "align": "1"
+                                },
+                                {
+                                    "offset": "5",
+                                    "width": "90",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ],
+                                    "align": "1"
+                                }
+                            ],
+                            "unit": "%"
+                        },
+                        "sm": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "md": {
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "align": "1",
+                                    "width": "60",
+                                    "offset": "5",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "align": "1",
+                                    "width": "30",
+                                    "offset": 0,
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "lg": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "background": {
+                                "uniqueId": 797037648,
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                }
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 9788840394,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-image",
+                                        "data": {
+                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/jG1QBqwfevxHNVPIcazCAphUa9YRUe5r.jpg",
+                                            "alt": "",
+                                            "position": {
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "pos": {
+                                                "left": "0%",
+                                                "top": "0%",
+                                                "width": "100%",
+                                                "height": "100%"
+                                            },
+                                            "zoom": 1,
+                                            "style": {
+                                                "borderRadius": 0,
+                                                "borderWidth": 0,
+                                                "borderColor": null,
+                                                "borderStyle": null,
+                                                "overlay": null,
+                                                "filter": null,
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "animation": {
+                                                "duration": 0,
+                                                "delay": 0,
+                                                "fn": null,
+                                                "opacity": 1,
+                                                "scale": 1,
+                                                "translateX": 0,
+                                                "translateY": 0,
+                                                "rotate": 0
+                                            },
+                                            "imgSize": {
+                                                "w": 1920,
+                                                "h": 1080
+                                            },
+                                            "hover": {
+                                                "name": "",
+                                                "options": {}
+                                            },
+                                            "crop": "100px85p@0px7p"
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": 56.25,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        },
+                        {
+                            "background": {
+                                "uniqueId": 3677408797,
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                }
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 15130084690,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-image",
+                                        "data": {
+                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/VecUUUky79sV8sMDmfNBXaJ30CZBG2Md.jpg",
+                                            "alt": "",
+                                            "position": {
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "pos": {
+                                                "left": "0%",
+                                                "top": "0%",
+                                                "width": "100%",
+                                                "height": "100%"
+                                            },
+                                            "zoom": 1,
+                                            "style": {
+                                                "borderRadius": 0,
+                                                "borderWidth": 0,
+                                                "borderColor": null,
+                                                "borderStyle": null,
+                                                "overlay": null,
+                                                "filter": null,
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "animation": {
+                                                "duration": 0,
+                                                "delay": 0,
+                                                "fn": null,
+                                                "opacity": 1,
+                                                "scale": 1,
+                                                "translateX": 0,
+                                                "translateY": 0,
+                                                "rotate": 0
+                                            },
+                                            "imgSize": {
+                                                "w": 1920,
+                                                "h": 1080
+                                            },
+                                            "hover": {
+                                                "name": "",
+                                                "options": {}
+                                            },
+                                            "crop": "100px85p@0px7p"
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": 56.25,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 15109871130,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-image",
+                                        "data": {
+                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/mDEVdGLeX3CfK5QopGIG34zTy17pqhIz.jpg",
+                                            "alt": "",
+                                            "position": {
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "pos": {
+                                                "left": "0%",
+                                                "top": "1.183152887139105%",
+                                                "width": "100%",
+                                                "height": "97.6336942257218%"
+                                            },
+                                            "zoom": 1,
+                                            "style": {
+                                                "borderRadius": 0,
+                                                "borderWidth": 0,
+                                                "borderColor": null,
+                                                "borderStyle": null,
+                                                "overlay": null,
+                                                "filter": null,
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "animation": {
+                                                "duration": 0,
+                                                "delay": 0,
+                                                "fn": null,
+                                                "opacity": 1,
+                                                "scale": 1,
+                                                "translateX": 0,
+                                                "translateY": 0,
+                                                "rotate": 0
+                                            },
+                                            "imgSize": {
+                                                "w": 1920,
+                                                "h": 1080
+                                            },
+                                            "hover": {
+                                                "name": "",
+                                                "options": {}
+                                            },
+                                            "crop": "100px100p@0px0p"
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": 56.25,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "link": {
+                "type": "none",
+                "data": {}
+            },
+            "ratio": -1,
+            "paddings": {
+                "xs": {
+                    "top": 30,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 30
+                },
+                "md": {
+                    "top": 30,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 30
+                }
+            },
+            "hidden": false,
+            "tags": [],
+            "children": {},
+            "data": {},
+            "anim": {},
+            "new": false
+        }
+    ]
+}

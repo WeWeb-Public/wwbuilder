@@ -1,0 +1,510 @@
+{
+    "background": {
+        "uniqueId": 5827306522,
+        "wwVersion": 3,
+        "content": {
+            "type": "ww-image",
+            "data": {
+                "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/75/sections/cgV3ZXAwtWHkHaEGElhIbhRUVM4loQ1e.jpg",
+                "alt": "",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "pos": {
+                    "left": "0%",
+                    "top": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                },
+                "zoom": 1,
+                "style": {
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderColor": null,
+                    "borderStyle": null,
+                    "overlay": null,
+                    "filter": null,
+                    "boxShadow": {
+                        "x": 0,
+                        "y": 0,
+                        "b": 0,
+                        "s": 0,
+                        "c": ""
+                    }
+                },
+                "animation": {
+                    "duration": 0,
+                    "delay": 0,
+                    "fn": null,
+                    "opacity": 1,
+                    "scale": 1,
+                    "translateX": 0,
+                    "translateY": 0,
+                    "rotate": 0
+                },
+                "imgSize": {
+                    "w": 1920,
+                    "h": 1080
+                },
+                "hover": {
+                    "name": "",
+                    "options": {}
+                },
+                "crop": "100px100p@0px0p"
+            }
+        },
+        "link": {
+            "type": "none",
+            "data": {}
+        },
+        "ratio": -1,
+        "paddings": {
+            "xs": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "md": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            }
+        },
+        "hidden": false,
+        "tags": [],
+        "children": {},
+        "data": {},
+        "anim": {
+            "isParallax": true,
+            "start": {
+                "o": 0,
+                "opacity": 1,
+                "scale": "1.3",
+                "x": 0,
+                "y": "-150",
+                "rotate": 0
+            },
+            "end": {
+                "o": 100,
+                "opacity": 1,
+                "scale": "1.3",
+                "x": 0,
+                "y": "150",
+                "rotate": 0
+            }
+        },
+        "new": false
+    },
+    "columns": [
+        {
+            "uniqueId": 8781185916,
+            "wwVersion": 3,
+            "content": {
+                "type": "ww-columns",
+                "data": {
+                    "config": {
+                        "count": 1,
+                        "xs": {
+                            "height": 100,
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "offset": "5",
+                                    "width": "90",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ],
+                                    "align": "2"
+                                }
+                            ],
+                            "unit": "%"
+                        },
+                        "sm": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "md": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "lg": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "background": {
+                                "uniqueId": 7499918962,
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                }
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 13261619979,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<span style=\"font-size:1.5rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\"><span style=\"font-size: 1rem;\">WELCOME</span></font></span></div></span>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 4278262920,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<span style=\"font-size:1.5rem\"><div style=\"text-align: center;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\"><span style=\"font-size:3rem\">Lorem ipsum</span></font><br></div></span>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 4158962464,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<span style=\"font-size:3rem\"><span style=\"font-size: 32px;\"><div style=\"text-align: center;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\"><span style=\"font-size:3rem\">Consectetur&nbsp;</span></font></div></span></span>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 11457515518,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<span style=\"font-size:1.5rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font color=\"#ffffff\" face=\"Arial, sans-serif\">Donec-Tempus-Dolor<br></font></span></div></span>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 12688236516,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-button",
+                                        "data": {
+                                            "text": {
+                                                "uniqueId": 6116869998,
+                                                "wwVersion": 3,
+                                                "content": {
+                                                    "type": "ww-text",
+                                                    "data": {
+                                                        "text": {
+                                                            "fr": "Nouveau bouton",
+                                                            "en": "<span style=\"font-size:1rem\"><font face=\"Arial, sans-serif\" color=\"#ffffff\">OUR STORY</font></span>"
+                                                        },
+                                                        "tag": "div",
+                                                        "align": "",
+                                                        "font": "",
+                                                        "size": "",
+                                                        "color": "",
+                                                        "classes": [],
+                                                        "children": []
+                                                    }
+                                                },
+                                                "link": {
+                                                    "type": "none",
+                                                    "data": {}
+                                                },
+                                                "ratio": -1,
+                                                "paddings": {
+                                                    "xs": {
+                                                        "top": 0,
+                                                        "left": 0,
+                                                        "right": 0,
+                                                        "bottom": 0
+                                                    },
+                                                    "md": {
+                                                        "top": 0,
+                                                        "left": 10,
+                                                        "right": 10,
+                                                        "bottom": 0
+                                                    }
+                                                },
+                                                "hidden": false,
+                                                "tags": [],
+                                                "children": {},
+                                                "data": {},
+                                                "anim": {},
+                                                "new": false
+                                            },
+                                            "style": {
+                                                "backgroundColor": "#091253",
+                                                "gradient": {},
+                                                "borderRadius": 50,
+                                                "borderWidth": 1,
+                                                "borderColor": "#091253",
+                                                "borderStyle": "solid",
+                                                "padding": 20,
+                                                "justify": null,
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "fullWidth": false
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "link": {
+                "type": "none",
+                "data": {}
+            },
+            "ratio": -1,
+            "paddings": {
+                "xs": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "md": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                }
+            },
+            "hidden": false,
+            "tags": [],
+            "children": {},
+            "data": {},
+            "anim": {},
+            "new": false
+        }
+    ]
+}

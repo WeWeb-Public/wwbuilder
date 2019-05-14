@@ -1,0 +1,862 @@
+{
+    "background": {
+        "uniqueId": 2307241151,
+        "wwVersion": 3,
+        "content": {
+            "type": "ww-color",
+            "data": {
+                "backgroundColor": "transparent",
+                "style": {
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderColor": null,
+                    "borderStyle": null,
+                    "boxShadow": {
+                        "x": 0,
+                        "y": 0,
+                        "b": 0,
+                        "s": 0,
+                        "c": ""
+                    }
+                },
+                "color": "white"
+            }
+        },
+        "link": {
+            "type": "none",
+            "data": {}
+        },
+        "ratio": -1,
+        "paddings": {
+            "xs": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "md": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            }
+        },
+        "hidden": false,
+        "tags": [],
+        "children": {},
+        "data": {},
+        "anim": {},
+        "new": false
+    },
+    "columns": [
+        {
+            "uniqueId": 7624691281,
+            "wwVersion": 3,
+            "content": {
+                "type": "ww-columns",
+                "data": {
+                    "config": {
+                        "count": 1,
+                        "xs": {
+                            "height": 0,
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "offset": "5",
+                                    "width": "90",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ],
+                                    "align": "1"
+                                }
+                            ],
+                            "unit": "%"
+                        },
+                        "sm": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "md": {
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "align": "2",
+                                    "width": "50",
+                                    "offset": "25",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "lg": {
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "align": "1",
+                                    "width": "30",
+                                    "offset": "35",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "background": {
+                                "uniqueId": 6410029296,
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "#FAFAFAC8",
+                                        "gradient": null
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                }
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 8589672405,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<span style=\"font-size:2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Nunito, Nunito\">Register</font></span></div></span>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 10,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 12547188493,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<div style=\"text-align: center;\"><font face=\"Nunito, Nunito\"><span style=\"font-size:1rem\"><span style=\"font-size:1rem\">Register with your email address and receive our latest news</span></span></font><br></div>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 10,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 10,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 6520871126,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-row",
+                                        "data": {
+                                            "wwObjects": [
+                                                {
+                                                    "uniqueId": 9067993118,
+                                                    "wwVersion": 3,
+                                                    "content": {
+                                                        "type": "ww-form",
+                                                        "data": {
+                                                            "input": {
+                                                                "config": {
+                                                                    "type": "email",
+                                                                    "required": true,
+                                                                    "name": "Email",
+                                                                    "placeholder": "Email Address"
+                                                                },
+                                                                "style": {
+                                                                    "borderRadius": 0,
+                                                                    "borderWidth": 2,
+                                                                    "borderColor": "#F5F5F5",
+                                                                    "borderStyle": "solid",
+                                                                    "padding": 30,
+                                                                    "boxShadow": {
+                                                                        "x": 0,
+                                                                        "y": 0,
+                                                                        "b": 0,
+                                                                        "s": 0,
+                                                                        "c": ""
+                                                                    },
+                                                                    "backgroundColor": "#FFFFFF",
+                                                                    "gradient": {}
+                                                                }
+                                                            },
+                                                            "textarea": {
+                                                                "config": {
+                                                                    "rows": 4
+                                                                },
+                                                                "style": {
+                                                                    "borderRadius": 3,
+                                                                    "borderWidth": 1,
+                                                                    "borderColor": "black",
+                                                                    "borderStyle": "solid",
+                                                                    "padding": 5
+                                                                }
+                                                            },
+                                                            "type": "input",
+                                                            "formId": 7,
+                                                            "button": {
+                                                                "config": {
+                                                                    "weweb": {
+                                                                        "enabled": true,
+                                                                        "recipients": [
+                                                                            {
+                                                                                "address": {
+                                                                                    "email": "damien@weweb.io"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                },
+                                                                "wwObject": {
+                                                                    "uniqueId": 9246647757,
+                                                                    "wwVersion": 3,
+                                                                    "content": {
+                                                                        "type": "ww-button",
+                                                                        "data": {
+                                                                            "text": {
+                                                                                "uniqueId": 3791697026,
+                                                                                "wwVersion": 3,
+                                                                                "content": {
+                                                                                    "type": "ww-text",
+                                                                                    "data": {
+                                                                                        "text": {
+                                                                                            "fr": "Nouveau bouton",
+                                                                                            "en": "New button"
+                                                                                        },
+                                                                                        "tag": "div",
+                                                                                        "align": "",
+                                                                                        "font": "",
+                                                                                        "size": "",
+                                                                                        "color": "",
+                                                                                        "classes": [],
+                                                                                        "children": []
+                                                                                    }
+                                                                                },
+                                                                                "link": {
+                                                                                    "type": "none",
+                                                                                    "data": {}
+                                                                                },
+                                                                                "ratio": -1,
+                                                                                "paddings": {
+                                                                                    "xs": {
+                                                                                        "top": 0,
+                                                                                        "left": 0,
+                                                                                        "right": 0,
+                                                                                        "bottom": 0
+                                                                                    },
+                                                                                    "md": {
+                                                                                        "top": 0,
+                                                                                        "left": 0,
+                                                                                        "right": 0,
+                                                                                        "bottom": 0
+                                                                                    }
+                                                                                },
+                                                                                "hidden": false,
+                                                                                "tags": [],
+                                                                                "children": {},
+                                                                                "data": {},
+                                                                                "anim": {},
+                                                                                "new": false
+                                                                            },
+                                                                            "style": {
+                                                                                "backgroundColor": "#FFFFFF",
+                                                                                "gradient": "",
+                                                                                "borderRadius": 50,
+                                                                                "borderWidth": 1,
+                                                                                "borderColor": "#000000",
+                                                                                "borderStyle": "solid",
+                                                                                "padding": 10,
+                                                                                "justify": null,
+                                                                                "boxShadow": {
+                                                                                    "x": 0,
+                                                                                    "y": 0,
+                                                                                    "b": 0,
+                                                                                    "s": 0,
+                                                                                    "c": ""
+                                                                                }
+                                                                            },
+                                                                            "fullWidth": false
+                                                                        }
+                                                                    },
+                                                                    "link": {
+                                                                        "type": "none",
+                                                                        "data": {}
+                                                                    },
+                                                                    "ratio": -1,
+                                                                    "paddings": {
+                                                                        "xs": {
+                                                                            "top": 0,
+                                                                            "left": 0,
+                                                                            "right": 0,
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "md": {
+                                                                            "top": 0,
+                                                                            "left": 0,
+                                                                            "right": 0,
+                                                                            "bottom": 0
+                                                                        }
+                                                                    },
+                                                                    "hidden": false,
+                                                                    "tags": [],
+                                                                    "children": {},
+                                                                    "data": {},
+                                                                    "anim": {},
+                                                                    "new": false
+                                                                },
+                                                                "weweb": {}
+                                                            },
+                                                            "checkbox": {
+                                                                "config": {},
+                                                                "wwObject": {
+                                                                    "uniqueId": 2161364861,
+                                                                    "wwVersion": 3,
+                                                                    "content": {
+                                                                        "type": "ww-text",
+                                                                        "data": {
+                                                                            "text": {
+                                                                                "fr": "Nouveau texte"
+                                                                            },
+                                                                            "tag": "div",
+                                                                            "align": "",
+                                                                            "font": "",
+                                                                            "size": "",
+                                                                            "color": "",
+                                                                            "classes": [],
+                                                                            "children": []
+                                                                        }
+                                                                    },
+                                                                    "link": {
+                                                                        "type": "none",
+                                                                        "data": {}
+                                                                    },
+                                                                    "ratio": -1,
+                                                                    "paddings": {
+                                                                        "xs": {
+                                                                            "top": 0,
+                                                                            "left": 0,
+                                                                            "right": 0,
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "md": {
+                                                                            "top": 0,
+                                                                            "left": 0,
+                                                                            "right": 0,
+                                                                            "bottom": 0
+                                                                        }
+                                                                    },
+                                                                    "hidden": false,
+                                                                    "tags": [],
+                                                                    "children": {},
+                                                                    "data": {},
+                                                                    "anim": {},
+                                                                    "new": false
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "link": {
+                                                        "type": "none",
+                                                        "data": {}
+                                                    },
+                                                    "ratio": -1,
+                                                    "paddings": {
+                                                        "xs": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "right": 0,
+                                                            "bottom": 0
+                                                        },
+                                                        "md": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "right": 0,
+                                                            "bottom": 15
+                                                        }
+                                                    },
+                                                    "hidden": false,
+                                                    "tags": [],
+                                                    "children": {},
+                                                    "data": {},
+                                                    "anim": {},
+                                                    "new": false
+                                                },
+                                                {
+                                                    "uniqueId": 7979638793,
+                                                    "wwVersion": 3,
+                                                    "content": {
+                                                        "type": "ww-form",
+                                                        "data": {
+                                                            "input": {
+                                                                "config": {},
+                                                                "style": {
+                                                                    "borderRadius": 3,
+                                                                    "borderWidth": 1,
+                                                                    "borderColor": "black",
+                                                                    "borderStyle": "solid",
+                                                                    "padding": 5
+                                                                }
+                                                            },
+                                                            "textarea": {
+                                                                "config": {
+                                                                    "rows": 4
+                                                                },
+                                                                "style": {
+                                                                    "borderRadius": 3,
+                                                                    "borderWidth": 1,
+                                                                    "borderColor": "black",
+                                                                    "borderStyle": "solid",
+                                                                    "padding": 5
+                                                                }
+                                                            },
+                                                            "type": "button",
+                                                            "formId": 7,
+                                                            "button": {
+                                                                "config": {
+                                                                    "weweb": {
+                                                                        "enabled": true,
+                                                                        "recipients": [
+                                                                            {
+                                                                                "address": {
+                                                                                    "email": "chihabeeddine.daoud@epitech.eu"
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "linkPage": 7
+                                                                    }
+                                                                },
+                                                                "wwObject": {
+                                                                    "uniqueId": 236562652,
+                                                                    "wwVersion": 3,
+                                                                    "content": {
+                                                                        "type": "ww-button",
+                                                                        "data": {
+                                                                            "text": {
+                                                                                "uniqueId": 10216850009,
+                                                                                "wwVersion": 3,
+                                                                                "content": {
+                                                                                    "type": "ww-text",
+                                                                                    "data": {
+                                                                                        "text": {
+                                                                                            "fr": "Nouveau bouton",
+                                                                                            "en": "<font face=\"Nunito, Nunito\" color=\"#222e77\">Register</font>"
+                                                                                        },
+                                                                                        "tag": "div",
+                                                                                        "align": "",
+                                                                                        "font": "",
+                                                                                        "size": "",
+                                                                                        "color": "",
+                                                                                        "classes": [],
+                                                                                        "children": []
+                                                                                    }
+                                                                                },
+                                                                                "link": {
+                                                                                    "type": "none",
+                                                                                    "data": {}
+                                                                                },
+                                                                                "ratio": -1,
+                                                                                "paddings": {
+                                                                                    "xs": {
+                                                                                        "top": 0,
+                                                                                        "left": 0,
+                                                                                        "right": 0,
+                                                                                        "bottom": 0
+                                                                                    },
+                                                                                    "md": {
+                                                                                        "top": 0,
+                                                                                        "left": 10,
+                                                                                        "right": 10,
+                                                                                        "bottom": 0
+                                                                                    }
+                                                                                },
+                                                                                "hidden": false,
+                                                                                "tags": [],
+                                                                                "children": {},
+                                                                                "data": {},
+                                                                                "anim": {},
+                                                                                "new": false
+                                                                            },
+                                                                            "style": {
+                                                                                "backgroundColor": "#FFFFFF",
+                                                                                "gradient": {},
+                                                                                "borderRadius": 6,
+                                                                                "borderWidth": 2,
+                                                                                "borderColor": "#222E77",
+                                                                                "borderStyle": "solid",
+                                                                                "padding": 20,
+                                                                                "justify": null,
+                                                                                "boxShadow": {
+                                                                                    "x": 0,
+                                                                                    "y": 0,
+                                                                                    "b": 0,
+                                                                                    "s": 0,
+                                                                                    "c": ""
+                                                                                }
+                                                                            },
+                                                                            "fullWidth": false
+                                                                        }
+                                                                    },
+                                                                    "link": {
+                                                                        "type": "none",
+                                                                        "data": {}
+                                                                    },
+                                                                    "ratio": -1,
+                                                                    "paddings": {
+                                                                        "xs": {
+                                                                            "top": 0,
+                                                                            "left": 10,
+                                                                            "right": 0,
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "md": {
+                                                                            "top": 0,
+                                                                            "left": 10,
+                                                                            "right": 0,
+                                                                            "bottom": 10
+                                                                        }
+                                                                    },
+                                                                    "hidden": false,
+                                                                    "tags": [],
+                                                                    "children": {},
+                                                                    "data": {},
+                                                                    "anim": {},
+                                                                    "new": false
+                                                                },
+                                                                "weweb": {}
+                                                            },
+                                                            "checkbox": {
+                                                                "config": {},
+                                                                "wwObject": {
+                                                                    "uniqueId": 6036191645,
+                                                                    "wwVersion": 3,
+                                                                    "content": {
+                                                                        "type": "ww-text",
+                                                                        "data": {
+                                                                            "text": {
+                                                                                "fr": "Nouveau texte"
+                                                                            },
+                                                                            "tag": "div",
+                                                                            "align": "",
+                                                                            "font": "",
+                                                                            "size": "",
+                                                                            "color": "",
+                                                                            "classes": [],
+                                                                            "children": []
+                                                                        }
+                                                                    },
+                                                                    "link": {
+                                                                        "type": "none",
+                                                                        "data": {}
+                                                                    },
+                                                                    "ratio": -1,
+                                                                    "paddings": {
+                                                                        "xs": {
+                                                                            "top": 0,
+                                                                            "left": 0,
+                                                                            "right": 0,
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "md": {
+                                                                            "top": 0,
+                                                                            "left": 0,
+                                                                            "right": 0,
+                                                                            "bottom": 0
+                                                                        }
+                                                                    },
+                                                                    "hidden": false,
+                                                                    "tags": [],
+                                                                    "children": {},
+                                                                    "data": {},
+                                                                    "anim": {},
+                                                                    "new": false
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "link": {
+                                                        "type": "none",
+                                                        "data": {}
+                                                    },
+                                                    "ratio": -1,
+                                                    "paddings": {
+                                                        "xs": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "right": 0,
+                                                            "bottom": 0
+                                                        },
+                                                        "md": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "right": 0,
+                                                            "bottom": 0
+                                                        }
+                                                    },
+                                                    "hidden": false,
+                                                    "tags": [],
+                                                    "children": {},
+                                                    "data": {},
+                                                    "anim": {},
+                                                    "new": false
+                                                }
+                                            ],
+                                            "align": "center",
+                                            "justify": "center"
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 10,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 14181538202,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Nunito, Nunito\">We respect your privacy.</font></span></div>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 10,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 10
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 30
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "link": {
+                "type": "none",
+                "data": {}
+            },
+            "ratio": -1,
+            "paddings": {
+                "xs": {
+                    "top": 30,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 30
+                },
+                "md": {
+                    "top": 70,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 70
+                }
+            },
+            "hidden": false,
+            "tags": [],
+            "children": {},
+            "data": {},
+            "anim": {},
+            "new": false
+        }
+    ]
+}
