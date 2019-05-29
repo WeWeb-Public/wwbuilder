@@ -1,0 +1,1514 @@
+{
+    "background": {
+        "uniqueId": 1467482028,
+        "wwVersion": 3,
+        "content": {
+            "type": "ww-color",
+            "data": {
+                "backgroundColor": "transparent",
+                "style": {
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderColor": null,
+                    "borderStyle": null,
+                    "boxShadow": {
+                        "x": 0,
+                        "y": 0,
+                        "b": 0,
+                        "s": 0,
+                        "c": ""
+                    }
+                },
+                "color": "white"
+            }
+        },
+        "link": {
+            "type": "none",
+            "data": {}
+        },
+        "ratio": -1,
+        "paddings": {
+            "xs": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "md": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            }
+        },
+        "hidden": false,
+        "tags": [],
+        "children": {},
+        "data": {},
+        "anim": {},
+        "new": false
+    },
+    "columns": [
+        {
+            "uniqueId": 9582223404,
+            "wwVersion": 3,
+            "content": {
+                "type": "ww-text",
+                "data": {
+                    "text": {
+                        "fr": "Nouveau texte",
+                        "en": "<span style=\"font-size:2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Nunito, Nunito\" color=\"#081359\">Lorem ipsum</font></span></div></span>"
+                    },
+                    "tag": "div",
+                    "align": "",
+                    "font": "",
+                    "size": "",
+                    "color": "",
+                    "classes": [],
+                    "children": []
+                }
+            },
+            "link": {
+                "type": "none",
+                "data": {}
+            },
+            "ratio": -1,
+            "paddings": {
+                "xs": {
+                    "top": 20,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "md": {
+                    "top": 100,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 60
+                }
+            },
+            "hidden": false,
+            "tags": [],
+            "children": {},
+            "data": {},
+            "anim": {},
+            "new": false
+        },
+        {
+            "uniqueId": 1823566450,
+            "wwVersion": 3,
+            "content": {
+                "type": "ww-columns",
+                "data": {
+                    "config": {
+                        "count": 3,
+                        "xs": {
+                            "height": 0,
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "offset": "5",
+                                    "width": "90",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ],
+                                    "align": "1"
+                                },
+                                {
+                                    "offset": "5",
+                                    "width": "90",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ],
+                                    "align": "1"
+                                },
+                                {
+                                    "offset": "5",
+                                    "width": "90",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ],
+                                    "align": "1"
+                                }
+                            ],
+                            "unit": "%"
+                        },
+                        "sm": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "md": {
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "align": "1",
+                                    "width": "25",
+                                    "offset": "10",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "align": "1",
+                                    "width": "25",
+                                    "offset": "2.5",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "align": "1",
+                                    "width": "25",
+                                    "offset": "2.5",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "lg": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "background": {
+                                "uniqueId": 6290404911,
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                }
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 11264204453,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-image",
+                                        "data": {
+                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/jG1QBqwfevxHNVPIcazCAphUa9YRUe5r.jpg",
+                                            "alt": "",
+                                            "position": {
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "pos": {
+                                                "left": "0%",
+                                                "top": "0%",
+                                                "width": "100%",
+                                                "height": "100%"
+                                            },
+                                            "zoom": 1,
+                                            "style": {
+                                                "borderRadius": 0,
+                                                "borderWidth": 0,
+                                                "borderColor": null,
+                                                "borderStyle": null,
+                                                "overlay": null,
+                                                "filter": null,
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "animation": {
+                                                "duration": 0,
+                                                "delay": 0,
+                                                "fn": null,
+                                                "opacity": 1,
+                                                "scale": 1,
+                                                "translateX": 0,
+                                                "translateY": 0,
+                                                "rotate": 0
+                                            },
+                                            "imgSize": {
+                                                "w": 1920,
+                                                "h": 1080
+                                            },
+                                            "hover": {
+                                                "name": "",
+                                                "options": {}
+                                            },
+                                            "crop": "100px100p@0px0p"
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 13610592489,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 1.5rem;\"><i><span style=\"font-size:1.5rem\">Lorem ipsum dolor sit amet</span></i></span></font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 3350321095,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 1rem;\"><i>Consectetur adipiscing</i></span></font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 10
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 9050910714,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Nullam vitae turpis eu nisi elementum vulputate</font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 5
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 3433261762,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Mauris tincidunt metus ut fermentum suscipit</font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 6904968231,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-button",
+                                        "data": {
+                                            "text": {
+                                                "uniqueId": 9877889468,
+                                                "wwVersion": 3,
+                                                "content": {
+                                                    "type": "ww-text",
+                                                    "data": {
+                                                        "text": {
+                                                            "fr": "Nouveau bouton",
+                                                            "en": "<font face=\"Nunito, Nunito\">Learn more</font>"
+                                                        },
+                                                        "tag": "div",
+                                                        "align": "",
+                                                        "font": "",
+                                                        "size": "",
+                                                        "color": "",
+                                                        "classes": [],
+                                                        "children": []
+                                                    }
+                                                },
+                                                "link": {
+                                                    "type": "none",
+                                                    "data": {}
+                                                },
+                                                "ratio": -1,
+                                                "paddings": {
+                                                    "xs": {
+                                                        "top": 0,
+                                                        "left": 20,
+                                                        "right": 20,
+                                                        "bottom": 0
+                                                    },
+                                                    "md": {
+                                                        "top": 0,
+                                                        "left": 11,
+                                                        "right": 11,
+                                                        "bottom": 0
+                                                    }
+                                                },
+                                                "hidden": false,
+                                                "tags": [],
+                                                "children": {},
+                                                "data": {},
+                                                "anim": {},
+                                                "new": false
+                                            },
+                                            "style": {
+                                                "backgroundColor": "#FFFFFF",
+                                                "gradient": {},
+                                                "borderRadius": 50,
+                                                "borderWidth": 2,
+                                                "borderColor": "#081359",
+                                                "borderStyle": "solid",
+                                                "padding": 20,
+                                                "justify": "flex-start",
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "fullWidth": false
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 25,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        },
+                        {
+                            "background": {
+                                "uniqueId": 9637996252,
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                }
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 12197040973,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-image",
+                                        "data": {
+                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/mDEVdGLeX3CfK5QopGIG34zTy17pqhIz.jpg",
+                                            "alt": "",
+                                            "position": {
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "pos": {
+                                                "left": "0%",
+                                                "top": "1.128472222222221%",
+                                                "width": "100%",
+                                                "height": "97.74305555555556%"
+                                            },
+                                            "zoom": 1,
+                                            "style": {
+                                                "borderRadius": 0,
+                                                "borderWidth": 0,
+                                                "borderColor": null,
+                                                "borderStyle": null,
+                                                "overlay": null,
+                                                "filter": null,
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "animation": {
+                                                "duration": 0,
+                                                "delay": 0,
+                                                "fn": null,
+                                                "opacity": 1,
+                                                "scale": 1,
+                                                "translateX": 0,
+                                                "translateY": 0,
+                                                "rotate": 0
+                                            },
+                                            "imgSize": {
+                                                "w": 1920,
+                                                "h": 1080
+                                            },
+                                            "hover": {
+                                                "name": "",
+                                                "options": {}
+                                            },
+                                            "crop": "100px100p@0px0p"
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 15121671803,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 1.5rem;\"><i><span style=\"font-size:1.5rem\">Lorem ipsum dolor sit amet</span></i></span></font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 13567301941,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 1rem;\"><i>Consectetur adipiscing</i></span></font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 10
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 14568008964,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Nullam vitae turpis eu nisi elementum vulputate</font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 5
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 9276863005,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Mauris tincidunt metus ut fermentum suscipit</font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 7497583116,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-button",
+                                        "data": {
+                                            "text": {
+                                                "uniqueId": 1143320227,
+                                                "wwVersion": 3,
+                                                "content": {
+                                                    "type": "ww-text",
+                                                    "data": {
+                                                        "text": {
+                                                            "fr": "Nouveau bouton",
+                                                            "en": "<font face=\"Nunito, Nunito\">Learn more</font>"
+                                                        },
+                                                        "tag": "div",
+                                                        "align": "",
+                                                        "font": "",
+                                                        "size": "",
+                                                        "color": "",
+                                                        "classes": [],
+                                                        "children": []
+                                                    }
+                                                },
+                                                "link": {
+                                                    "type": "none",
+                                                    "data": {}
+                                                },
+                                                "ratio": -1,
+                                                "paddings": {
+                                                    "xs": {
+                                                        "top": 0,
+                                                        "left": 20,
+                                                        "right": 20,
+                                                        "bottom": 0
+                                                    },
+                                                    "md": {
+                                                        "top": 0,
+                                                        "left": 11,
+                                                        "right": 11,
+                                                        "bottom": 0
+                                                    }
+                                                },
+                                                "hidden": false,
+                                                "tags": [],
+                                                "children": {},
+                                                "data": {},
+                                                "anim": {},
+                                                "new": false
+                                            },
+                                            "style": {
+                                                "backgroundColor": "#FFFFFF",
+                                                "gradient": {},
+                                                "borderRadius": 50,
+                                                "borderWidth": 2,
+                                                "borderColor": "#081359",
+                                                "borderStyle": "solid",
+                                                "padding": 20,
+                                                "justify": "flex-start",
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "fullWidth": false
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 25,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        },
+                        {
+                            "background": {
+                                "uniqueId": 6937352992,
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                }
+                            },
+                            "wwObjects": [
+                                {
+                                    "uniqueId": 618042024,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-image",
+                                        "data": {
+                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/VecUUUky79sV8sMDmfNBXaJ30CZBG2Md.jpg",
+                                            "alt": "",
+                                            "position": {
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "pos": {
+                                                "left": "0%",
+                                                "top": "0%",
+                                                "width": "100%",
+                                                "height": "100%"
+                                            },
+                                            "zoom": 1,
+                                            "style": {
+                                                "borderRadius": 0,
+                                                "borderWidth": 0,
+                                                "borderColor": null,
+                                                "borderStyle": null,
+                                                "overlay": null,
+                                                "filter": null,
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "animation": {
+                                                "duration": 0,
+                                                "delay": 0,
+                                                "fn": null,
+                                                "opacity": 1,
+                                                "scale": 1,
+                                                "translateX": 0,
+                                                "translateY": 0,
+                                                "rotate": 0
+                                            },
+                                            "imgSize": {
+                                                "w": 1920,
+                                                "h": 1080
+                                            },
+                                            "hover": {
+                                                "name": "",
+                                                "options": {}
+                                            },
+                                            "crop": "100px100p@0px0p"
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 14875413885,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 1.5rem;\"><i><span style=\"font-size:1.5rem\">Lorem ipsum dolor sit amet</span></i></span></font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 10790209351,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 1rem;\"><i>Consectetur adipiscing</i></span></font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 10
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 8640543304,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Nullam vitae turpis eu nisi elementum vulputate</font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 5
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 3648531333,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-text",
+                                        "data": {
+                                            "text": {
+                                                "fr": "Nouveau texte",
+                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Mauris tincidunt metus ut fermentum suscipit</font>"
+                                            },
+                                            "tag": "div",
+                                            "align": "",
+                                            "font": "",
+                                            "size": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                },
+                                {
+                                    "uniqueId": 987933430,
+                                    "wwVersion": 3,
+                                    "content": {
+                                        "type": "ww-button",
+                                        "data": {
+                                            "text": {
+                                                "uniqueId": 6181603582,
+                                                "wwVersion": 3,
+                                                "content": {
+                                                    "type": "ww-text",
+                                                    "data": {
+                                                        "text": {
+                                                            "fr": "Nouveau bouton",
+                                                            "en": "<font face=\"Nunito, Nunito\">Learn more</font>"
+                                                        },
+                                                        "tag": "div",
+                                                        "align": "",
+                                                        "font": "",
+                                                        "size": "",
+                                                        "color": "",
+                                                        "classes": [],
+                                                        "children": []
+                                                    }
+                                                },
+                                                "link": {
+                                                    "type": "none",
+                                                    "data": {}
+                                                },
+                                                "ratio": -1,
+                                                "paddings": {
+                                                    "xs": {
+                                                        "top": 0,
+                                                        "left": 20,
+                                                        "right": 20,
+                                                        "bottom": 0
+                                                    },
+                                                    "md": {
+                                                        "top": 0,
+                                                        "left": 11,
+                                                        "right": 11,
+                                                        "bottom": 0
+                                                    }
+                                                },
+                                                "hidden": false,
+                                                "tags": [],
+                                                "children": {},
+                                                "data": {},
+                                                "anim": {},
+                                                "new": false
+                                            },
+                                            "style": {
+                                                "backgroundColor": "#FFFFFF",
+                                                "gradient": {},
+                                                "borderRadius": 50,
+                                                "borderWidth": 2,
+                                                "borderColor": "#081359",
+                                                "borderStyle": "solid",
+                                                "padding": 20,
+                                                "justify": "flex-start",
+                                                "boxShadow": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "b": 0,
+                                                    "s": 0,
+                                                    "c": ""
+                                                }
+                                            },
+                                            "fullWidth": false
+                                        }
+                                    },
+                                    "link": {
+                                        "type": "none",
+                                        "data": {}
+                                    },
+                                    "ratio": -1,
+                                    "paddings": {
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "md": {
+                                            "top": 25,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "hidden": false,
+                                    "tags": [],
+                                    "children": {},
+                                    "data": {},
+                                    "anim": {},
+                                    "new": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "link": {
+                "type": "none",
+                "data": {}
+            },
+            "ratio": -1,
+            "paddings": {
+                "xs": {
+                    "top": 30,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 30
+                },
+                "md": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 100
+                }
+            },
+            "hidden": false,
+            "tags": [],
+            "children": {},
+            "data": {},
+            "anim": {},
+            "new": false
+        }
+    ]
+}
