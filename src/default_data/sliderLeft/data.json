@@ -1,131 +1,26 @@
 {
-    "background": {
-        "uniqueId": 4584596727,
-        "wwVersion": 3,
-        "content": {
-            "type": "ww-color",
-            "data": {
-                "backgroundColor": "transparent",
-                "style": {
-                    "borderRadius": 0,
-                    "borderWidth": 0,
-                    "borderColor": null,
-                    "borderStyle": null,
-                    "boxShadow": {
-                        "x": 0,
-                        "y": 0,
-                        "b": 0,
-                        "s": 0,
-                        "c": ""
-                    }
-                },
-                "color": "white"
-            }
-        },
-        "link": {
-            "type": "none",
-            "data": {}
-        },
-        "ratio": -1,
-        "paddings": {
-            "xs": {
-                "top": 0,
-                "left": 0,
-                "right": 0,
-                "bottom": 0
-            },
-            "md": {
-                "top": 0,
-                "left": 0,
-                "right": 0,
-                "bottom": 0
-            }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {},
-        "new": false
-    },
     "columns": [
         {
-            "uniqueId": 6879982149,
-            "wwVersion": 3,
+            "new": false,
+            "anim": {},
+            "data": {},
+            "link": {
+                "data": {},
+                "type": "none"
+            },
+            "tags": [],
+            "ratio": -1,
+            "hidden": false,
             "content": {
-                "type": "ww-columns",
                 "data": {
                     "config": {
-                        "count": 2,
-                        "xs": {
-                            "height": 0,
-                            "ignore": false,
-                            "cols": [
-                                {
-                                    "offset": "5",
-                                    "width": "90",
-                                    "borders": [
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        }
-                                    ],
-                                    "align": "1"
-                                },
-                                {
-                                    "offset": "5",
-                                    "width": "90",
-                                    "borders": [
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        }
-                                    ],
-                                    "align": "1"
-                                }
-                            ],
-                            "unit": "%"
-                        },
-                        "sm": {
-                            "ignore": true,
+                        "lg": {
                             "cols": null,
+                            "unit": "%",
                             "height": 0,
-                            "unit": "%"
+                            "ignore": true
                         },
                         "md": {
-                            "ignore": false,
                             "cols": [
                                 {
                                     "align": "1",
@@ -182,21 +77,659 @@
                                     ]
                                 }
                             ],
+                            "unit": "%",
                             "height": 60,
-                            "unit": "%"
+                            "ignore": false
                         },
-                        "lg": {
-                            "ignore": true,
+                        "sm": {
                             "cols": null,
+                            "unit": "%",
                             "height": 0,
-                            "unit": "%"
+                            "ignore": true
                         },
+                        "xs": {
+                            "cols": [
+                                {
+                                    "align": "1",
+                                    "width": "90",
+                                    "offset": "5",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "align": "1",
+                                    "width": "90",
+                                    "offset": "5",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "unit": "%",
+                            "height": 0,
+                            "ignore": false
+                        },
+                        "count": 2,
                         "height": null
                     },
                     "columns": [
                         {
+                            "wwObjects": [
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": 56.25,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "style": {
+                                                "boxShadow": {
+                                                    "b": 0,
+                                                    "c": "",
+                                                    "s": 0,
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "borderColor": "#000000",
+                                                "borderStyle": "solid",
+                                                "borderWidth": 0,
+                                                "borderRadius": 0
+                                            },
+                                            "offset": 50,
+                                            "slides": [
+                                                {
+                                                    "img": {
+                                                        "new": false,
+                                                        "anim": {},
+                                                        "data": {},
+                                                        "link": {
+                                                            "data": {},
+                                                            "type": "none"
+                                                        },
+                                                        "tags": [],
+                                                        "ratio": -1,
+                                                        "hidden": false,
+                                                        "content": {
+                                                            "data": {
+                                                                "alt": "",
+                                                                "pos": {
+                                                                    "left": "0%",
+                                                                    "top": "0%",
+                                                                    "width": "100%",
+                                                                    "height": "100%"
+                                                                },
+                                                                "url": "https://cdn.weweb.app/public/images/no_image_selected.png",
+                                                                "crop": {
+                                                                    "cw": 99.85024335454885,
+                                                                    "ch": 99.58511388623822,
+                                                                    "cx": 0,
+                                                                    "cy": 0.2074430568808905
+                                                                },
+                                                                "zoom": 1,
+                                                                "hover": {
+                                                                    "name": "",
+                                                                    "options": {}
+                                                                },
+                                                                "style": {
+                                                                    "filter": null,
+                                                                    "overlay": null,
+                                                                    "boxShadow": {
+                                                                        "b": 0,
+                                                                        "c": "",
+                                                                        "s": 0,
+                                                                        "x": 0,
+                                                                        "y": 0
+                                                                    },
+                                                                    "borderColor": null,
+                                                                    "borderStyle": null,
+                                                                    "borderWidth": 0,
+                                                                    "borderRadius": 0
+                                                                },
+                                                                "imgSize": {
+                                                                    "h": 1080,
+                                                                    "w": 1920
+                                                                },
+                                                                "position": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "animation": {
+                                                                    "fn": null,
+                                                                    "delay": 0,
+                                                                    "scale": 1,
+                                                                    "rotate": 0,
+                                                                    "opacity": 1,
+                                                                    "duration": 0,
+                                                                    "translateX": 0,
+                                                                    "translateY": 0
+                                                                }
+                                                            },
+                                                            "type": "ww-image"
+                                                        },
+                                                        "children": {},
+                                                        "paddings": {
+                                                            "md": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            },
+                                                            "xs": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            }
+                                                        },
+                                                        "uniqueId": 10601938344,
+                                                        "wwVersion": 3
+                                                    },
+                                                    "uniqueId": 11272443670,
+                                                    "innerContent": [
+                                                        {
+                                                            "new": false,
+                                                            "anim": {},
+                                                            "data": {},
+                                                            "link": {
+                                                                "data": {},
+                                                                "type": "none"
+                                                            },
+                                                            "tags": [],
+                                                            "ratio": 56.25,
+                                                            "hidden": false,
+                                                            "content": {
+                                                                "data": {
+                                                                    "alt": "",
+                                                                    "pos": {
+                                                                        "top": "0%",
+                                                                        "left": "0%",
+                                                                        "width": "100%",
+                                                                        "height": "100%"
+                                                                    },
+                                                                    "url": "https://cdn.weweb.app/designs/7/sections/VecUUUky79sV8sMDmfNBXaJ30CZBG2Md.jpg",
+                                                                    "crop": "100px85p@0px8p",
+                                                                    "zoom": 1.0007990902664659,
+                                                                    "hover": {
+                                                                        "name": "",
+                                                                        "options": {}
+                                                                    },
+                                                                    "style": {
+                                                                        "filter": null,
+                                                                        "overlay": null,
+                                                                        "boxShadow": {
+                                                                            "b": 0,
+                                                                            "c": "",
+                                                                            "s": 0,
+                                                                            "x": 0,
+                                                                            "y": 0
+                                                                        },
+                                                                        "borderColor": null,
+                                                                        "borderStyle": null,
+                                                                        "borderWidth": 0,
+                                                                        "borderRadius": 0
+                                                                    },
+                                                                    "imgSize": {
+                                                                        "h": 1080,
+                                                                        "w": 1920
+                                                                    },
+                                                                    "position": {
+                                                                        "x": -5.551115123125783e-17,
+                                                                        "y": -0.35933470084693586
+                                                                    },
+                                                                    "animation": {
+                                                                        "fn": null,
+                                                                        "delay": 0,
+                                                                        "scale": 1,
+                                                                        "rotate": 0,
+                                                                        "opacity": 1,
+                                                                        "duration": 0,
+                                                                        "translateX": 0,
+                                                                        "translateY": 0
+                                                                    }
+                                                                },
+                                                                "type": "ww-image"
+                                                            },
+                                                            "children": {},
+                                                            "paddings": {
+                                                                "md": {
+                                                                    "top": 0,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                },
+                                                                "xs": {
+                                                                    "top": 0,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                }
+                                                            },
+                                                            "uniqueId": 1350018606,
+                                                            "wwVersion": 3
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "img": {
+                                                        "new": false,
+                                                        "anim": {},
+                                                        "data": {},
+                                                        "link": {
+                                                            "data": {},
+                                                            "type": "none"
+                                                        },
+                                                        "tags": [],
+                                                        "ratio": -1,
+                                                        "hidden": false,
+                                                        "content": {
+                                                            "data": {
+                                                                "alt": "",
+                                                                "pos": {
+                                                                    "left": "0%",
+                                                                    "top": "0%",
+                                                                    "width": "100%",
+                                                                    "height": "100%"
+                                                                },
+                                                                "url": "https://cdn.weweb.app/public/images/no_image_selected.png",
+                                                                "crop": {
+                                                                    "cw": 99.85024335454885,
+                                                                    "ch": 99.58511388623822,
+                                                                    "cx": 0,
+                                                                    "cy": 0.2074430568808905
+                                                                },
+                                                                "zoom": 1,
+                                                                "hover": {
+                                                                    "name": "",
+                                                                    "options": {}
+                                                                },
+                                                                "style": {
+                                                                    "filter": null,
+                                                                    "overlay": null,
+                                                                    "boxShadow": {
+                                                                        "b": 0,
+                                                                        "c": "",
+                                                                        "s": 0,
+                                                                        "x": 0,
+                                                                        "y": 0
+                                                                    },
+                                                                    "borderColor": null,
+                                                                    "borderStyle": null,
+                                                                    "borderWidth": 0,
+                                                                    "borderRadius": 0
+                                                                },
+                                                                "imgSize": {
+                                                                    "h": 1080,
+                                                                    "w": 1920
+                                                                },
+                                                                "position": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "animation": {
+                                                                    "fn": null,
+                                                                    "delay": 0,
+                                                                    "scale": 1,
+                                                                    "rotate": 0,
+                                                                    "opacity": 1,
+                                                                    "duration": 0,
+                                                                    "translateX": 0,
+                                                                    "translateY": 0
+                                                                }
+                                                            },
+                                                            "type": "ww-image"
+                                                        },
+                                                        "children": {},
+                                                        "paddings": {
+                                                            "md": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            },
+                                                            "xs": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            }
+                                                        },
+                                                        "uniqueId": 12369063666,
+                                                        "wwVersion": 3
+                                                    },
+                                                    "uniqueId": 3995024896,
+                                                    "innerContent": [
+                                                        {
+                                                            "new": false,
+                                                            "anim": {},
+                                                            "data": {},
+                                                            "link": {
+                                                                "data": {},
+                                                                "type": "none"
+                                                            },
+                                                            "tags": [],
+                                                            "ratio": -1,
+                                                            "hidden": false,
+                                                            "content": {
+                                                                "data": {
+                                                                    "alt": "",
+                                                                    "pos": {
+                                                                        "left": "0.08391929324220171%",
+                                                                        "top": "0.06455936667400519%",
+                                                                        "width": "99.9160807067578%",
+                                                                        "height": "99.935440633326%"
+                                                                    },
+                                                                    "url": "https://cdn.weweb.app/designs/7/sections/HvUEXyvpNdtg2XxW957NLLg3Rmwcr2hd.jpg",
+                                                                    "crop": {
+                                                                        "cw": 99.7664497360251,
+                                                                        "ch": 99.81265333813275,
+                                                                        "cx": 0,
+                                                                        "cy": 0
+                                                                    },
+                                                                    "zoom": 1,
+                                                                    "hover": {
+                                                                        "name": "",
+                                                                        "options": {}
+                                                                    },
+                                                                    "style": {
+                                                                        "filter": null,
+                                                                        "overlay": null,
+                                                                        "boxShadow": {
+                                                                            "b": 0,
+                                                                            "c": "",
+                                                                            "s": 0,
+                                                                            "x": 0,
+                                                                            "y": 0
+                                                                        },
+                                                                        "borderColor": null,
+                                                                        "borderStyle": null,
+                                                                        "borderWidth": 0,
+                                                                        "borderRadius": 0
+                                                                    },
+                                                                    "imgSize": {
+                                                                        "h": 1080,
+                                                                        "w": 1920
+                                                                    },
+                                                                    "position": {
+                                                                        "x": 0.08391929324220329,
+                                                                        "y": 0.12591335331569858
+                                                                    },
+                                                                    "animation": {
+                                                                        "fn": null,
+                                                                        "delay": 0,
+                                                                        "scale": 1,
+                                                                        "rotate": 0,
+                                                                        "opacity": 1,
+                                                                        "duration": 0,
+                                                                        "translateX": 0,
+                                                                        "translateY": 0
+                                                                    }
+                                                                },
+                                                                "type": "ww-image"
+                                                            },
+                                                            "children": {},
+                                                            "paddings": {
+                                                                "md": {
+                                                                    "top": 0,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                },
+                                                                "xs": {
+                                                                    "top": 0,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                }
+                                                            },
+                                                            "uniqueId": 11323307732,
+                                                            "wwVersion": 3
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "img": {
+                                                        "new": false,
+                                                        "anim": {},
+                                                        "data": {},
+                                                        "link": {
+                                                            "data": {},
+                                                            "type": "none"
+                                                        },
+                                                        "tags": [],
+                                                        "ratio": -1,
+                                                        "hidden": false,
+                                                        "content": {
+                                                            "data": {
+                                                                "alt": "",
+                                                                "pos": {},
+                                                                "url": "https://cdn.weweb.app/public/images/no_image_selected.png",
+                                                                "zoom": 1,
+                                                                "hover": {
+                                                                    "name": "",
+                                                                    "options": {}
+                                                                },
+                                                                "style": {
+                                                                    "filter": null,
+                                                                    "overlay": null,
+                                                                    "boxShadow": {
+                                                                        "b": 0,
+                                                                        "c": "",
+                                                                        "s": 0,
+                                                                        "x": 0,
+                                                                        "y": 0
+                                                                    },
+                                                                    "borderColor": null,
+                                                                    "borderStyle": null,
+                                                                    "borderWidth": 0,
+                                                                    "borderRadius": 0
+                                                                },
+                                                                "imgSize": {
+                                                                    "h": 1080,
+                                                                    "w": 1920
+                                                                },
+                                                                "position": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "animation": {
+                                                                    "fn": null,
+                                                                    "delay": 0,
+                                                                    "scale": 1,
+                                                                    "rotate": 0,
+                                                                    "opacity": 1,
+                                                                    "duration": 0,
+                                                                    "translateX": 0,
+                                                                    "translateY": 0
+                                                                }
+                                                            },
+                                                            "type": "ww-image"
+                                                        },
+                                                        "children": {},
+                                                        "paddings": {
+                                                            "md": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            },
+                                                            "xs": {
+                                                                "top": 0,
+                                                                "left": 0,
+                                                                "right": 0,
+                                                                "bottom": 0
+                                                            }
+                                                        },
+                                                        "uniqueId": 6529974616,
+                                                        "wwVersion": 3
+                                                    },
+                                                    "uniqueId": 679951822,
+                                                    "innerContent": [
+                                                        {
+                                                            "new": false,
+                                                            "anim": {},
+                                                            "data": {},
+                                                            "link": {
+                                                                "data": {},
+                                                                "type": "none"
+                                                            },
+                                                            "tags": [],
+                                                            "ratio": -1,
+                                                            "hidden": false,
+                                                            "content": {
+                                                                "data": {
+                                                                    "alt": "",
+                                                                    "pos": {
+                                                                        "left": "0%",
+                                                                        "top": "0%",
+                                                                        "width": "100%",
+                                                                        "height": "100%"
+                                                                    },
+                                                                    "url": "https://cdn.weweb.app/designs/7/sections/jG1QBqwfevxHNVPIcazCAphUa9YRUe5r.jpg",
+                                                                    "crop": {
+                                                                        "cw": 99.85024335454885,
+                                                                        "ch": 99.8771196854264,
+                                                                        "cx": 0,
+                                                                        "cy": 0.061440157286801744
+                                                                    },
+                                                                    "zoom": 1,
+                                                                    "hover": {
+                                                                        "name": "",
+                                                                        "options": {}
+                                                                    },
+                                                                    "style": {
+                                                                        "filter": null,
+                                                                        "overlay": null,
+                                                                        "boxShadow": {
+                                                                            "b": 0,
+                                                                            "c": "",
+                                                                            "s": 0,
+                                                                            "x": 0,
+                                                                            "y": 0
+                                                                        },
+                                                                        "borderColor": null,
+                                                                        "borderStyle": null,
+                                                                        "borderWidth": 0,
+                                                                        "borderRadius": 0
+                                                                    },
+                                                                    "imgSize": {
+                                                                        "h": 1080,
+                                                                        "w": 1920
+                                                                    },
+                                                                    "position": {
+                                                                        "x": 0,
+                                                                        "y": 0
+                                                                    },
+                                                                    "animation": {
+                                                                        "fn": null,
+                                                                        "delay": 0,
+                                                                        "scale": 1,
+                                                                        "rotate": 0,
+                                                                        "opacity": 1,
+                                                                        "duration": 0,
+                                                                        "translateX": 0,
+                                                                        "translateY": 0
+                                                                    }
+                                                                },
+                                                                "type": "ww-image"
+                                                            },
+                                                            "children": {},
+                                                            "paddings": {
+                                                                "md": {
+                                                                    "top": 0,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                },
+                                                                "xs": {
+                                                                    "top": 0,
+                                                                    "left": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0
+                                                                }
+                                                            },
+                                                            "uniqueId": 4837658264,
+                                                            "wwVersion": 3
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "duration": 3000,
+                                            "autoplay": true,
+                                            "dotPosition": "inside",
+                                            "activeDotColor": "#FFFFFF",
+                                            "dotsBorderColor": "#FFFFFF",
+                                            "intervalDelay": 3,
+                                            "navigationDots": false,
+                                            "overlap": false,
+                                            "animationDuration": 0.3
+                                        },
+                                        "type": "ww-slider"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "uniqueId": 7426442976,
+                                    "wwVersion": 3
+                                }
+                            ],
                             "background": {
-                                "uniqueId": 5379042438,
                                 "link": {
                                     "data": {},
                                     "type": "none"
@@ -227,915 +760,410 @@
                                         "right": 0,
                                         "bottom": 0
                                     }
-                                }
-                            },
-                            "wwObjects": [
-                                {
-                                    "uniqueId": 1317569604,
-                                    "wwVersion": 3,
-                                    "content": {
-                                        "type": "ww-slider",
-                                        "data": {
-                                            "slides": [
-                                                {
-                                                    "img": {
-                                                        "uniqueId": 12721825049,
-                                                        "wwVersion": 3,
-                                                        "content": {
-                                                            "type": "ww-image",
-                                                            "data": {
-                                                                "url": "https://cdn.weweb.app/public/images/no_image_selected.png",
-                                                                "alt": "",
-                                                                "position": {
-                                                                    "x": 0,
-                                                                    "y": 0
-                                                                },
-                                                                "pos": {
-                                                                    "left": "0%",
-                                                                    "top": "21.767200974878143%",
-                                                                    "width": "100%",
-                                                                    "height": "56.46559805024371%"
-                                                                },
-                                                                "zoom": 1,
-                                                                "style": {
-                                                                    "borderRadius": 0,
-                                                                    "borderWidth": 0,
-                                                                    "borderColor": null,
-                                                                    "borderStyle": null,
-                                                                    "overlay": null,
-                                                                    "filter": null,
-                                                                    "boxShadow": {
-                                                                        "x": 0,
-                                                                        "y": 0,
-                                                                        "b": 0,
-                                                                        "s": 0,
-                                                                        "c": ""
-                                                                    }
-                                                                },
-                                                                "animation": {
-                                                                    "duration": 0,
-                                                                    "delay": 0,
-                                                                    "fn": null,
-                                                                    "opacity": 1,
-                                                                    "scale": 1,
-                                                                    "translateX": 0,
-                                                                    "translateY": 0,
-                                                                    "rotate": 0
-                                                                },
-                                                                "imgSize": {
-                                                                    "w": 1920,
-                                                                    "h": 1080
-                                                                },
-                                                                "hover": {
-                                                                    "name": "",
-                                                                    "options": {}
-                                                                },
-                                                                "crop": "100px100p@0px0p"
-                                                            }
-                                                        },
-                                                        "link": {
-                                                            "type": "none",
-                                                            "data": {}
-                                                        },
-                                                        "ratio": -1,
-                                                        "paddings": {
-                                                            "xs": {
-                                                                "top": 0,
-                                                                "left": 0,
-                                                                "right": 0,
-                                                                "bottom": 0
-                                                            },
-                                                            "md": {
-                                                                "top": 0,
-                                                                "left": 0,
-                                                                "right": 0,
-                                                                "bottom": 0
-                                                            }
-                                                        },
-                                                        "hidden": false,
-                                                        "tags": [],
-                                                        "children": {},
-                                                        "data": {},
-                                                        "anim": {},
-                                                        "new": false
-                                                    },
-                                                    "innerContent": [
-                                                        {
-                                                            "uniqueId": 12080000567,
-                                                            "wwVersion": 3,
-                                                            "content": {
-                                                                "type": "ww-image",
-                                                                "data": {
-                                                                    "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/VecUUUky79sV8sMDmfNBXaJ30CZBG2Md.jpg",
-                                                                    "alt": "",
-                                                                    "position": {
-                                                                        "x": -5.551115123125783e-17,
-                                                                        "y": -0.35933470084693586
-                                                                    },
-                                                                    "pos": {
-                                                                        "left": "0%",
-                                                                        "top": "0%",
-                                                                        "width": "100%",
-                                                                        "height": "100%"
-                                                                    },
-                                                                    "zoom": 1.0007990902664659,
-                                                                    "style": {
-                                                                        "borderRadius": 0,
-                                                                        "borderWidth": 0,
-                                                                        "borderColor": null,
-                                                                        "borderStyle": null,
-                                                                        "overlay": null,
-                                                                        "filter": null,
-                                                                        "boxShadow": {
-                                                                            "x": 0,
-                                                                            "y": 0,
-                                                                            "b": 0,
-                                                                            "s": 0,
-                                                                            "c": ""
-                                                                        }
-                                                                    },
-                                                                    "animation": {
-                                                                        "duration": 0,
-                                                                        "delay": 0,
-                                                                        "fn": null,
-                                                                        "opacity": 1,
-                                                                        "scale": 1,
-                                                                        "translateX": 0,
-                                                                        "translateY": 0,
-                                                                        "rotate": 0
-                                                                    },
-                                                                    "imgSize": {
-                                                                        "w": 1920,
-                                                                        "h": 1080
-                                                                    },
-                                                                    "hover": {
-                                                                        "name": "",
-                                                                        "options": {}
-                                                                    },
-                                                                    "crop": "100px85p@0px8p"
-                                                                }
-                                                            },
-                                                            "link": {
-                                                                "type": "none",
-                                                                "data": {}
-                                                            },
-                                                            "ratio": 56.25,
-                                                            "paddings": {
-                                                                "xs": {
-                                                                    "top": 0,
-                                                                    "left": 0,
-                                                                    "right": 0,
-                                                                    "bottom": 0
-                                                                },
-                                                                "md": {
-                                                                    "top": 0,
-                                                                    "left": 0,
-                                                                    "right": 0,
-                                                                    "bottom": 0
-                                                                }
-                                                            },
-                                                            "hidden": false,
-                                                            "tags": [],
-                                                            "children": {},
-                                                            "data": {},
-                                                            "anim": {},
-                                                            "new": false
-                                                        }
-                                                    ],
-                                                    "uniqueId": 11272443670
-                                                },
-                                                {
-                                                    "img": {
-                                                        "uniqueId": 139816093,
-                                                        "wwVersion": 3,
-                                                        "content": {
-                                                            "type": "ww-image",
-                                                            "data": {
-                                                                "url": "https://cdn.weweb.app/public/images/no_image_selected.png",
-                                                                "alt": "",
-                                                                "position": {
-                                                                    "x": 0,
-                                                                    "y": 0
-                                                                },
-                                                                "pos": {
-                                                                    "left": "0%",
-                                                                    "top": "21.767200974878143%",
-                                                                    "width": "100%",
-                                                                    "height": "56.46559805024371%"
-                                                                },
-                                                                "zoom": 1,
-                                                                "style": {
-                                                                    "borderRadius": 0,
-                                                                    "borderWidth": 0,
-                                                                    "borderColor": null,
-                                                                    "borderStyle": null,
-                                                                    "overlay": null,
-                                                                    "filter": null,
-                                                                    "boxShadow": {
-                                                                        "x": 0,
-                                                                        "y": 0,
-                                                                        "b": 0,
-                                                                        "s": 0,
-                                                                        "c": ""
-                                                                    }
-                                                                },
-                                                                "animation": {
-                                                                    "duration": 0,
-                                                                    "delay": 0,
-                                                                    "fn": null,
-                                                                    "opacity": 1,
-                                                                    "scale": 1,
-                                                                    "translateX": 0,
-                                                                    "translateY": 0,
-                                                                    "rotate": 0
-                                                                },
-                                                                "imgSize": {
-                                                                    "w": 1920,
-                                                                    "h": 1080
-                                                                },
-                                                                "hover": {
-                                                                    "name": "",
-                                                                    "options": {}
-                                                                },
-                                                                "crop": "100px100p@0px0p"
-                                                            }
-                                                        },
-                                                        "link": {
-                                                            "type": "none",
-                                                            "data": {}
-                                                        },
-                                                        "ratio": -1,
-                                                        "paddings": {
-                                                            "xs": {
-                                                                "top": 0,
-                                                                "left": 0,
-                                                                "right": 0,
-                                                                "bottom": 0
-                                                            },
-                                                            "md": {
-                                                                "top": 0,
-                                                                "left": 0,
-                                                                "right": 0,
-                                                                "bottom": 0
-                                                            }
-                                                        },
-                                                        "hidden": false,
-                                                        "tags": [],
-                                                        "children": {},
-                                                        "data": {},
-                                                        "anim": {},
-                                                        "new": false
-                                                    },
-                                                    "innerContent": [
-                                                        {
-                                                            "uniqueId": 2978090359,
-                                                            "wwVersion": 3,
-                                                            "content": {
-                                                                "type": "ww-image",
-                                                                "data": {
-                                                                    "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/HvUEXyvpNdtg2XxW957NLLg3Rmwcr2hd.jpg",
-                                                                    "alt": "",
-                                                                    "position": {
-                                                                        "x": 0.08391929324220329,
-                                                                        "y": 0.12591335331569858
-                                                                    },
-                                                                    "pos": {
-                                                                        "left": "0.08391929324220171%",
-                                                                        "top": "0.09645942778799266%",
-                                                                        "width": "99.9160807067578%",
-                                                                        "height": "99.903540572212%"
-                                                                    },
-                                                                    "zoom": 1,
-                                                                    "style": {
-                                                                        "borderRadius": 0,
-                                                                        "borderWidth": 0,
-                                                                        "borderColor": null,
-                                                                        "borderStyle": null,
-                                                                        "overlay": null,
-                                                                        "filter": null,
-                                                                        "boxShadow": {
-                                                                            "x": 0,
-                                                                            "y": 0,
-                                                                            "b": 0,
-                                                                            "s": 0,
-                                                                            "c": ""
-                                                                        }
-                                                                    },
-                                                                    "animation": {
-                                                                        "duration": 0,
-                                                                        "delay": 0,
-                                                                        "fn": null,
-                                                                        "opacity": 1,
-                                                                        "scale": 1,
-                                                                        "translateX": 0,
-                                                                        "translateY": 0,
-                                                                        "rotate": 0
-                                                                    },
-                                                                    "imgSize": {
-                                                                        "w": 1920,
-                                                                        "h": 1080
-                                                                    },
-                                                                    "hover": {
-                                                                        "name": "",
-                                                                        "options": {}
-                                                                    },
-                                                                    "crop": "100px100p@0px0p"
-                                                                }
-                                                            },
-                                                            "link": {
-                                                                "type": "none",
-                                                                "data": {}
-                                                            },
-                                                            "ratio": -1,
-                                                            "paddings": {
-                                                                "xs": {
-                                                                    "top": 0,
-                                                                    "left": 0,
-                                                                    "right": 0,
-                                                                    "bottom": 0
-                                                                },
-                                                                "md": {
-                                                                    "top": 0,
-                                                                    "left": 0,
-                                                                    "right": 0,
-                                                                    "bottom": 0
-                                                                }
-                                                            },
-                                                            "hidden": false,
-                                                            "tags": [],
-                                                            "children": {},
-                                                            "data": {},
-                                                            "anim": {},
-                                                            "new": false
-                                                        }
-                                                    ],
-                                                    "uniqueId": 3995024896
-                                                },
-                                                {
-                                                    "img": {
-                                                        "uniqueId": 8302904761,
-                                                        "wwVersion": 3,
-                                                        "content": {
-                                                            "type": "ww-image",
-                                                            "data": {
-                                                                "url": "https://cdn.weweb.app/public/images/no_image_selected.png",
-                                                                "alt": "",
-                                                                "position": {
-                                                                    "x": 0,
-                                                                    "y": 0
-                                                                },
-                                                                "pos": {},
-                                                                "zoom": 1,
-                                                                "style": {
-                                                                    "borderRadius": 0,
-                                                                    "borderWidth": 0,
-                                                                    "borderColor": null,
-                                                                    "borderStyle": null,
-                                                                    "overlay": null,
-                                                                    "filter": null,
-                                                                    "boxShadow": {
-                                                                        "x": 0,
-                                                                        "y": 0,
-                                                                        "b": 0,
-                                                                        "s": 0,
-                                                                        "c": ""
-                                                                    }
-                                                                },
-                                                                "animation": {
-                                                                    "duration": 0,
-                                                                    "delay": 0,
-                                                                    "fn": null,
-                                                                    "opacity": 1,
-                                                                    "scale": 1,
-                                                                    "translateX": 0,
-                                                                    "translateY": 0,
-                                                                    "rotate": 0
-                                                                },
-                                                                "imgSize": {
-                                                                    "w": 1920,
-                                                                    "h": 1080
-                                                                },
-                                                                "hover": {
-                                                                    "name": "",
-                                                                    "options": {}
-                                                                }
-                                                            }
-                                                        },
-                                                        "link": {
-                                                            "type": "none",
-                                                            "data": {}
-                                                        },
-                                                        "ratio": -1,
-                                                        "paddings": {
-                                                            "xs": {
-                                                                "top": 0,
-                                                                "left": 0,
-                                                                "right": 0,
-                                                                "bottom": 0
-                                                            },
-                                                            "md": {
-                                                                "top": 0,
-                                                                "left": 0,
-                                                                "right": 0,
-                                                                "bottom": 0
-                                                            }
-                                                        },
-                                                        "hidden": false,
-                                                        "tags": [],
-                                                        "children": {},
-                                                        "data": {},
-                                                        "anim": {},
-                                                        "new": false
-                                                    },
-                                                    "innerContent": [
-                                                        {
-                                                            "uniqueId": 9534521978,
-                                                            "wwVersion": 3,
-                                                            "content": {
-                                                                "type": "ww-image",
-                                                                "data": {
-                                                                    "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/jG1QBqwfevxHNVPIcazCAphUa9YRUe5r.jpg",
-                                                                    "alt": "",
-                                                                    "position": {
-                                                                        "x": 0,
-                                                                        "y": 0
-                                                                    },
-                                                                    "pos": {
-                                                                        "left": "0%",
-                                                                        "top": "7.665050813258201%",
-                                                                        "width": "100%",
-                                                                        "height": "84.6698983734836%"
-                                                                    },
-                                                                    "zoom": 1,
-                                                                    "style": {
-                                                                        "borderRadius": 0,
-                                                                        "borderWidth": 0,
-                                                                        "borderColor": null,
-                                                                        "borderStyle": null,
-                                                                        "overlay": null,
-                                                                        "filter": null,
-                                                                        "boxShadow": {
-                                                                            "x": 0,
-                                                                            "y": 0,
-                                                                            "b": 0,
-                                                                            "s": 0,
-                                                                            "c": ""
-                                                                        }
-                                                                    },
-                                                                    "animation": {
-                                                                        "duration": 0,
-                                                                        "delay": 0,
-                                                                        "fn": null,
-                                                                        "opacity": 1,
-                                                                        "scale": 1,
-                                                                        "translateX": 0,
-                                                                        "translateY": 0,
-                                                                        "rotate": 0
-                                                                    },
-                                                                    "imgSize": {
-                                                                        "w": 1920,
-                                                                        "h": 1080
-                                                                    },
-                                                                    "hover": {
-                                                                        "name": "",
-                                                                        "options": {}
-                                                                    },
-                                                                    "crop": "100px100p@0px0p"
-                                                                }
-                                                            },
-                                                            "link": {
-                                                                "type": "none",
-                                                                "data": {}
-                                                            },
-                                                            "ratio": -1,
-                                                            "paddings": {
-                                                                "xs": {
-                                                                    "top": 0,
-                                                                    "left": 0,
-                                                                    "right": 0,
-                                                                    "bottom": 0
-                                                                },
-                                                                "md": {
-                                                                    "top": 0,
-                                                                    "left": 0,
-                                                                    "right": 0,
-                                                                    "bottom": 0
-                                                                }
-                                                            },
-                                                            "hidden": false,
-                                                            "tags": [],
-                                                            "children": {},
-                                                            "data": {},
-                                                            "anim": {},
-                                                            "new": false
-                                                        }
-                                                    ],
-                                                    "uniqueId": 679951822
-                                                }
-                                            ],
-                                            "duration": 3000,
-                                            "offset": 50,
-                                            "style": {
-                                                "borderRadius": 0,
-                                                "borderWidth": 0,
-                                                "borderColor": "#000000",
-                                                "borderStyle": "solid",
-                                                "boxShadow": {
-                                                    "x": 0,
-                                                    "y": 0,
-                                                    "b": 0,
-                                                    "s": 0,
-                                                    "c": ""
-                                                }
-                                            }
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": 56.25,
-                                    "paddings": {
-                                        "xs": {
-                                            "top": 30,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        },
-                                        "md": {
-                                            "top": 0,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        }
-                                    },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
-                                }
-                            ]
+                                },
+                                "uniqueId": 11835792812
+                            }
                         },
                         {
-                            "background": {
-                                "uniqueId": 7124470232,
-                                "wwVersion": 3,
-                                "content": {
-                                    "type": "ww-color",
-                                    "data": {
-                                        "backgroundColor": "transparent",
-                                        "style": {
-                                            "borderRadius": 0,
-                                            "borderWidth": 0,
-                                            "borderColor": null,
-                                            "borderStyle": null,
-                                            "boxShadow": {
-                                                "x": 0,
-                                                "y": 0,
-                                                "b": 0,
-                                                "s": 0,
-                                                "c": ""
-                                            }
-                                        },
-                                        "color": "white"
-                                    }
-                                },
-                                "link": {
-                                    "type": "none",
-                                    "data": {}
-                                },
-                                "ratio": -1,
-                                "paddings": {
-                                    "xs": {
-                                        "top": 0,
-                                        "left": 0,
-                                        "right": 0,
-                                        "bottom": 0
-                                    },
-                                    "md": {
-                                        "top": 0,
-                                        "left": 0,
-                                        "right": 0,
-                                        "bottom": 0
-                                    }
-                                },
-                                "hidden": false,
-                                "tags": [],
-                                "children": {},
-                                "data": {},
-                                "anim": {},
-                                "new": false
-                            },
                             "wwObjects": [
                                 {
-                                    "uniqueId": 3631413461,
-                                    "wwVersion": 3,
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
                                     "content": {
-                                        "type": "ww-text",
                                         "data": {
-                                            "text": {
-                                                "fr": "Nouveau texte",
-                                                "en": "<span style=\"font-size:1.5rem\"><span style=\"font-size:0.6rem\"><span style=\"font-size:2rem\"><font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 3rem;\"><b>Donec tempus</b></span></font></span></span></span>"
-                                            },
                                             "tag": "div",
-                                            "align": "",
                                             "font": "",
                                             "size": "",
+                                            "text": {
+                                                "en": "<span style=\"font-size:1.5rem\"><span style=\"font-size:0.6rem\"><span style=\"font-size:2rem\"><font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 3rem;\"><b>Donec tempus</b></span></font></span></span></span>",
+                                                "fr": "<span style=\"font-size:1.5rem\"><span style=\"font-size:0.6rem\"><span style=\"font-size:2rem\"><font color=\"#081359\" face=\"Nunito, Nunito\"><span style=\"font-size: 3rem;\"><b>Donec tempus</b></span></font></span></span></span>"
+                                            },
+                                            "align": "",
                                             "color": "",
                                             "classes": [],
                                             "children": []
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
-                                    "paddings": {
-                                        "xs": {
-                                            "top": 30,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
                                         },
+                                        "type": "ww-text"
+                                    },
+                                    "children": {},
+                                    "paddings": {
                                         "md": {
                                             "top": 0,
                                             "left": 0,
                                             "right": 0,
                                             "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
                                         }
                                     },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
+                                    "uniqueId": 10448476739,
+                                    "wwVersion": 3
                                 },
                                 {
-                                    "uniqueId": 13856281128,
-                                    "wwVersion": 3,
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
                                     "content": {
-                                        "type": "ww-text",
                                         "data": {
-                                            "text": {
-                                                "fr": "Nouveau texte",
-                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Vestibulum porttitor velit ac sollicitudin interdum. Sed viverra lacus a sem auctor, eget vulputate mauris dapibus </font>"
-                                            },
                                             "tag": "div",
-                                            "align": "",
                                             "font": "",
                                             "size": "",
+                                            "text": {
+                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Vestibulum porttitor velit ac sollicitudin interdum. Sed viverra lacus a sem auctor, eget vulputate mauris dapibus </font>",
+                                                "fr": "<font color=\"#454545\" face=\"Nunito, Nunito\">Vestibulum porttitor velit ac sollicitudin interdum. Sed viverra lacus a sem auctor, eget vulputate mauris dapibus </font>"
+                                            },
+                                            "align": "",
                                             "color": "",
                                             "classes": [],
                                             "children": []
-                                        }
+                                        },
+                                        "type": "ww-text"
                                     },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
+                                    "children": {},
                                     "paddings": {
+                                        "md": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
                                         "xs": {
                                             "top": 20,
                                             "left": 0,
                                             "right": 0,
                                             "bottom": 0
-                                        },
-                                        "md": {
-                                            "top": 30,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
                                         }
                                     },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
+                                    "uniqueId": 2538342867,
+                                    "wwVersion": 3
                                 },
                                 {
-                                    "uniqueId": 13531964313,
-                                    "wwVersion": 3,
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
                                     "content": {
-                                        "type": "ww-text",
                                         "data": {
-                                            "text": {
-                                                "fr": "Nouveau texte",
-                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Aenean ipsum velit, cursus sed commodo vitae, pellentesque vitae ante. Duis eget porta sem. Nam rhoncus suscipit porttitor </font>"
-                                            },
                                             "tag": "div",
-                                            "align": "",
                                             "font": "",
                                             "size": "",
+                                            "text": {
+                                                "en": "<font color=\"#454545\" face=\"Nunito, Nunito\">Aenean ipsum velit, cursus sed commodo vitae, pellentesque vitae ante. Duis eget porta sem. Nam rhoncus suscipit porttitor </font>",
+                                                "fr": "<font color=\"#454545\" face=\"Nunito, Nunito\">Aenean ipsum velit, cursus sed commodo vitae, pellentesque vitae ante. Duis eget porta sem. Nam rhoncus suscipit porttitor </font>"
+                                            },
+                                            "align": "",
                                             "color": "",
                                             "classes": [],
                                             "children": []
-                                        }
+                                        },
+                                        "type": "ww-text"
                                     },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
+                                    "children": {},
                                     "paddings": {
+                                        "md": {
+                                            "top": 10,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
                                         "xs": {
                                             "top": 10,
                                             "left": 0,
                                             "right": 0,
                                             "bottom": 0
+                                        }
+                                    },
+                                    "uniqueId": 9196878914,
+                                    "wwVersion": 3
+                                },
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "tag": "div",
+                                            "font": "",
+                                            "size": "",
+                                            "text": {
+                                                "en": "<span style=\"color: rgb(69, 69, 69); text-align: initial;\"><font face=\"Nunito, Nunito\">Curabitur nibh tellus, pretium in elementum eget, pretium quis enim. Phasellus ex neque, lobortis </font></span><br>",
+                                                "fr": "<span style=\"color: rgb(69, 69, 69); text-align: initial;\"><font face=\"Nunito, Nunito\">Curabitur nibh tellus, pretium in elementum eget, pretium quis enim. Phasellus ex neque, lobortis </font></span><br>"
+                                            },
+                                            "align": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
                                         },
+                                        "type": "ww-text"
+                                    },
+                                    "children": {},
+                                    "paddings": {
                                         "md": {
                                             "top": 10,
                                             "left": 0,
                                             "right": 0,
                                             "bottom": 0
-                                        }
-                                    },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
-                                },
-                                {
-                                    "uniqueId": 187716555,
-                                    "wwVersion": 3,
-                                    "content": {
-                                        "type": "ww-text",
-                                        "data": {
-                                            "text": {
-                                                "fr": "Nouveau texte",
-                                                "en": "<span style=\"color: rgb(69, 69, 69); text-align: initial;\"><font face=\"Nunito, Nunito\">Curabitur nibh tellus, pretium in elementum eget, pretium quis enim. Phasellus ex neque, lobortis </font></span><br>"
-                                            },
-                                            "tag": "div",
-                                            "align": "",
-                                            "font": "",
-                                            "size": "",
-                                            "color": "",
-                                            "classes": [],
-                                            "children": []
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
-                                    "paddings": {
+                                        },
                                         "xs": {
                                             "top": 10,
                                             "left": 0,
                                             "right": 0,
                                             "bottom": 0
-                                        },
-                                        "md": {
-                                            "top": 10,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
                                         }
                                     },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
+                                    "uniqueId": 4048443782,
+                                    "wwVersion": 3
                                 },
                                 {
-                                    "uniqueId": 11224783125,
-                                    "wwVersion": 3,
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
                                     "content": {
-                                        "type": "ww-button",
                                         "data": {
                                             "text": {
-                                                "uniqueId": 15299344405,
-                                                "wwVersion": 3,
+                                                "new": false,
+                                                "anim": {},
+                                                "data": {},
+                                                "link": {
+                                                    "data": {},
+                                                    "type": "none"
+                                                },
+                                                "tags": [],
+                                                "ratio": -1,
+                                                "hidden": false,
                                                 "content": {
-                                                    "type": "ww-text",
                                                     "data": {
-                                                        "text": {
-                                                            "fr": "Nouveau bouton",
-                                                            "en": "<font color=\"#081359\" face=\"Nunito, Nunito\">Learn More</font>"
-                                                        },
                                                         "tag": "div",
-                                                        "align": "",
                                                         "font": "",
                                                         "size": "",
+                                                        "text": {
+                                                            "en": "<font color=\"#081359\" face=\"Nunito, Nunito\">Learn More</font>",
+                                                            "fr": "<font color=\"#081359\" face=\"Nunito, Nunito\">Learn More</font>"
+                                                        },
+                                                        "align": "",
                                                         "color": "",
                                                         "classes": [],
                                                         "children": []
-                                                    }
-                                                },
-                                                "link": {
-                                                    "type": "none",
-                                                    "data": {}
-                                                },
-                                                "ratio": -1,
-                                                "paddings": {
-                                                    "xs": {
-                                                        "top": 0,
-                                                        "left": 20,
-                                                        "right": 20,
-                                                        "bottom": 0
                                                     },
+                                                    "type": "ww-text"
+                                                },
+                                                "children": {},
+                                                "paddings": {
                                                     "md": {
                                                         "top": 0,
                                                         "left": 26,
                                                         "right": 26,
                                                         "bottom": 0
+                                                    },
+                                                    "xs": {
+                                                        "top": 0,
+                                                        "left": 20,
+                                                        "right": 20,
+                                                        "bottom": 0
                                                     }
                                                 },
-                                                "hidden": false,
-                                                "tags": [],
-                                                "children": {},
-                                                "data": {},
-                                                "anim": {},
-                                                "new": false
+                                                "uniqueId": 6934491064,
+                                                "wwVersion": 3
                                             },
                                             "style": {
-                                                "backgroundColor": "#FFFFFF",
+                                                "justify": "flex-start",
+                                                "padding": 15,
                                                 "gradient": {},
-                                                "borderRadius": 50,
-                                                "borderWidth": 2,
+                                                "boxShadow": {
+                                                    "b": 0,
+                                                    "c": "",
+                                                    "s": 0,
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
                                                 "borderColor": "#081359",
                                                 "borderStyle": "solid",
-                                                "padding": 15,
-                                                "justify": "flex-start",
-                                                "boxShadow": {
-                                                    "x": 0,
-                                                    "y": 0,
-                                                    "b": 0,
-                                                    "s": 0,
-                                                    "c": ""
-                                                }
+                                                "borderWidth": 2,
+                                                "borderRadius": 50,
+                                                "backgroundColor": "#FFFFFF"
                                             },
                                             "fullWidth": false
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
-                                    "paddings": {
-                                        "xs": {
-                                            "top": 30,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
                                         },
+                                        "type": "ww-button"
+                                    },
+                                    "children": {},
+                                    "paddings": {
                                         "md": {
                                             "top": 30,
                                             "left": 0,
                                             "right": 0,
                                             "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
                                         }
                                     },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
+                                    "uniqueId": 6467988137,
+                                    "wwVersion": 3
                                 }
-                            ]
+                            ],
+                            "background": {
+                                "new": false,
+                                "anim": {},
+                                "data": {},
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "tags": [],
+                                "ratio": -1,
+                                "hidden": false,
+                                "content": {
+                                    "data": {
+                                        "color": "white",
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "children": {},
+                                "paddings": {
+                                    "md": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    },
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                },
+                                "uniqueId": 9052322849,
+                                "wwVersion": 3
+                            }
                         }
                     ]
-                }
-            },
-            "link": {
-                "type": "none",
-                "data": {}
-            },
-            "ratio": -1,
-            "paddings": {
-                "xs": {
-                    "top": 0,
-                    "left": 0,
-                    "right": 0,
-                    "bottom": 30
                 },
+                "type": "ww-columns"
+            },
+            "children": {},
+            "paddings": {
                 "md": {
                     "top": 150,
                     "left": 0,
                     "right": 0,
                     "bottom": 0
+                },
+                "xs": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 30
                 }
             },
-            "hidden": false,
-            "tags": [],
-            "children": {},
-            "data": {},
-            "anim": {},
-            "new": false
+            "uniqueId": 7874152670,
+            "wwVersion": 3
         }
-    ]
+    ],
+    "background": {
+        "new": false,
+        "anim": {},
+        "data": {},
+        "link": {
+            "data": {},
+            "type": "none"
+        },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+            "data": {
+                "color": "white",
+                "style": {
+                    "boxShadow": {
+                        "b": 0,
+                        "c": "",
+                        "s": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "borderColor": null,
+                    "borderStyle": null,
+                    "borderWidth": 0,
+                    "borderRadius": 0
+                },
+                "backgroundColor": "transparent"
+            },
+            "type": "ww-color"
+        },
+        "children": {},
+        "paddings": {
+            "md": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "xs": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            }
+        },
+        "uniqueId": 10885674272,
+        "wwVersion": 3
+    }
 }

@@ -1,154 +1,26 @@
 {
-    "background": {
-        "uniqueId": 9974783206,
-        "wwVersion": 3,
-        "content": {
-            "type": "ww-image",
-            "data": {
-                "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/7/sections/mDEVdGLeX3CfK5QopGIG34zTy17pqhIz.jpg",
-                "alt": "",
-                "position": {
-                    "x": 0,
-                    "y": 0
-                },
-                "pos": {
-                    "left": "0%",
-                    "top": "0%",
-                    "width": "100%",
-                    "height": "100%"
-                },
-                "zoom": 1,
-                "style": {
-                    "borderRadius": 0,
-                    "borderWidth": 0,
-                    "borderColor": null,
-                    "borderStyle": null,
-                    "overlay": null,
-                    "filter": null,
-                    "boxShadow": {
-                        "x": 0,
-                        "y": 0,
-                        "b": 0,
-                        "s": 0,
-                        "c": ""
-                    }
-                },
-                "animation": {
-                    "duration": 0,
-                    "delay": 0,
-                    "fn": null,
-                    "opacity": 1,
-                    "scale": 1,
-                    "translateX": 0,
-                    "translateY": 0,
-                    "rotate": 0
-                },
-                "imgSize": {
-                    "w": 1920,
-                    "h": 1080
-                },
-                "hover": {
-                    "name": "",
-                    "options": {}
-                },
-                "crop": "100px100p@0px0p"
-            }
-        },
-        "link": {
-            "type": "none",
-            "data": {}
-        },
-        "ratio": -1,
-        "paddings": {
-            "xs": {
-                "top": 0,
-                "left": 0,
-                "right": 0,
-                "bottom": 0
-            },
-            "md": {
-                "top": 0,
-                "left": 0,
-                "right": 0,
-                "bottom": 0
-            }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {
-            "isParallax": true,
-            "start": {
-                "o": 0,
-                "opacity": 1,
-                "scale": "1.3",
-                "x": 0,
-                "y": "-200",
-                "rotate": 0
-            },
-            "end": {
-                "o": 100,
-                "opacity": 1,
-                "scale": "1.3",
-                "x": 0,
-                "y": "200",
-                "rotate": 0
-            }
-        },
-        "new": false
-    },
     "columns": [
         {
-            "uniqueId": 14735533476,
-            "wwVersion": 3,
+            "new": false,
+            "anim": {},
+            "data": {},
+            "link": {
+                "data": {},
+                "type": "none"
+            },
+            "tags": [],
+            "ratio": -1,
+            "hidden": false,
             "content": {
-                "type": "ww-columns",
                 "data": {
                     "config": {
-                        "count": 1,
-                        "xs": {
-                            "height": 100,
-                            "ignore": false,
-                            "cols": [
-                                {
-                                    "offset": "5",
-                                    "width": "90",
-                                    "borders": [
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        },
-                                        {
-                                            "color": "#000000",
-                                            "style": "solid",
-                                            "width": 0
-                                        }
-                                    ],
-                                    "align": "2"
-                                }
-                            ],
-                            "unit": "%"
-                        },
-                        "sm": {
-                            "ignore": true,
+                        "lg": {
                             "cols": null,
+                            "unit": "%",
                             "height": 0,
-                            "unit": "%"
+                            "ignore": true
                         },
                         "md": {
-                            "ignore": false,
                             "cols": [
                                 {
                                     "align": "2",
@@ -178,21 +50,335 @@
                                     ]
                                 }
                             ],
+                            "unit": "%",
                             "height": 70,
-                            "unit": "%"
+                            "ignore": false
                         },
-                        "lg": {
-                            "ignore": true,
+                        "sm": {
                             "cols": null,
+                            "unit": "%",
                             "height": 0,
-                            "unit": "%"
+                            "ignore": true
                         },
+                        "xs": {
+                            "cols": [
+                                {
+                                    "align": "2",
+                                    "width": "90",
+                                    "offset": "5",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "unit": "%",
+                            "height": 100,
+                            "ignore": false
+                        },
+                        "count": 1,
                         "height": null
                     },
                     "columns": [
                         {
+                            "wwObjects": [
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "tag": "div",
+                                            "font": "",
+                                            "size": "",
+                                            "text": {
+                                                "en": "<span style=\"font-size:3rem\"><div style=\"text-align: right;\"><span style=\"text-align: initial;\"><font face=\"Nunito, Nunito\" color=\"#ffffff\"><b>Lorem et ipsum</b></font></span></div></span>",
+                                                "fr": "<span style=\"font-size:3rem\"><div style=\"text-align: right;\"><span style=\"text-align: initial;\"><font face=\"Nunito, Nunito\" color=\"#ffffff\"><b>Lorem et ipsum</b></font></span></div></span>"
+                                            },
+                                            "align": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        },
+                                        "type": "ww-text"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 20
+                                        }
+                                    },
+                                    "uniqueId": 4594298698,
+                                    "wwVersion": 3
+                                },
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "tag": "div",
+                                            "font": "",
+                                            "size": "",
+                                            "text": {
+                                                "en": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus vulputate feugiat. Phasellus tinciduninar&nbsp;</font><br></div>",
+                                                "fr": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus vulputate feugiat. Phasellus tinciduninar&nbsp;</font><br></div>"
+                                            },
+                                            "align": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        },
+                                        "type": "ww-text"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 50,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "uniqueId": 15204303816,
+                                    "wwVersion": 3
+                                },
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "tag": "div",
+                                            "font": "",
+                                            "size": "",
+                                            "text": {
+                                                "en": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">lacus vitae mi hendrerit ultricies. Donec finibus in libero ac dignissim. Etiam pretium, augue sit amet sollicitudin&nbsp;</font><br></div>",
+                                                "fr": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">lacus vitae mi hendrerit ultricies. Donec finibus in libero ac dignissim. Etiam pretium, augue sit amet sollicitudin&nbsp;</font><br></div>"
+                                            },
+                                            "align": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        },
+                                        "type": "ww-text"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 10,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 5,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "uniqueId": 12258094431,
+                                    "wwVersion": 3
+                                },
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "tag": "div",
+                                            "font": "",
+                                            "size": "",
+                                            "text": {
+                                                "en": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">accumsan, sem mi venenatis augue, at ultricies leo urna eu lacus. Sed vulputate pulvinar tincidunt.</font><br></div>",
+                                                "fr": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">accumsan, sem mi venenatis augue, at ultricies leo urna eu lacus. Sed vulputate pulvinar tincidunt.</font><br></div>"
+                                            },
+                                            "align": "",
+                                            "color": "",
+                                            "classes": [],
+                                            "children": []
+                                        },
+                                        "type": "ww-text"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 10,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 5,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "uniqueId": 2618952405,
+                                    "wwVersion": 3
+                                },
+                                {
+                                    "new": false,
+                                    "anim": {},
+                                    "data": {},
+                                    "link": {
+                                        "data": {},
+                                        "type": "none"
+                                    },
+                                    "tags": [],
+                                    "ratio": -1,
+                                    "hidden": false,
+                                    "content": {
+                                        "data": {
+                                            "text": {
+                                                "new": false,
+                                                "anim": {},
+                                                "data": {},
+                                                "link": {
+                                                    "data": {},
+                                                    "type": "none"
+                                                },
+                                                "tags": [],
+                                                "ratio": -1,
+                                                "hidden": false,
+                                                "content": {
+                                                    "data": {
+                                                        "tag": "div",
+                                                        "font": "",
+                                                        "size": "",
+                                                        "text": {
+                                                            "en": "<font face=\"Nunito, Nunito\" color=\"#ffffff\"><b>Learn More</b></font>",
+                                                            "fr": "<font face=\"Nunito, Nunito\" color=\"#ffffff\"><b>Learn More</b></font>"
+                                                        },
+                                                        "align": "",
+                                                        "color": "",
+                                                        "classes": [],
+                                                        "children": []
+                                                    },
+                                                    "type": "ww-text"
+                                                },
+                                                "children": {},
+                                                "paddings": {
+                                                    "md": {
+                                                        "top": 0,
+                                                        "left": 20,
+                                                        "right": 20,
+                                                        "bottom": 0
+                                                    },
+                                                    "xs": {
+                                                        "top": 0,
+                                                        "left": 20,
+                                                        "right": 20,
+                                                        "bottom": 0
+                                                    }
+                                                },
+                                                "uniqueId": 8334646421,
+                                                "wwVersion": 3
+                                            },
+                                            "style": {
+                                                "justify": "flex-end",
+                                                "padding": 10,
+                                                "gradient": {},
+                                                "boxShadow": {
+                                                    "b": 0,
+                                                    "c": "",
+                                                    "s": 0,
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "borderColor": "#FFFFFF",
+                                                "borderStyle": "solid",
+                                                "borderWidth": 2,
+                                                "borderRadius": 50,
+                                                "backgroundColor": "#FFFFFF00"
+                                            },
+                                            "fullWidth": false
+                                        },
+                                        "type": "ww-button"
+                                    },
+                                    "children": {},
+                                    "paddings": {
+                                        "md": {
+                                            "top": 30,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        },
+                                        "xs": {
+                                            "top": 20,
+                                            "left": 0,
+                                            "right": 0,
+                                            "bottom": 0
+                                        }
+                                    },
+                                    "uniqueId": 11019305136,
+                                    "wwVersion": 3
+                                }
+                            ],
                             "background": {
-                                "uniqueId": 12826225711,
                                 "link": {
                                     "data": {},
                                     "type": "none"
@@ -223,316 +409,135 @@
                                         "right": 0,
                                         "bottom": 0
                                     }
-                                }
-                            },
-                            "wwObjects": [
-                                {
-                                    "uniqueId": 12123192973,
-                                    "wwVersion": 3,
-                                    "content": {
-                                        "type": "ww-text",
-                                        "data": {
-                                            "text": {
-                                                "fr": "Nouveau texte",
-                                                "en": "<span style=\"font-size:3rem\"><div style=\"text-align: right;\"><span style=\"text-align: initial;\"><font face=\"Nunito, Nunito\" color=\"#ffffff\"><b>Lorem et ipsum</b></font></span></div></span>"
-                                            },
-                                            "tag": "div",
-                                            "align": "",
-                                            "font": "",
-                                            "size": "",
-                                            "color": "",
-                                            "classes": [],
-                                            "children": []
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
-                                    "paddings": {
-                                        "xs": {
-                                            "top": 0,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 20
-                                        },
-                                        "md": {
-                                            "top": 30,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        }
-                                    },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
                                 },
-                                {
-                                    "uniqueId": 5016107951,
-                                    "wwVersion": 3,
-                                    "content": {
-                                        "type": "ww-text",
-                                        "data": {
-                                            "text": {
-                                                "fr": "Nouveau texte",
-                                                "en": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus vulputate feugiat. Phasellus tinciduninar&nbsp;</font><br></div>"
-                                            },
-                                            "tag": "div",
-                                            "align": "",
-                                            "font": "",
-                                            "size": "",
-                                            "color": "",
-                                            "classes": [],
-                                            "children": []
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
-                                    "paddings": {
-                                        "xs": {
-                                            "top": 0,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        },
-                                        "md": {
-                                            "top": 50,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        }
-                                    },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
-                                },
-                                {
-                                    "uniqueId": 15064666361,
-                                    "wwVersion": 3,
-                                    "content": {
-                                        "type": "ww-text",
-                                        "data": {
-                                            "text": {
-                                                "fr": "Nouveau texte",
-                                                "en": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">lacus vitae mi hendrerit ultricies. Donec finibus in libero ac dignissim. Etiam pretium, augue sit amet sollicitudin&nbsp;</font><br></div>"
-                                            },
-                                            "tag": "div",
-                                            "align": "",
-                                            "font": "",
-                                            "size": "",
-                                            "color": "",
-                                            "classes": [],
-                                            "children": []
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
-                                    "paddings": {
-                                        "xs": {
-                                            "top": 5,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        },
-                                        "md": {
-                                            "top": 10,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        }
-                                    },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
-                                },
-                                {
-                                    "uniqueId": 10354587574,
-                                    "wwVersion": 3,
-                                    "content": {
-                                        "type": "ww-text",
-                                        "data": {
-                                            "text": {
-                                                "fr": "Nouveau texte",
-                                                "en": "<div style=\"text-align: right;\"><font color=\"#ffffff\" face=\"Nunito, Nunito\">accumsan, sem mi venenatis augue, at ultricies leo urna eu lacus. Sed vulputate pulvinar tincidunt.</font><br></div>"
-                                            },
-                                            "tag": "div",
-                                            "align": "",
-                                            "font": "",
-                                            "size": "",
-                                            "color": "",
-                                            "classes": [],
-                                            "children": []
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
-                                    "paddings": {
-                                        "xs": {
-                                            "top": 5,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        },
-                                        "md": {
-                                            "top": 10,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        }
-                                    },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
-                                },
-                                {
-                                    "uniqueId": 12648822641,
-                                    "wwVersion": 3,
-                                    "content": {
-                                        "type": "ww-button",
-                                        "data": {
-                                            "text": {
-                                                "uniqueId": 5019526829,
-                                                "wwVersion": 3,
-                                                "content": {
-                                                    "type": "ww-text",
-                                                    "data": {
-                                                        "text": {
-                                                            "fr": "Nouveau bouton",
-                                                            "en": "<font face=\"Nunito, Nunito\" color=\"#ffffff\"><b>Learn More</b></font>"
-                                                        },
-                                                        "tag": "div",
-                                                        "align": "",
-                                                        "font": "",
-                                                        "size": "",
-                                                        "color": "",
-                                                        "classes": [],
-                                                        "children": []
-                                                    }
-                                                },
-                                                "link": {
-                                                    "type": "none",
-                                                    "data": {}
-                                                },
-                                                "ratio": -1,
-                                                "paddings": {
-                                                    "xs": {
-                                                        "top": 0,
-                                                        "left": 20,
-                                                        "right": 20,
-                                                        "bottom": 0
-                                                    },
-                                                    "md": {
-                                                        "top": 0,
-                                                        "left": 20,
-                                                        "right": 20,
-                                                        "bottom": 0
-                                                    }
-                                                },
-                                                "hidden": false,
-                                                "tags": [],
-                                                "children": {},
-                                                "data": {},
-                                                "anim": {},
-                                                "new": false
-                                            },
-                                            "style": {
-                                                "backgroundColor": "#FFFFFF00",
-                                                "gradient": {},
-                                                "borderRadius": 50,
-                                                "borderWidth": 2,
-                                                "borderColor": "#FFFFFF",
-                                                "borderStyle": "solid",
-                                                "padding": 10,
-                                                "justify": "flex-end",
-                                                "boxShadow": {
-                                                    "x": 0,
-                                                    "y": 0,
-                                                    "b": 0,
-                                                    "s": 0,
-                                                    "c": ""
-                                                }
-                                            },
-                                            "fullWidth": false
-                                        }
-                                    },
-                                    "link": {
-                                        "type": "none",
-                                        "data": {}
-                                    },
-                                    "ratio": -1,
-                                    "paddings": {
-                                        "xs": {
-                                            "top": 20,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        },
-                                        "md": {
-                                            "top": 30,
-                                            "left": 0,
-                                            "right": 0,
-                                            "bottom": 0
-                                        }
-                                    },
-                                    "hidden": false,
-                                    "tags": [],
-                                    "children": {},
-                                    "data": {},
-                                    "anim": {},
-                                    "new": false
-                                }
-                            ]
+                                "uniqueId": 10273440962
+                            }
                         }
                     ]
-                }
-            },
-            "link": {
-                "type": "none",
-                "data": {}
-            },
-            "ratio": -1,
-            "paddings": {
-                "xs": {
-                    "top": 0,
-                    "left": 0,
-                    "right": 0,
-                    "bottom": 0
                 },
+                "type": "ww-columns"
+            },
+            "children": {},
+            "paddings": {
                 "md": {
                     "top": 0,
                     "left": 0,
                     "right": 0,
                     "bottom": 0
+                },
+                "xs": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
                 }
             },
-            "hidden": false,
-            "tags": [],
-            "children": {},
-            "data": {},
-            "anim": {},
-            "new": false
+            "uniqueId": 9983913072,
+            "wwVersion": 3
         }
-    ]
+    ],
+    "background": {
+        "new": false,
+        "anim": {
+            "end": {
+                "o": 100,
+                "x": 0,
+                "y": "200",
+                "scale": "1.3",
+                "rotate": 0,
+                "opacity": 1
+            },
+            "start": {
+                "o": 0,
+                "x": 0,
+                "y": "-200",
+                "scale": "1.3",
+                "rotate": 0,
+                "opacity": 1
+            },
+            "isParallax": true
+        },
+        "data": {},
+        "link": {
+            "data": {},
+            "type": "none"
+        },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+            "data": {
+                "alt": "",
+                "pos": {
+                    "left": "0%",
+                    "top": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                },
+                "url": "https://cdn.weweb.app/designs/7/sections/mDEVdGLeX3CfK5QopGIG34zTy17pqhIz.jpg",
+                "crop": {
+                    "cw": 99.94754198119473,
+                    "ch": 99.83955678503433,
+                    "cx": 0,
+                    "cy": 0.0802216074828277
+                },
+                "zoom": 1,
+                "hover": {
+                    "name": "",
+                    "options": {}
+                },
+                "style": {
+                    "filter": null,
+                    "overlay": null,
+                    "boxShadow": {
+                        "b": 0,
+                        "c": "",
+                        "s": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "borderColor": null,
+                    "borderStyle": null,
+                    "borderWidth": 0,
+                    "borderRadius": 0
+                },
+                "imgSize": {
+                    "h": 1080,
+                    "w": 1920
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "animation": {
+                    "fn": null,
+                    "delay": 0,
+                    "scale": 1,
+                    "rotate": 0,
+                    "opacity": 1,
+                    "duration": 0,
+                    "translateX": 0,
+                    "translateY": 0
+                }
+            },
+            "type": "ww-image"
+        },
+        "children": {},
+        "paddings": {
+            "md": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "xs": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            }
+        },
+        "uniqueId": 13629888916,
+        "wwVersion": 3
+    }
 }

@@ -10,6 +10,16 @@ module.exports = [
         }
     },
     {
+        name: 'emptySection',
+        category: 'Layout',
+        storeName: {
+            en: 'Empty section'
+        },
+        storeDesc: {
+            en: 'Section vide'
+        }
+    },
+    {
         name: 'grid',
         category: 'Mosaic',
         storeName: {

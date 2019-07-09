@@ -264,12 +264,17 @@
                                                                                             },
                                                                                             "pos": {
                                                                                                 "left": "9.954126397363384%",
-                                                                                                "top": "0%",
+                                                                                                "top": "50%",
                                                                                                 "width": "80.09174720527324%",
-                                                                                                "height": "100%"
+                                                                                                "height": "0%"
                                                                                             },
-                                                                                            "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/64/sections/2XY9TFwkH4aq8KIYVTptBWGptNhZd8IW.png",
-                                                                                            "crop": "100px100p@0px0p",
+                                                                                            "url": "https://cdn.weweb.app/designs/64/sections/2XY9TFwkH4aq8KIYVTptBWGptNhZd8IW.png",
+                                                                                            "crop": {
+                                                                                                "cw": 99.7913769699844,
+                                                                                                "ch": null,
+                                                                                                "cx": 0,
+                                                                                                "cy": 0
+                                                                                            },
                                                                                             "zoom": 0.8009174720527323,
                                                                                             "hover": {
                                                                                                 "name": "",
@@ -326,7 +331,7 @@
                                                                                             "bottom": 0
                                                                                         }
                                                                                     },
-                                                                                    "uniqueId": 7785296142,
+                                                                                    "uniqueId": 10160922786,
                                                                                     "wwVersion": 3
                                                                                 }
                                                                             ],
@@ -375,7 +380,7 @@
                                                                                         "bottom": 0
                                                                                     }
                                                                                 },
-                                                                                "uniqueId": 6052650219,
+                                                                                "uniqueId": 12282818500,
                                                                                 "wwVersion": 3
                                                                             }
                                                                         }
@@ -398,7 +403,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 14821241404,
+                                                            "uniqueId": 3796510584,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -419,7 +424,7 @@
                                                                     "size": "",
                                                                     "text": {
                                                                         "en": "<span style=\"font-size:3rem\"><div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); text-align: initial;\">Welcome To Your Fabulous Website</span></div></span>",
-                                                                        "fr": "Nouveau texte"
+                                                                        "fr": "<span style=\"font-size:3rem\"><div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); text-align: initial;\">Welcome To Your Fabulous Website</span></div></span>"
                                                                     },
                                                                     "align": "",
                                                                     "color": "",
@@ -443,7 +448,7 @@
                                                                     "bottom": 20
                                                                 }
                                                             },
-                                                            "uniqueId": 10825202232,
+                                                            "uniqueId": 1543949888,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -464,7 +469,7 @@
                                                                     "size": "",
                                                                     "text": {
                                                                         "en": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); text-align: initial;\">This section is called a \"landing section\". It is the first section seen by your visitors. A large picture, some text, your logo at the top and a call to action button at the bottom.t</span></div>",
-                                                                        "fr": "Nouveau texte"
+                                                                        "fr": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); text-align: initial;\">This section is called a \"landing section\". It is the first section seen by your visitors. A large picture, some text, your logo at the top and a call to action button at the bottom.t</span></div>"
                                                                     },
                                                                     "align": "",
                                                                     "color": "",
@@ -488,7 +493,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 3647778851,
+                                                            "uniqueId": 6109006319,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -509,7 +514,7 @@
                                                                     "size": "",
                                                                     "text": {
                                                                         "en": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); text-align: initial;\">Click on any object to edit</span></div>",
-                                                                        "fr": "Nouveau texte"
+                                                                        "fr": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); text-align: initial;\">Click on any object to edit</span></div>"
                                                                     },
                                                                     "align": "",
                                                                     "color": "",
@@ -533,7 +538,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 15520511276,
+                                                            "uniqueId": 644030422,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -567,7 +572,7 @@
                                                                                 "size": "",
                                                                                 "text": {
                                                                                     "en": "<font color=\"#ffffff\">Call to action</font>",
-                                                                                    "fr": "Nouveau bouton"
+                                                                                    "fr": "<font color=\"#ffffff\">Call to action</font>"
                                                                                 },
                                                                                 "align": "",
                                                                                 "color": "",
@@ -591,7 +596,7 @@
                                                                                 "bottom": 0
                                                                             }
                                                                         },
-                                                                        "uniqueId": 13723778026,
+                                                                        "uniqueId": 9658908792,
                                                                         "wwVersion": 3
                                                                     },
                                                                     "style": {
@@ -629,7 +634,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 5714608403,
+                                                            "uniqueId": 6365689867,
                                                             "wwVersion": 3
                                                         }
                                                     ],
@@ -678,7 +683,7 @@
                                                                 "bottom": 0
                                                             }
                                                         },
-                                                        "uniqueId": 1066800895,
+                                                        "uniqueId": 8121406057,
                                                         "wwVersion": 3
                                                     }
                                                 }
@@ -701,7 +706,7 @@
                                             "bottom": 0
                                         }
                                     },
-                                    "uniqueId": 5758653439,
+                                    "uniqueId": 4734273485,
                                     "wwVersion": 3
                                 }
                             ],
@@ -728,8 +733,13 @@
                                             "width": "100%",
                                             "height": "100%"
                                         },
-                                        "url": "https://wewebapp.s3.eu-west-3.amazonaws.com/designs/64/sections/6kvcWeseW6FE6QlxRYZjpCyhiDCsfO9Z.jpg",
-                                        "crop": "100px100p@0px0p",
+                                        "url": "https://cdn.weweb.app/designs/64/sections/6kvcWeseW6FE6QlxRYZjpCyhiDCsfO9Z.jpg",
+                                        "crop": {
+                                            "cw": 99.94753410283316,
+                                            "ch": 99.88764044943821,
+                                            "cx": 0,
+                                            "cy": 0.05617977528089568
+                                        },
                                         "zoom": 1,
                                         "hover": {
                                             "name": "",
@@ -786,7 +796,7 @@
                                         "bottom": 0
                                     }
                                 },
-                                "uniqueId": 10097344708,
+                                "uniqueId": 11174430340,
                                 "wwVersion": 3
                             }
                         }
@@ -809,7 +819,7 @@
                     "bottom": 0
                 }
             },
-            "uniqueId": 1131534431,
+            "uniqueId": 7322828837,
             "wwVersion": 3
         }
     ],
@@ -860,7 +870,7 @@
                 "bottom": 0
             }
         },
-        "uniqueId": 7952574554,
+        "uniqueId": 7454584322,
         "wwVersion": 3
     }
 }

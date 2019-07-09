@@ -1,0 +1,182 @@
+{
+    "columns": [
+        {
+            "uniqueId": 13507576541,
+            "wwVersion": 3,
+            "content": {
+                "type": "ww-columns",
+                "data": {
+                    "config": {
+                        "count": 1,
+                        "xs": {
+                            "height": "100",
+                            "ignore": false,
+                            "cols": [
+                                {
+                                    "offset": 0,
+                                    "order": 0,
+                                    "width": "100",
+                                    "borders": [
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        },
+                                        {
+                                            "color": "#000000",
+                                            "style": "solid",
+                                            "width": 0
+                                        }
+                                    ],
+                                    "align": "2"
+                                }
+                            ],
+                            "unit": "%"
+                        },
+                        "sm": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "md": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "lg": {
+                            "ignore": true,
+                            "cols": null,
+                            "height": 0,
+                            "unit": "%"
+                        },
+                        "height": null
+                    },
+                    "columns": [
+                        {
+                            "background": {
+                                "uniqueId": 13312042251,
+                                "link": {
+                                    "data": {},
+                                    "type": "none"
+                                },
+                                "content": {
+                                    "data": {
+                                        "style": {
+                                            "boxShadow": {
+                                                "b": 0,
+                                                "c": "",
+                                                "s": 0,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "borderColor": null,
+                                            "borderStyle": null,
+                                            "borderWidth": 0,
+                                            "borderRadius": 0
+                                        },
+                                        "backgroundColor": "transparent"
+                                    },
+                                    "type": "ww-color"
+                                },
+                                "paddings": {
+                                    "xs": {
+                                        "top": 0,
+                                        "left": 0,
+                                        "right": 0,
+                                        "bottom": 0
+                                    }
+                                }
+                            },
+                            "wwObjects": []
+                        }
+                    ]
+                }
+            },
+            "link": {
+                "type": "none",
+                "data": {}
+            },
+            "ratio": -1,
+            "paddings": {
+                "xs": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "md": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                }
+            },
+            "hidden": false,
+            "tags": [],
+            "children": {},
+            "data": {},
+            "anim": {}
+        }
+    ],
+    "background": {
+        "new": false,
+        "anim": {},
+        "data": {},
+        "link": {
+            "data": {},
+            "type": "none"
+        },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+            "data": {
+                "color": "white",
+                "style": {
+                    "boxShadow": {
+                        "b": 0,
+                        "c": "",
+                        "s": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "borderColor": null,
+                    "borderStyle": null,
+                    "borderWidth": 0,
+                    "borderRadius": 0
+                },
+                "backgroundColor": "transparent"
+            },
+            "type": "ww-color"
+        },
+        "children": {},
+        "paddings": {
+            "md": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "xs": {
+                "top": 0,
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            }
+        },
+        "uniqueId": 7988833869,
+        "wwVersion": 3
+    }
+}

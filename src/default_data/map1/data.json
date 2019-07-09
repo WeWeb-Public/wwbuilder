@@ -119,7 +119,7 @@
                                             "size": "",
                                             "text": {
                                                 "en": "<span style=\"font-size:1.5rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:3rem\"><span style=\"font-size:2rem\">This is the map &amp; text section</span></span></span></div></span>",
-                                                "fr": "Nouveau texte"
+                                                "fr": "<span style=\"font-size:1.5rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:3rem\"><span style=\"font-size:2rem\">This is the map &amp; text section</span></span></span></div></span>"
                                             },
                                             "align": "",
                                             "color": "",
@@ -143,7 +143,7 @@
                                             "bottom": 10
                                         }
                                     },
-                                    "uniqueId": 11002930481,
+                                    "uniqueId": 6707494270,
                                     "wwVersion": 3
                                 },
                                 {
@@ -164,7 +164,7 @@
                                             "size": "",
                                             "text": {
                                                 "en": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:1.5rem\"><span style=\"font-size:1rem\">Add your gps coordinates by hitting the pen</span></span></span></div>",
-                                                "fr": "Nouveau texte"
+                                                "fr": "<div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:1.5rem\"><span style=\"font-size:1rem\">Add your gps coordinates by hitting the pen</span></span></span></div>"
                                             },
                                             "align": "",
                                             "color": "",
@@ -188,7 +188,7 @@
                                             "bottom": 20
                                         }
                                     },
-                                    "uniqueId": 13515478075,
+                                    "uniqueId": 465365802,
                                     "wwVersion": 3
                                 },
                                 {
@@ -375,7 +375,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 10381330130,
+                                                            "uniqueId": 380835584,
                                                             "wwVersion": 3
                                                         }
                                                     ],
@@ -424,7 +424,7 @@
                                                                 "bottom": 0
                                                             }
                                                         },
-                                                        "uniqueId": 6401795296,
+                                                        "uniqueId": 2523643544,
                                                         "wwVersion": 3
                                                     }
                                                 },
@@ -448,7 +448,7 @@
                                                                     "size": "",
                                                                     "text": {
                                                                         "en": "Start editing by hitting the pen! Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit\n",
-                                                                        "fr": "Nouveau texte"
+                                                                        "fr": "Start editing by hitting the pen! Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit\n"
                                                                     },
                                                                     "align": "",
                                                                     "color": "",
@@ -472,7 +472,7 @@
                                                                     "bottom": 0
                                                                 }
                                                             },
-                                                            "uniqueId": 13943232856,
+                                                            "uniqueId": 1018793020,
                                                             "wwVersion": 3
                                                         },
                                                         {
@@ -506,7 +506,7 @@
                                                                                 "size": "",
                                                                                 "text": {
                                                                                     "en": "<font color=\"#ffffff\">Call to action</font>",
-                                                                                    "fr": "Nouveau bouton"
+                                                                                    "fr": "<font color=\"#ffffff\">Call to action</font>"
                                                                                 },
                                                                                 "align": "",
                                                                                 "color": "",
@@ -530,7 +530,7 @@
                                                                                 "bottom": 0
                                                                             }
                                                                         },
-                                                                        "uniqueId": 11231750776,
+                                                                        "uniqueId": 11031454872,
                                                                         "wwVersion": 3
                                                                     },
                                                                     "style": {
@@ -568,7 +568,7 @@
                                                                     "bottom": 30
                                                                 }
                                                             },
-                                                            "uniqueId": 9576433145,
+                                                            "uniqueId": 1051365603,
                                                             "wwVersion": 3
                                                         }
                                                     ],
@@ -617,7 +617,7 @@
                                                                 "bottom": 0
                                                             }
                                                         },
-                                                        "uniqueId": 7199899692,
+                                                        "uniqueId": 14026140104,
                                                         "wwVersion": 3
                                                     }
                                                 }
@@ -640,7 +640,7 @@
                                             "bottom": 0
                                         }
                                     },
-                                    "uniqueId": 9964133342,
+                                    "uniqueId": 1242650113,
                                     "wwVersion": 3
                                 }
                             ],
@@ -689,7 +689,7 @@
                                         "bottom": 0
                                     }
                                 },
-                                "uniqueId": 10097344708,
+                                "uniqueId": 857898998,
                                 "wwVersion": 3
                             }
                         }
@@ -712,7 +712,7 @@
                     "bottom": 0
                 }
             },
-            "uniqueId": 1131534431,
+            "uniqueId": 12975077142,
             "wwVersion": 3
         }
     ],
@@ -763,7 +763,7 @@
                 "bottom": 0
             }
         },
-        "uniqueId": 7952574554,
+        "uniqueId": 13415968255,
         "wwVersion": 3
     }
 }
