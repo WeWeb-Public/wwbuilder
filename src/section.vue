@@ -1,7 +1,7 @@
 <template>
     <div class="wwbuilder">
         <!-- wwManager:start -->
-        <wwSectionEditMenu></wwSectionEditMenu>
+        <wwSectionEditMenu :sectionCtrl="sectionCtrl" :options="congifCards"></wwSectionEditMenu>
         <!-- wwManager:end -->
         <wwObject :ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
@@ -18,7 +18,9 @@ export default {
     },
     data() {
         return {
-
+        section() {
+            return this.sectionCtrl.get();
+        }
         }
     },
     computed: {

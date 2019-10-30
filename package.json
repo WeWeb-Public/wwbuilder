@@ -1,28 +1,28 @@
 {
-    "name": "wwbuilder",
-    "type": "section",
-    "wewebPublic": "true",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/WeWeb-Public/wwbuilder"
-    },
-    "version": "0.0.23",
-    "private": true,
-    "scripts": {
-        "build": "weweb-build",
-        "serve-manager": "weweb-serve-manager",
-        "serve": "weweb-serve",
-        "upload": "weweb-upload"
-    },
-    "dependencies": {
-        "vue": "^2.6.10"
-    },
-    "devDependencies": {
-        "weweb-client": "^1.0.50"
-    },
-    "browserslist": [
-        "> 1%",
-        "last 2 versions",
-        "not ie <= 8"
-    ]
+  "name": "wwbuilder",
+  "type": "section",
+  "wewebPublic": "true",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WeWeb-Public/wwbuilder"
+  },
+  "version": "0.0.25",
+  "private": true,
+  "scripts": {
+    "build": "weweb-build",
+    "serve-manager": "weweb-serve-manager",
+    "serve": "weweb-serve",
+    "upload": "weweb-upload"
+  },
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "weweb-client": "^1.0.50"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
 }
