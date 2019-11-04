@@ -15,15 +15,16 @@
 export default {
     name: "__COMPONENT_NAME__",
     props: {
+        sectionCtrl: Object
     },
     data() {
         return {
-        section() {
-            return this.sectionCtrl.get();
-        }
         }
     },
     computed: {
+        section() {
+            return this.sectionCtrl.get();
+        }
     },
     watch: {
     },
