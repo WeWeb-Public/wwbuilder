@@ -40,6 +40,10 @@ export default {
                 this.section.data.columns = [];
                 needUpdate = true;
             }
+
+            if (needUpdate) {
+                this.sectionCtrl.update(this.section);
+            }
         },
         add(options) {
             if (_.isEmpty(this.section.data.columns)) {
@@ -47,6 +51,8 @@ export default {
             }
 
             this.section.data.columns.splice(options.index, 0, options.wwObject);
+
+            this.sectionCtrl.update(this.section);
         },
         remove(options) {
             if (_.isEmpty(this.section.data.columns)) {
@@ -54,6 +60,8 @@ export default {
             }
 
             this.section.data.columns.splice(options.index, 1);
+
+            this.sectionCtrl.update(this.section);
         }
     },
     beforeDestroy() {
