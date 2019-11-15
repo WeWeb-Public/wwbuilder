@@ -1,13 +1,13 @@
 <template>
     <div class="wwbuilder">
         <!-- wwManager:start -->
-        <wwSectionEditMenu :sectionCtrl="sectionCtrl" :options="congifCards"></wwSectionEditMenu>
+        <wwSectionEditMenu></wwSectionEditMenu>
         <!-- wwManager:end -->
-        <wwObject :ww-object="section.data.background" class="background" ww-category="background"></wwObject>
+        <wwObject :ww-object="wwSection.data.background" class="background" ww-category="background"></wwObject>
 
-        <wwLayoutColumn tag="div" ww-default="ww-columns" :ww-list="section.data.columns" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
-            <wwObject v-for="columns in section.data.columns" :key="columns.uniqueId" :ww-object="columns"></wwObject>
-        </wwLayoutColumn>
+        <!-- <wwLayoutColumn tag="div" ww-default="ww-columns" :ww-list="wwSection.data.columns" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)"> -->
+        <!-- <wwObject v-for="columns in wwSection.data.columns" :key="columns.uniqueId" :ww-object="columns"></wwObject> -->
+        <!-- </wwLayoutColumn> -->
     </div>
 </template>
 
@@ -15,32 +15,23 @@
 export default {
     name: "__COMPONENT_NAME__",
     props: {
-        sectionCtrl: Object
     },
     data() {
         return {
         }
     },
     computed: {
-        section() {
-            return this.sectionCtrl.get();
-        }
     },
     watch: {
     },
     methods: {
-        initData() {
-            //Init objects
-            let needUpdate = false;
-            if (!this.section.data.background) {
-                this.section.data.background = wwLib.wwObject.getDefault({ type: 'ww-color', data: { color: 'white' } });
-                needUpdate = true;
-            }
-            if (_.isEmpty(this.section.data.columns)) {
-                this.section.data.columns = [];
-                needUpdate = true;
+        wwData() {
+            return {
+                background: wwLib.wwObject.getDefault({ type: 'ww-color', data: { backgroundColor: 'transparent' } }),
+                columns: []
             }
         },
+        /* wwManager:start */
         add(options) {
             if (_.isEmpty(this.section.data.columns)) {
                 this.section.data.columns = [];
@@ -55,14 +46,12 @@ export default {
 
             this.section.data.columns.splice(options.index, 1);
         }
+        /* wwManager:end */
     },
     beforeDestroy() {
-
-    },
-    created() {
-        this.initData();
     },
     mounted() {
+        // console.log(this.wwSection.data.background);
     }
 };
 </script>
