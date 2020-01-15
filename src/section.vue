@@ -5,9 +5,9 @@
         <!-- wwManager:end -->
         <wwObject :ww-object="wwSection.data.background" class="background" ww-category="background"></wwObject>
 
-        <!-- <wwLayoutColumn tag="div" ww-default="ww-columns" :ww-list="wwSection.data.columns" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)"> -->
-        <!-- <wwObject v-for="columns in wwSection.data.columns" :key="columns.uniqueId" :ww-object="columns"></wwObject> -->
-        <!-- </wwLayoutColumn> -->
+        <wwLayoutColumn tag="div" ww-default="ww-columns" :ww-list="wwSection.data.columns" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
+            <wwObject v-for="columns in wwSection.data.columns" :key="columns.uniqueId" :ww-object="columns"></wwObject>
+        </wwLayoutColumn>
     </div>
 </template>
 
@@ -33,25 +33,24 @@ export default {
         },
         /* wwManager:start */
         add(options) {
-            if (_.isEmpty(this.section.data.columns)) {
-                this.section.data.columns = [];
+            if (_.isEmpty(this.wwSection.data.columns)) {
+                this.wwSection.data.columns = [];
             }
 
-            this.section.data.columns.splice(options.index, 0, options.wwObject);
+            this.wwSection.data.columns.splice(options.index, 0, options.wwObject);
         },
         remove(options) {
-            if (_.isEmpty(this.section.data.columns)) {
-                this.section.data.columns = [];
+            if (_.isEmpty(this.wwSection.data.columns)) {
+                this.wwSection.data.columns = [];
             }
 
-            this.section.data.columns.splice(options.index, 1);
+            this.wwSection.data.columns.splice(options.index, 1);
         }
         /* wwManager:end */
     },
     beforeDestroy() {
     },
     mounted() {
-        // console.log(this.wwSection.data.background);
     }
 };
 </script>
