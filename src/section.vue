@@ -1,7 +1,7 @@
 <template>
     <div class="wwbuilder">
         <!-- wwManager:start -->
-        <wwSectionEditMenu :sectionCtrl="sectionCtrl" :options="congifCards"></wwSectionEditMenu>
+        <wwSectionEditMenu :sectionCtrl="sectionCtrl"></wwSectionEditMenu>
         <!-- wwManager:end -->
         <wwObject :ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
@@ -13,20 +13,17 @@
 
 <script>
 export default {
-    name: "__COMPONENT_NAME__",
+    name: '__COMPONENT_NAME__',
     props: {
         sectionCtrl: Object
     },
     data() {
-        return {
-        }
+        return {};
     },
     computed: {
         section() {
             return this.sectionCtrl.get();
         }
-    },
-    watch: {
     },
     methods: {
         initData() {
@@ -45,6 +42,7 @@ export default {
                 this.sectionCtrl.update(this.section);
             }
         },
+        /* wwManager:start */
         add(options) {
             if (_.isEmpty(this.section.data.columns)) {
                 this.section.data.columns = [];
@@ -63,33 +61,27 @@ export default {
 
             this.sectionCtrl.update(this.section);
         }
-    },
-    beforeDestroy() {
-
+        /* wwManager:end */
     },
     created() {
         this.initData();
-    },
-    mounted() {
     }
 };
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .wwbuilder {
     position: relative;
     min-height: 60px;
-}
-
-.wwbuilder .background {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-}
-
-.wwobjects-wrapper {
-    min-height: 100%;
+    .background {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+    }
+    .wwobjects-wrapper {
+        min-height: 100%;
+    }
 }
 </style>

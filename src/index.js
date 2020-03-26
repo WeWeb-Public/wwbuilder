@@ -1,11 +1,10 @@
-import section from './section.vue'
+import section from './section.vue';
 
-const name = "__NAME__";
+const name = '__NAME__';
 const version = '__VERSION__';
 
-const addComponent = function () {
+const addComponent = function() {
     if (window.vm) {
-
         window.vm.addComponent({
             name: name,
             version: version,
@@ -15,10 +14,10 @@ const addComponent = function () {
         return true;
     }
     return false;
-}
+};
 
 if (!addComponent()) {
-    const iniInterval = setInterval(function () {
+    const iniInterval = setInterval(function() {
         if (addComponent()) {
             clearInterval(iniInterval);
         }
