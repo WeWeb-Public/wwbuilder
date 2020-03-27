@@ -139,4 +139,4 @@ module.exports = [
             en: 'to end the page'
         }
     }
-]
+];
