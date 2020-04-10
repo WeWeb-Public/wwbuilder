@@ -6,16 +6,18 @@
         "type": "git",
         "url": "https://github.com/WeWeb-Public/wwbuilder"
     },
-    "version": "0.0.34",
+    "version": "0.0.35",
     "private": true,
     "scripts": {
         "build": "weweb-build",
         "serve": "weweb-serve",
-        "upload": "weweb-upload"
+        "create-config": "weweb-config"
     },
-    "dependencies": {},
+    "dependencies": {
+        "vue": "^2.6.11"
+    },
     "devDependencies": {
-        "weweb-client": "^1.0.50"
+        "weweb-client": "^1.1.3"
     },
     "browserslist": [
         "> 1%",
