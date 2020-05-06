@@ -3,7 +3,7 @@
         <!-- wwManager:start -->
         <wwSectionEditMenu :sectionCtrl="sectionCtrl"></wwSectionEditMenu>
         <!-- wwManager:end -->
-        Coucou !
+        <wwObject :ww-object="section.data.background" class="background" ww-category="background"></wwObject>
 
         <wwLayoutColumn tag="div" ww-default="ww-columns" :ww-list="section.data.columns" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
             <wwObject v-for="columns in section.data.columns" :key="columns.uniqueId" :ww-object="columns"></wwObject>
@@ -13,7 +13,7 @@
 
 <script>
 export default {
-    name: '__COMPONENT_NAME__',
+    name: "__COMPONENT_NAME__",
     props: {
         sectionCtrl: Object
     },
@@ -30,7 +30,7 @@ export default {
             //Init objects
             let needUpdate = false;
             if (!this.section.data.background) {
-                this.section.data.background = wwLib.wwObject.getDefault({ type: 'ww-color', data: { color: 'white' } });
+                this.section.data.background = wwLib.wwObject.getDefault({ type: "ww-color", data: { color: "white" } });
                 needUpdate = true;
             }
             if (_.isEmpty(this.section.data.columns)) {
