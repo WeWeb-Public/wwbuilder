@@ -3,7 +3,7 @@
         <!-- wwManager:start -->
         <wwSectionEditMenu :sectionCtrl="sectionCtrl"></wwSectionEditMenu>
         <!-- wwManager:end -->
-        <wwObject :ww-object="section.data.background" class="background" ww-category="background"></wwObject>
+        Coucou !
 
         <wwLayoutColumn tag="div" ww-default="ww-columns" :ww-list="section.data.columns" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
             <wwObject v-for="columns in section.data.columns" :key="columns.uniqueId" :ww-object="columns"></wwObject>
