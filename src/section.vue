@@ -1,13 +1,7 @@
 <template>
     <div class="wwbuilder">
-        <!-- wwManager:start -->
-        <wwSectionEditMenu :sectionCtrl="sectionCtrl"></wwSectionEditMenu>
-        <!-- wwManager:end -->
-        <wwObject :ww-object="section.data.background" class="background" ww-category="background"></wwObject>
-
-        <wwLayoutColumn tag="div" ww-default="ww-columns" :ww-list="section.data.columns" class="wwobjects-wrapper" @ww-add="add($event)" @ww-remove="remove($event)">
-            <wwObject v-for="columns in section.data.columns" :key="columns.uniqueId" :ww-object="columns"></wwObject>
-        </wwLayoutColumn>
+        <wwObject v-if="content.background" :ww-object="content.background" class="background" ww-category="background"></wwObject>
+        <wwLayout path="columns" />
     </div>
 </template>
 
@@ -15,56 +9,16 @@
 export default {
     name: "__COMPONENT_NAME__",
     props: {
-        sectionCtrl: Object
+        uid: String,
+        content: Object,
     },
-    data() {
-        return {};
-    },
-    computed: {
-        section() {
-            return this.sectionCtrl.get();
-        }
-    },
-    methods: {
-        initData() {
-            //Init objects
-            let needUpdate = false;
-            if (!this.section.data.background) {
-                this.section.data.background = wwLib.wwObject.getDefault({ type: "ww-color", data: { color: "white" } });
-                needUpdate = true;
-            }
-            if (_.isEmpty(this.section.data.columns)) {
-                this.section.data.columns = [];
-                needUpdate = true;
-            }
-
-            if (needUpdate) {
-                this.sectionCtrl.update(this.section);
-            }
-        },
-        /* wwManager:start */
-        add(options) {
-            if (_.isEmpty(this.section.data.columns)) {
-                this.section.data.columns = [];
-            }
-
-            this.section.data.columns.splice(options.index, 0, options.wwObject);
-
-            this.sectionCtrl.update(this.section);
-        },
-        remove(options) {
-            if (_.isEmpty(this.section.data.columns)) {
-                this.section.data.columns = [];
-            }
-
-            this.section.data.columns.splice(options.index, 1);
-
-            this.sectionCtrl.update(this.section);
-        }
-        /* wwManager:end */
+    wwDefaultContent: {
+        columns: [],
+        background: { isWwObject: true, type: "ww-color", content: { backgroundColor: "blue" } }
     },
     created() {
-        this.initData();
+        //TODO : To be removed
+        this.$emit('update', {columns: []});
     }
 };
 </script>
