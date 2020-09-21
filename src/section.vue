@@ -16,10 +16,6 @@ export default {
         columns: [],
         background: { isWwObject: true, type: "ww-color", content: { backgroundColor: "blue" } }
     },
-    created() {
-        //TODO : To be removed
-        this.$emit('update', {columns: []});
-    }
 };
 </script>
 
