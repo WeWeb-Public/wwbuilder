@@ -1,6 +1,6 @@
 <template>
     <div class="wwbuilder">
-        <wwObject v-if="content.background" :ww-object="content.background" class="background" ww-category="background"></wwObject>
+        <wwObject v-if="content.background" isBackground v-bind="content.background" class="background"></wwObject>
         <wwLayout path="columns" />
     </div>
 </template>
