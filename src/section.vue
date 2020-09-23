@@ -12,9 +12,11 @@ export default {
         uid: String,
         content: Object,
     },
-    wwDefaultContent: {
-        columns: [],
-        background: { isWwObject: true, type: "ww-color", content: { backgroundColor: "blue" } }
+    wwDefaultContent() {
+        return {
+            background: { isWwObject: true, type: "ww-color" },
+            columns: [],
+        };
     },
 };
 </script>
