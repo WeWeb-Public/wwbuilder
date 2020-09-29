@@ -1,21 +1,25 @@
 <template>
     <div class="wwbuilder">
         <wwObject v-if="content.background" isBackground v-bind="content.background" class="background"></wwObject>
-        <wwLayout path="columns" />
+        <wwLayout path="columns" :options="{ direction: 'column' }" />
     </div>
 </template>
 
 <script>
 export default {
-    name: "__COMPONENT_NAME__",
+    name: '__COMPONENT_NAME__',
     props: {
         uid: String,
         content: Object,
     },
     wwDefaultContent() {
         return {
-            background: { isWwObject: true, type: "ww-color" },
-            columns: [],
+            background: { isWwObject: true, type: 'ww-color' },
+            columns: [
+                { isWwObject: true, type: 'ww-color', content: { backgroundColor: 'red' } },
+                { isWwObject: true, type: 'ww-color', content: { backgroundColor: 'purple' } },
+                { isWwObject: true, type: 'ww-color', content: { backgroundColor: 'orange' } },
+            ],
         };
     },
 };
