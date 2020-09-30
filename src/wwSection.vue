@@ -15,11 +15,7 @@ export default {
     wwDefaultContent() {
         return {
             background: { isWwObject: true, type: 'ww-color' },
-            columns: [
-                { isWwObject: true, type: 'ww-color', content: { backgroundColor: 'red' } },
-                { isWwObject: true, type: 'ww-color', content: { backgroundColor: 'purple' } },
-                { isWwObject: true, type: 'ww-color', content: { backgroundColor: 'orange' } },
-            ],
+            columns: [],
         };
     },
 };
